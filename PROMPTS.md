@@ -4,7 +4,7 @@ A one-page tool for [looksmaxxing.guide](https://looksmaxxing.guide) that places
 
 This file holds the prompts that build it, in the order they run, and the decisions behind them. The iteration log at the bottom is filled in while executing — real failures only.
 
-**Status:** prompts written, not yet executed.
+**Status (work in progress):** Prompt 1 is running as 5 parallel Sonnet agents, one per category; face and procedure are done (`data/parts/`). Prompt 2 is verifying those two. Prompt 3 is done: `build.mjs` works and was developed against placeholder data (`data/fixture.json`) while the research ran. Prompt 4 is not run yet.
 
 ---
 
@@ -362,4 +362,8 @@ Filled in while running the prompts. Real failures only.
 
 | # | Prompt | What went wrong | How I noticed | What I changed |
 |---|---|---|---|---|
-| | | | | |
+| 1 | 1 | PubMed pages return a cookie wall and several publishers return 403 to the fetch tool, so papers could not be read directly. | Both research agents reported it. | Read the same records through the NCBI E-utilities and Europe PMC APIs; the verification prompt now allows this and asks which method was used per source. |
+| 2 | 1 | The prompt contradicted itself: "no brands anywhere", but one practice is named "Aqualyx-type" and FDA pages have brand names in their titles. | The procedure agent flagged it. | Brands allowed only inside verbatim source titles and URLs, never in written prose. |
+| 3 | 1 | The source `type` list has no value for case series, perception surveys or expert statements, so agents squeezed them into "cohort" or "review". | Both research agents flagged it. | Pending: add `case-series` and `expert-statement` to the schema. |
+| 4 | 1 | No study looks at thumbpulling or bonesmashing directly, and there is no complication data specific to Turkey for hair transplants. | Agents set `needs_human_review` instead of forcing sources (the behavior the prompt asks for). | Pending: those scores need a clinician's review. |
+| 5 | 3 | Two of the site's own status colors (red #EF4444, blue #3B82F6) fail 4.5:1 as text on the dark background. | The build's contrast check. | Text uses lighter versions with the same hue; borders keep the original tokens. |

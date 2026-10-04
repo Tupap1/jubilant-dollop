@@ -1,0 +1,1145 @@
+{
+  "generated": "2026-10-03",
+  "practices": [
+    {
+      "id": "fx-cheek-tapping",
+      "name": "[fixture] Cheek tapping routine",
+      "category": "face",
+      "claim": "Placeholder claim: Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "claim_source": "https://example.com/fixture/claim/fx-cheek-tapping",
+      "evidence": 0,
+      "evidence_rationale": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "risk_as_practiced": 0,
+      "risk_supervised": 0,
+      "risk_rationale": "Excepteur sint occaecat cupidatat non proident, sunt in culpa. Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis.",
+      "key_harms": [],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [],
+      "internal_link": "/en/looks/does-mewing-work/",
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "id": "fx-tongue-humming",
+      "name": "[fixture] Tongue humming drill",
+      "category": "face",
+      "claim": "Placeholder claim: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "claim_source": null,
+      "evidence": 1,
+      "evidence_rationale": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse.",
+      "risk_as_practiced": 3,
+      "risk_supervised": 2,
+      "risk_rationale": "Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
+      "key_harms": [
+        "Lorem ipsum",
+        "Dolor sit amet",
+        "Consectetur elit"
+      ],
+      "safer_alternative": "Excepteur sint occaecat cupidatat non proident, sunt in culpa. Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis.",
+      "legal_status": {
+        "US": "Dolor sit amet placeholder status.",
+        "UK": null,
+        "AU": null,
+        "CA": "Consectetur placeholder status."
+      },
+      "sources": [
+        {
+          "title": "[fixture] Placeholder source 2.1",
+          "publisher": "Example Publisher",
+          "year": 2016,
+          "url": "https://example.com/fixture/fx-tongue-humming/1",
+          "type": "systematic-review",
+          "supports": "Duis aute irure dolor in reprehenderit in voluptate velit esse."
+        }
+      ],
+      "internal_link": "/en/looks/looksmaxxing-jawline/",
+      "confidence": "medium",
+      "needs_human_review": false
+    },
+    {
+      "id": "fx-chin-balancing",
+      "name": "[fixture] Chin balancing",
+      "category": "face",
+      "claim": "Placeholder claim: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "claim_source": null,
+      "evidence": 1,
+      "evidence_rationale": "Duis aute irure dolor in reprehenderit in voluptate velit esse. Excepteur sint occaecat cupidatat non proident, sunt in culpa.",
+      "risk_as_practiced": 1,
+      "risk_supervised": 0,
+      "risk_rationale": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum.",
+      "key_harms": [
+        "Lorem ipsum"
+      ],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "[fixture] Placeholder source 3.1",
+          "publisher": "Example Publisher",
+          "year": 2017,
+          "url": "https://example.com/fixture/fx-chin-balancing/1",
+          "type": "rct",
+          "supports": "Excepteur sint occaecat cupidatat non proident, sunt in culpa."
+        },
+        {
+          "title": "[fixture] Placeholder source 3.2",
+          "publisher": "Example Publisher",
+          "year": 2018,
+          "url": "https://example.com/fixture/fx-chin-balancing/2",
+          "type": "guideline",
+          "supports": "Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis."
+        }
+      ],
+      "internal_link": "/en/looks/rhinoplasty-for-men/",
+      "confidence": "low",
+      "needs_human_review": false
+    },
+    {
+      "id": "fx-brow-bands",
+      "name": "[fixture] Brow stretching bands",
+      "category": "face",
+      "claim": "Placeholder claim: Duis aute irure dolor in reprehenderit in voluptate velit esse.",
+      "claim_source": "https://example.com/fixture/claim/fx-brow-bands",
+      "evidence": 0,
+      "evidence_rationale": "Excepteur sint occaecat cupidatat non proident, sunt in culpa. Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis.",
+      "risk_as_practiced": 1,
+      "risk_supervised": 0,
+      "risk_rationale": "Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "key_harms": [
+        "Lorem ipsum",
+        "Dolor sit amet",
+        "Consectetur elit",
+        "Sed eiusmod tempor"
+      ],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "[fixture] Placeholder source 4.1",
+          "publisher": "Example Publisher",
+          "year": 2018,
+          "url": "https://example.com/fixture/fx-brow-bands/1",
+          "type": "guideline",
+          "supports": "Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis.",
+          "verified": true
+        },
+        {
+          "title": "[fixture] Placeholder source 4.2",
+          "publisher": "Example Publisher",
+          "year": 2019,
+          "url": "https://example.com/fixture/fx-brow-bands/2",
+          "type": "cohort",
+          "supports": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
+          "verified": true
+        },
+        {
+          "title": "[fixture] Placeholder source 4.3",
+          "publisher": "Example Publisher",
+          "year": 2020,
+          "url": "https://example.com/fixture/fx-brow-bands/3",
+          "type": "case-report",
+          "supports": "Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum.",
+          "verified": true
+        }
+      ],
+      "internal_link": null,
+      "confidence": "high",
+      "needs_human_review": false
+    },
+    {
+      "id": "fx-ear-tug",
+      "name": "[fixture] Ear-tug sequence",
+      "category": "face",
+      "claim": "Placeholder claim: Excepteur sint occaecat cupidatat non proident, sunt in culpa.",
+      "claim_source": null,
+      "evidence": 2,
+      "evidence_rationale": "Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
+      "risk_as_practiced": 0,
+      "risk_supervised": 0,
+      "risk_rationale": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "key_harms": [
+        "Lorem ipsum",
+        "Dolor sit amet"
+      ],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [],
+      "internal_link": "/en/looks/looksmaxxing-skincare-routine-men/",
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "fx-cranial-polish",
+      "name": "[fixture] Cranial polish",
+      "category": "procedure",
+      "claim": "Placeholder claim: Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis.",
+      "claim_source": null,
+      "evidence": 1,
+      "evidence_rationale": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum.",
+      "risk_as_practiced": 3,
+      "risk_supervised": 2,
+      "risk_rationale": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "key_harms": [
+        "Lorem ipsum",
+        "Dolor sit amet",
+        "Consectetur elit",
+        "Sed eiusmod tempor"
+      ],
+      "safer_alternative": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "[fixture] Placeholder source 6.1",
+          "publisher": "Example Publisher",
+          "year": 2020,
+          "url": "https://example.com/fixture/fx-cranial-polish/1",
+          "type": "case-report",
+          "supports": "Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum."
+        }
+      ],
+      "internal_link": "/en/looks/looksmaxxing-supplements/",
+      "confidence": "low",
+      "needs_human_review": false
+    },
+    {
+      "id": "fx-cheek-inflation",
+      "name": "[fixture] Cheek inflation injections",
+      "category": "procedure",
+      "claim": "Placeholder claim: Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
+      "claim_source": "https://example.com/fixture/claim/fx-cheek-inflation",
+      "evidence": 2,
+      "evidence_rationale": "Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "risk_as_practiced": 3,
+      "risk_supervised": 2,
+      "risk_rationale": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse.",
+      "key_harms": [
+        "Lorem ipsum",
+        "Dolor sit amet",
+        "Consectetur elit"
+      ],
+      "safer_alternative": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "legal_status": {
+        "US": "Consectetur placeholder status.",
+        "UK": null,
+        "AU": null,
+        "CA": "Adipiscing elit placeholder status."
+      },
+      "sources": [
+        {
+          "title": "[fixture] Placeholder source 7.1",
+          "publisher": "Example Publisher",
+          "year": 2021,
+          "url": "https://example.com/fixture/fx-cheek-inflation/1",
+          "type": "review",
+          "supports": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "verified": true
+        },
+        {
+          "title": "[fixture] Placeholder source 7.2",
+          "publisher": "Example Publisher",
+          "year": 2022,
+          "url": "https://example.com/fixture/fx-cheek-inflation/2",
+          "type": "regulator",
+          "supports": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/fitness/peptides-guide-for-men/",
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "id": "fx-eyelid-reshape",
+      "name": "[fixture] Eyelid reshaping surgery",
+      "category": "procedure",
+      "claim": "Placeholder claim: Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum.",
+      "claim_source": null,
+      "evidence": 3,
+      "evidence_rationale": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "risk_as_practiced": 2,
+      "risk_supervised": 2,
+      "risk_rationale": "Duis aute irure dolor in reprehenderit in voluptate velit esse. Excepteur sint occaecat cupidatat non proident, sunt in culpa.",
+      "key_harms": [
+        "Lorem ipsum"
+      ],
+      "safer_alternative": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "[fixture] Placeholder source 8.1",
+          "publisher": "Example Publisher",
+          "year": 2022,
+          "url": "https://example.com/fixture/fx-eyelid-reshape/1",
+          "type": "regulator",
+          "supports": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+          "title": "[fixture] Placeholder source 8.2",
+          "publisher": "Example Publisher",
+          "year": 2023,
+          "url": "https://example.com/fixture/fx-eyelid-reshape/2",
+          "type": "systematic-review",
+          "supports": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
+        },
+        {
+          "title": "[fixture] Placeholder source 8.3",
+          "publisher": "Example Publisher",
+          "year": 2024,
+          "url": "https://example.com/fixture/fx-eyelid-reshape/3",
+          "type": "rct",
+          "supports": "Duis aute irure dolor in reprehenderit in voluptate velit esse."
+        }
+      ],
+      "internal_link": "/en/fitness/beginner-strength-program/",
+      "confidence": "medium",
+      "needs_human_review": false
+    },
+    {
+      "id": "fx-long-name",
+      "name": "[fixture] Hyper-extended-multi-stage-contour-adjustment-procedure-with-an-absurdly-long-name that keeps going to test wrapping in chips, headings, list items and the mobile list at 320px",
+      "category": "procedure",
+      "claim": "Placeholder claim: Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "claim_source": null,
+      "evidence": 1,
+      "evidence_rationale": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "risk_as_practiced": 3,
+      "risk_supervised": 3,
+      "risk_rationale": "Excepteur sint occaecat cupidatat non proident, sunt in culpa. Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis.",
+      "key_harms": [
+        "Lorem ipsum",
+        "Dolor sit amet",
+        "Consectetur elit",
+        "Sed eiusmod tempor"
+      ],
+      "safer_alternative": "Duis aute irure dolor in reprehenderit in voluptate velit esse. Excepteur sint occaecat cupidatat non proident, sunt in culpa.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [],
+      "internal_link": "/en/fitness/sleep-optimization-guide/",
+      "confidence": "low",
+      "needs_human_review": true
+    },
+    {
+      "id": "fx-nose-contour",
+      "name": "[fixture] Nose contouring & \"tip lift\"",
+      "category": "procedure",
+      "claim": "Placeholder claim: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "claim_source": "https://example.com/fixture/claim/fx-nose-contour",
+      "evidence": 3,
+      "evidence_rationale": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse.",
+      "risk_as_practiced": 3,
+      "risk_supervised": 2,
+      "risk_rationale": "Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
+      "key_harms": [
+        "Lorem ipsum",
+        "Dolor sit amet"
+      ],
+      "safer_alternative": "Excepteur sint occaecat cupidatat non proident, sunt in culpa. Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis.",
+      "legal_status": {
+        "US": null,
+        "UK": "Dolor sit amet placeholder status.",
+        "AU": "Consectetur placeholder status.",
+        "CA": "Adipiscing elit placeholder status."
+      },
+      "sources": [
+        {
+          "title": "[fixture] Placeholder source 10.1",
+          "publisher": "Example Publisher",
+          "year": 2024,
+          "url": "https://example.com/fixture/fx-nose-contour/1",
+          "type": "rct",
+          "supports": "Duis aute irure dolor in reprehenderit in voluptate velit esse.",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/glossary/norwood-scale/",
+      "confidence": "high",
+      "needs_human_review": false
+    },
+    {
+      "id": "fx-scalp-relocation",
+      "name": "[fixture] Scalp relocation abroad",
+      "category": "procedure",
+      "claim": "Placeholder claim: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "claim_source": null,
+      "evidence": 2,
+      "evidence_rationale": "Duis aute irure dolor in reprehenderit in voluptate velit esse. Excepteur sint occaecat cupidatat non proident, sunt in culpa.",
+      "risk_as_practiced": 2,
+      "risk_supervised": 2,
+      "risk_rationale": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum.",
+      "key_harms": [],
+      "safer_alternative": "Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "[fixture] Placeholder source 11.1",
+          "publisher": "Example Publisher",
+          "year": 2015,
+          "url": "https://example.com/fixture/fx-scalp-relocation/1",
+          "type": "guideline",
+          "supports": "Excepteur sint occaecat cupidatat non proident, sunt in culpa."
+        },
+        {
+          "title": "[fixture] Placeholder source 11.2",
+          "publisher": "Example Publisher",
+          "year": 2016,
+          "url": "https://example.com/fixture/fx-scalp-relocation/2",
+          "type": "cohort",
+          "supports": "Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis."
+        }
+      ],
+      "internal_link": null,
+      "confidence": "medium",
+      "needs_human_review": false
+    },
+    {
+      "id": "fx-hair-tonic",
+      "name": "[fixture] Topical hair tonic",
+      "category": "hair",
+      "claim": "Placeholder claim: Duis aute irure dolor in reprehenderit in voluptate velit esse.",
+      "claim_source": null,
+      "evidence": 4,
+      "evidence_rationale": "Excepteur sint occaecat cupidatat non proident, sunt in culpa. Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis.",
+      "risk_as_practiced": 0,
+      "risk_supervised": 0,
+      "risk_rationale": "Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "key_harms": [
+        "Lorem ipsum",
+        "Dolor sit amet",
+        "Consectetur elit"
+      ],
+      "safer_alternative": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "legal_status": {
+        "US": "Lorem ipsum placeholder status.",
+        "UK": "Dolor sit amet placeholder status.",
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "[fixture] Placeholder source 12.1",
+          "publisher": "Example Publisher",
+          "year": 2016,
+          "url": "https://example.com/fixture/fx-hair-tonic/1",
+          "type": "cohort",
+          "supports": "Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis."
+        },
+        {
+          "title": "[fixture] Placeholder source 12.2",
+          "publisher": "Example Publisher",
+          "year": 2017,
+          "url": "https://example.com/fixture/fx-hair-tonic/2",
+          "type": "case-report",
+          "supports": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor."
+        },
+        {
+          "title": "[fixture] Placeholder source 12.3",
+          "publisher": "Example Publisher",
+          "year": 2018,
+          "url": "https://example.com/fixture/fx-hair-tonic/3",
+          "type": "review",
+          "supports": "Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum."
+        }
+      ],
+      "internal_link": "/en/looks/looksmaxxing-jawline/",
+      "confidence": "low",
+      "needs_human_review": false
+    },
+    {
+      "id": "fx-oral-hair-pill",
+      "name": "[fixture] Oral hair pill (low strength)",
+      "category": "hair",
+      "claim": "Placeholder claim: Excepteur sint occaecat cupidatat non proident, sunt in culpa.",
+      "claim_source": "https://example.com/fixture/claim/fx-oral-hair-pill",
+      "evidence": 3,
+      "evidence_rationale": "Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
+      "risk_as_practiced": 2,
+      "risk_supervised": 1,
+      "risk_rationale": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "key_harms": [
+        "Lorem ipsum"
+      ],
+      "safer_alternative": "Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [],
+      "internal_link": "/en/looks/rhinoplasty-for-men/",
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "id": "fx-hair-blocker",
+      "name": "[fixture] Hair loss blocker",
+      "category": "hair",
+      "claim": "Placeholder claim: Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis.",
+      "claim_source": null,
+      "evidence": 4,
+      "evidence_rationale": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum.",
+      "risk_as_practiced": 1,
+      "risk_supervised": 1,
+      "risk_rationale": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "key_harms": [
+        "Lorem ipsum",
+        "Dolor sit amet",
+        "Consectetur elit",
+        "Sed eiusmod tempor"
+      ],
+      "safer_alternative": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "[fixture] Placeholder source 14.1",
+          "publisher": "Example Publisher",
+          "year": 2018,
+          "url": "https://example.com/fixture/fx-hair-blocker/1",
+          "type": "review",
+          "supports": "Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum."
+        }
+      ],
+      "internal_link": "/en/looks/hair-transplant-looksmaxxing/",
+      "confidence": "medium",
+      "needs_human_review": false
+    },
+    {
+      "id": "fx-scalp-roller",
+      "name": "[fixture] Scalp roller",
+      "category": "hair",
+      "claim": "Placeholder claim: Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
+      "claim_source": null,
+      "evidence": 2,
+      "evidence_rationale": "Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "risk_as_practiced": 1,
+      "risk_supervised": 0,
+      "risk_rationale": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse.",
+      "key_harms": [
+        "Lorem ipsum",
+        "Dolor sit amet"
+      ],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "[fixture] Placeholder source 15.1",
+          "publisher": "Example Publisher",
+          "year": 2019,
+          "url": "https://example.com/fixture/fx-scalp-roller/1",
+          "type": "regulator",
+          "supports": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "title": "[fixture] Placeholder source 15.2",
+          "publisher": "Example Publisher",
+          "year": 2020,
+          "url": "https://example.com/fixture/fx-scalp-roller/2",
+          "type": "systematic-review",
+          "supports": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      ],
+      "internal_link": "/en/looks/looksmaxxing-skincare-routine-men/",
+      "confidence": "low",
+      "needs_human_review": false
+    },
+    {
+      "id": "fx-daily-shield",
+      "name": "[fixture] Daily skin shield",
+      "category": "skin",
+      "claim": "Placeholder claim: Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum.",
+      "claim_source": "https://example.com/fixture/claim/fx-daily-shield",
+      "evidence": 4,
+      "evidence_rationale": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "risk_as_practiced": 0,
+      "risk_supervised": 0,
+      "risk_rationale": "Duis aute irure dolor in reprehenderit in voluptate velit esse. Excepteur sint occaecat cupidatat non proident, sunt in culpa.",
+      "key_harms": [],
+      "safer_alternative": "Excepteur sint occaecat cupidatat non proident, sunt in culpa.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "[fixture] Placeholder source 16.1",
+          "publisher": "Example Publisher",
+          "year": 2020,
+          "url": "https://example.com/fixture/fx-daily-shield/1",
+          "type": "systematic-review",
+          "supports": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "verified": true
+        },
+        {
+          "title": "[fixture] Placeholder source 16.2",
+          "publisher": "Example Publisher",
+          "year": 2021,
+          "url": "https://example.com/fixture/fx-daily-shield/2",
+          "type": "rct",
+          "supports": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+          "verified": true
+        },
+        {
+          "title": "[fixture] Placeholder source 16.3",
+          "publisher": "Example Publisher",
+          "year": 2022,
+          "url": "https://example.com/fixture/fx-daily-shield/3",
+          "type": "guideline",
+          "supports": "Duis aute irure dolor in reprehenderit in voluptate velit esse.",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/looks/looksmaxxing-supplements/",
+      "confidence": "high",
+      "needs_human_review": false
+    },
+    {
+      "id": "fx-night-cream",
+      "name": "[fixture] Night renewal cream",
+      "category": "skin",
+      "claim": "Placeholder claim: Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "claim_source": null,
+      "evidence": 3,
+      "evidence_rationale": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "risk_as_practiced": 1,
+      "risk_supervised": 1,
+      "risk_rationale": "Excepteur sint occaecat cupidatat non proident, sunt in culpa. Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis.",
+      "key_harms": [
+        "Lorem ipsum",
+        "Dolor sit amet",
+        "Consectetur elit"
+      ],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": "Lorem ipsum placeholder status.",
+        "UK": null,
+        "AU": null,
+        "CA": "Dolor sit amet placeholder status."
+      },
+      "sources": [],
+      "internal_link": "/en/fitness/peptides-guide-for-men/",
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "fx-clear-skin-pill",
+      "name": "[fixture] Clear-skin pill without supervision",
+      "category": "skin",
+      "claim": "Placeholder claim: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "claim_source": null,
+      "evidence": 3,
+      "evidence_rationale": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse.",
+      "risk_as_practiced": 3,
+      "risk_supervised": 2,
+      "risk_rationale": "Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
+      "key_harms": [
+        "Lorem ipsum"
+      ],
+      "safer_alternative": "Excepteur sint occaecat cupidatat non proident, sunt in culpa. Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis.",
+      "legal_status": {
+        "US": "Lorem ipsum placeholder status.",
+        "UK": "Dolor sit amet placeholder status.",
+        "AU": "Consectetur placeholder status.",
+        "CA": "Adipiscing elit placeholder status."
+      },
+      "sources": [
+        {
+          "title": "[fixture] Placeholder source 18.1",
+          "publisher": "Example Publisher",
+          "year": 2022,
+          "url": "https://example.com/fixture/fx-clear-skin-pill/1",
+          "type": "guideline",
+          "supports": "Duis aute irure dolor in reprehenderit in voluptate velit esse."
+        }
+      ],
+      "internal_link": null,
+      "confidence": "low",
+      "needs_human_review": false
+    },
+    {
+      "id": "fx-glow-booth",
+      "name": "[fixture] Glow booth sessions",
+      "category": "skin",
+      "claim": "Placeholder claim: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "claim_source": "https://example.com/fixture/claim/fx-glow-booth",
+      "evidence": 1,
+      "evidence_rationale": "Duis aute irure dolor in reprehenderit in voluptate velit esse. Excepteur sint occaecat cupidatat non proident, sunt in culpa.",
+      "risk_as_practiced": 3,
+      "risk_supervised": null,
+      "risk_rationale": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum.",
+      "key_harms": [
+        "Lorem ipsum",
+        "Dolor sit amet",
+        "Consectetur elit",
+        "Sed eiusmod tempor"
+      ],
+      "safer_alternative": "Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "[fixture] Placeholder source 19.1",
+          "publisher": "Example Publisher",
+          "year": 2023,
+          "url": "https://example.com/fixture/fx-glow-booth/1",
+          "type": "cohort",
+          "supports": "Excepteur sint occaecat cupidatat non proident, sunt in culpa.",
+          "verified": true
+        },
+        {
+          "title": "[fixture] Placeholder source 19.2",
+          "publisher": "Example Publisher",
+          "year": 2024,
+          "url": "https://example.com/fixture/fx-glow-booth/2",
+          "type": "case-report",
+          "supports": "Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis.",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/fitness/sleep-optimization-guide/",
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "id": "fx-tan-jab",
+      "name": "[fixture] Tan-in-a-jab",
+      "category": "skin",
+      "claim": "Placeholder claim: Duis aute irure dolor in reprehenderit in voluptate velit esse.",
+      "claim_source": null,
+      "evidence": 1,
+      "evidence_rationale": "Excepteur sint occaecat cupidatat non proident, sunt in culpa. Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis.",
+      "risk_as_practiced": 3,
+      "risk_supervised": null,
+      "risk_rationale": "Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "key_harms": [
+        "Lorem ipsum",
+        "Dolor sit amet"
+      ],
+      "safer_alternative": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "[fixture] Placeholder source 20.1",
+          "publisher": "Example Publisher",
+          "year": 2024,
+          "url": "https://example.com/fixture/fx-tan-jab/1",
+          "type": "case-report",
+          "supports": "Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis."
+        },
+        {
+          "title": "[fixture] Placeholder source 20.2",
+          "publisher": "Example Publisher",
+          "year": 2015,
+          "url": "https://example.com/fixture/fx-tan-jab/2",
+          "type": "review",
+          "supports": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor."
+        },
+        {
+          "title": "[fixture] Placeholder source 20.3",
+          "publisher": "Example Publisher",
+          "year": 2016,
+          "url": "https://example.com/fixture/fx-tan-jab/3",
+          "type": "regulator",
+          "supports": "Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum."
+        }
+      ],
+      "internal_link": "/en/glossary/norwood-scale/",
+      "confidence": "medium",
+      "needs_human_review": false
+    },
+    {
+      "id": "fx-melt-capsule",
+      "name": "[fixture] Melt capsule",
+      "category": "compound",
+      "claim": "Placeholder claim: Excepteur sint occaecat cupidatat non proident, sunt in culpa.",
+      "claim_source": null,
+      "evidence": 4,
+      "evidence_rationale": "Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
+      "risk_as_practiced": 4,
+      "risk_supervised": null,
+      "risk_rationale": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "key_harms": [],
+      "safer_alternative": "Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "legal_status": {
+        "US": "Lorem ipsum placeholder status.",
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [],
+      "internal_link": "/en/looks/does-mewing-work/",
+      "confidence": "low",
+      "needs_human_review": true
+    },
+    {
+      "id": "fx-bulk-powder",
+      "name": "[fixture] Bulk-up powder",
+      "category": "compound",
+      "claim": "Placeholder claim: Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis.",
+      "claim_source": "https://example.com/fixture/claim/fx-bulk-powder",
+      "evidence": 1,
+      "evidence_rationale": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum.",
+      "risk_as_practiced": 3,
+      "risk_supervised": null,
+      "risk_rationale": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "key_harms": [
+        "Lorem ipsum",
+        "Dolor sit amet",
+        "Consectetur elit"
+      ],
+      "safer_alternative": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "legal_status": {
+        "US": "Dolor sit amet placeholder status.",
+        "UK": null,
+        "AU": null,
+        "CA": "Consectetur placeholder status."
+      },
+      "sources": [
+        {
+          "title": "[fixture] Placeholder source 22.1",
+          "publisher": "Example Publisher",
+          "year": 2016,
+          "url": "https://example.com/fixture/fx-bulk-powder/1",
+          "type": "regulator",
+          "supports": "Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum.",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/looks/looksmaxxing-jawline/",
+      "confidence": "high",
+      "needs_human_review": false
+    },
+    {
+      "id": "fx-spark-peptide",
+      "name": "[fixture] Spark peptide",
+      "category": "compound",
+      "claim": "Placeholder claim: Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
+      "claim_source": null,
+      "evidence": 0,
+      "evidence_rationale": "Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "risk_as_practiced": 4,
+      "risk_supervised": null,
+      "risk_rationale": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse.",
+      "key_harms": [
+        "Lorem ipsum"
+      ],
+      "safer_alternative": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "[fixture] Placeholder source 23.1",
+          "publisher": "Example Publisher",
+          "year": 2017,
+          "url": "https://example.com/fixture/fx-spark-peptide/1",
+          "type": "systematic-review",
+          "supports": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "title": "[fixture] Placeholder source 23.2",
+          "publisher": "Example Publisher",
+          "year": 2018,
+          "url": "https://example.com/fixture/fx-spark-peptide/2",
+          "type": "rct",
+          "supports": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+      ],
+      "internal_link": "/en/looks/rhinoplasty-for-men/",
+      "confidence": "medium",
+      "needs_human_review": false
+    },
+    {
+      "id": "fx-boost-patch",
+      "name": "[fixture] Boost patch",
+      "category": "compound",
+      "claim": "Placeholder claim: Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum.",
+      "claim_source": null,
+      "evidence": 1,
+      "evidence_rationale": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "risk_as_practiced": 4,
+      "risk_supervised": null,
+      "risk_rationale": "Duis aute irure dolor in reprehenderit in voluptate velit esse. Excepteur sint occaecat cupidatat non proident, sunt in culpa.",
+      "key_harms": [
+        "Lorem ipsum",
+        "Dolor sit amet",
+        "Consectetur elit",
+        "Sed eiusmod tempor"
+      ],
+      "safer_alternative": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "[fixture] Placeholder source 24.1",
+          "publisher": "Example Publisher",
+          "year": 2018,
+          "url": "https://example.com/fixture/fx-boost-patch/1",
+          "type": "rct",
+          "supports": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+          "title": "[fixture] Placeholder source 24.2",
+          "publisher": "Example Publisher",
+          "year": 2019,
+          "url": "https://example.com/fixture/fx-boost-patch/2",
+          "type": "guideline",
+          "supports": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
+        },
+        {
+          "title": "[fixture] Placeholder source 24.3",
+          "publisher": "Example Publisher",
+          "year": 2020,
+          "url": "https://example.com/fixture/fx-boost-patch/3",
+          "type": "cohort",
+          "supports": "Duis aute irure dolor in reprehenderit in voluptate velit esse."
+        }
+      ],
+      "internal_link": "/en/looks/hair-transplant-looksmaxxing/",
+      "confidence": "low",
+      "needs_human_review": false
+    },
+    {
+      "id": "fx-builder-powder",
+      "name": "[fixture] Builder powder",
+      "category": "compound",
+      "claim": "Placeholder claim: Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "claim_source": "https://example.com/fixture/claim/fx-builder-powder",
+      "evidence": 4,
+      "evidence_rationale": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "risk_as_practiced": 0,
+      "risk_supervised": 0,
+      "risk_rationale": "Excepteur sint occaecat cupidatat non proident, sunt in culpa. Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis.",
+      "key_harms": [
+        "Lorem ipsum",
+        "Dolor sit amet"
+      ],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [],
+      "internal_link": null,
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "id": "fx-lean-shot",
+      "name": "[fixture] Lean shot from unregulated supply",
+      "category": "compound",
+      "claim": "Placeholder claim: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "claim_source": null,
+      "evidence": 2,
+      "evidence_rationale": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse.",
+      "risk_as_practiced": 2,
+      "risk_supervised": 1,
+      "risk_rationale": "Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
+      "key_harms": [],
+      "safer_alternative": "Excepteur sint occaecat cupidatat non proident, sunt in culpa. Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "[fixture] Placeholder source 26.1",
+          "publisher": "Example Publisher",
+          "year": 2020,
+          "url": "https://example.com/fixture/fx-lean-shot/1",
+          "type": "cohort",
+          "supports": "Duis aute irure dolor in reprehenderit in voluptate velit esse."
+        }
+      ],
+      "internal_link": "/en/looks/looksmaxxing-supplements/",
+      "confidence": "medium",
+      "needs_human_review": false
+    },
+    {
+      "id": "fx-lift-heavy",
+      "name": "[fixture] Lifting heavy things",
+      "category": "baseline",
+      "claim": "Placeholder claim: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+      "claim_source": null,
+      "evidence": 4,
+      "evidence_rationale": "Duis aute irure dolor in reprehenderit in voluptate velit esse. Excepteur sint occaecat cupidatat non proident, sunt in culpa.",
+      "risk_as_practiced": 0,
+      "risk_supervised": 0,
+      "risk_rationale": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum.",
+      "key_harms": [
+        "Lorem ipsum",
+        "Dolor sit amet",
+        "Consectetur elit"
+      ],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": "Consectetur placeholder status.",
+        "UK": null,
+        "AU": null,
+        "CA": "Adipiscing elit placeholder status."
+      },
+      "sources": [
+        {
+          "title": "[fixture] Placeholder source 27.1",
+          "publisher": "Example Publisher",
+          "year": 2021,
+          "url": "https://example.com/fixture/search?id=1&lang=en&q=a%20b",
+          "type": "case-report",
+          "supports": "Excepteur sint occaecat cupidatat non proident, sunt in culpa."
+        },
+        {
+          "title": "[fixture] Placeholder source 27.2",
+          "publisher": "Example Publisher",
+          "year": 2022,
+          "url": "https://example.com/fixture/fx-lift-heavy/2",
+          "type": "review",
+          "supports": "Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis.",
+          "verified": false
+        },
+        {
+          "title": "[fixture] Placeholder source 27.3",
+          "publisher": "Example Publisher",
+          "year": 2023,
+          "url": "https://example.com/fixture/fx-lift-heavy/3",
+          "type": "regulator",
+          "supports": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor."
+        }
+      ],
+      "internal_link": "/en/fitness/peptides-guide-for-men/",
+      "confidence": "low",
+      "needs_human_review": false
+    },
+    {
+      "id": "fx-early-bed",
+      "name": "[fixture] Early bed routine",
+      "category": "baseline",
+      "claim": "Placeholder claim: Duis aute irure dolor in reprehenderit in voluptate velit esse.",
+      "claim_source": "https://example.com/fixture/claim/fx-early-bed",
+      "evidence": 3,
+      "evidence_rationale": "Excepteur sint occaecat cupidatat non proident, sunt in culpa. Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis.",
+      "risk_as_practiced": 0,
+      "risk_supervised": 0,
+      "risk_rationale": "Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "key_harms": [
+        "Lorem ipsum"
+      ],
+      "safer_alternative": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "[fixture] Placeholder source 28.1",
+          "publisher": "Example Publisher",
+          "year": 2022,
+          "url": "https://example.com/fixture/fx-early-bed/1",
+          "type": "review",
+          "supports": "Nulla pariatur et vitae turpis, integer posuere erat a ante venenatis.",
+          "verified": true
+        },
+        {
+          "title": "[fixture] Placeholder source 28.2",
+          "publisher": "Example Publisher",
+          "year": 2023,
+          "url": "https://example.com/fixture/fx-early-bed/2",
+          "type": "regulator",
+          "supports": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
+          "verified": true
+        },
+        {
+          "title": "[fixture] Placeholder source 28.3",
+          "publisher": "Example Publisher",
+          "year": 2024,
+          "url": "https://example.com/fixture/fx-early-bed/3",
+          "type": "systematic-review",
+          "supports": "Curabitur blandit tempus porttitor, maecenas faucibus mollis interdum.",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/fitness/beginner-strength-program/",
+      "confidence": "high",
+      "needs_human_review": false
+    }
+  ],
+  "proposed": [
+    {
+      "name": "[fixture] Proposed addition",
+      "why": "Lorem ipsum dolor sit amet."
+    }
+  ]
+}
