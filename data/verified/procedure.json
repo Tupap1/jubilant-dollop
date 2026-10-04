@@ -1,0 +1,376 @@
+{
+  "generated": "2026-10-03",
+  "practices": [
+    {
+      "id": "dermal-fillers-jaw-chin",
+      "name": "Dermal fillers (jaw/chin)",
+      "category": "procedure",
+      "claim": "Injecting filler into the jaw and chin instantly gives a sharper, more defined jawline and a stronger profile without surgery.",
+      "claim_source": null,
+      "evidence": 4,
+      "evidence_rationale": "The FDA has approved hyaluronic acid fillers for chin augmentation and, since 2022, one filler for jawline definition, and a systematic review found significant improvement in 17 of 24 chin studies, including four RCTs. Results fade, with global improvement ratings falling from 82-100% early on to 52-77% at 12-18 months.",
+      "risk_as_practiced": 2,
+      "risk_supervised": 1,
+      "risk_rationale": "Bruising and swelling are common, but an accidental injection into a blood vessel can cause tissue death, vision loss or stroke, and the risk depends on the injector's anatomy knowledge and on whether the product is regulator-approved. In a review covering 2,259 treated chin patients, serious events were rare (one necrosis, one vascular occlusion) and lumps resolved once the filler was dissolved.",
+      "key_harms": [
+        "Bruising and swelling",
+        "Lumps or nodules",
+        "Blocked blood vessel causing tissue death, vision loss or stroke (rare)",
+        "Permanent disfigurement with non-approved permanent fillers such as injectable silicone"
+      ],
+      "safer_alternative": "Use a licensed, medically trained injector with a regulator-approved, dissolvable hyaluronic acid filler, and avoid permanent fillers. If the chin or jaw is structurally weak, ask an orthodontist or maxillofacial surgeon whether a lasting fix suits you better.",
+      "legal_status": {
+        "US": "FDA-regulated medical devices; approved fillers are indicated for chin augmentation, and one product is approved for jawline definition, in adults over 21; use in the nose, forehead and around the eyes is not approved.",
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Dermal Fillers (Soft Tissue Fillers)",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2023,
+          "url": "https://www.fda.gov/medical-devices/aesthetic-cosmetic-devices/dermal-fillers-soft-tissue-fillers",
+          "type": "regulator",
+          "supports": "evidence_rationale sentence 1 (chin augmentation is an approved filler indication); risk_rationale sentence 1 (vascular blockage, necrosis, vision loss, stroke); key_harms item 4 (injectable silicone); legal_status.US",
+          "verified": true
+        },
+        {
+          "title": "JUVÉDERM VOLUX XC – P110033/S065",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2022,
+          "url": "https://www.fda.gov/medical-devices/recently-approved-devices/juvederm-volux-xc-p110033s065",
+          "type": "regulator",
+          "supports": "evidence_rationale sentence 1 (a filler approved in 2022 for jawline definition in adults over 21); legal_status.US",
+          "verified": true
+        },
+        {
+          "title": "The Application and Efficacy of Hyaluronic Acid Fillers for Chin Enhancement and Retrusion Correction: A Systematic Review of Patient-Reported Outcomes",
+          "publisher": "Cureus",
+          "year": 2023,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10719547/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale (17 of 24 studies significant, four RCTs, rating decline at 12-18 months); risk_rationale sentence 2 (2,259 patients, one necrosis, one vascular occlusion, nodules resolved with hyaluronidase)",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/looks/looksmaxxing-dangers-doctors-warn/",
+      "confidence": "medium",
+      "needs_human_review": false
+    },
+    {
+      "id": "fat-dissolving-injections",
+      "name": "Fat-dissolving injections (deoxycholic acid, incl. Aqualyx-type products)",
+      "category": "procedure",
+      "claim": "Injected 'fat dissolvers' permanently melt chin and jowl fat without surgery.",
+      "claim_source": "https://looksmaxxing.guide/en/looks/clavicular-aqualyx-jenny-popach/",
+      "evidence": 3,
+      "evidence_rationale": "Randomized trials of the single approved deoxycholic acid drug show lasting improvement in under-chin fat, and a follow-up of patients who had responded to treatment found 82.4% still held at least a one-grade improvement at three years, against 65.0% on placebo. Controlled data cover only that licensed product under the chin; none was found for unapproved fat-dissolving products or for the jowls.",
+      "risk_as_practiced": 3,
+      "risk_supervised": 2,
+      "risk_rationale": "The FDA reports permanent scars, serious infections, skin deformities and deep painful knots from unapproved fat-dissolving injections, and has logged 129 cases of adverse events, some serious, when the approved drug was used outside the chin, including vision problems and muscle or nerve injury. Its 2026 safety communication on the approved drug also counts 117 unresolved cases of lumps or masses, averaging about 5 months.",
+      "key_harms": [
+        "Persistent lumps or masses",
+        "Nerve or muscle injury",
+        "Serious infection and permanent scarring",
+        "Vision problems when injected near the eyes"
+      ],
+      "safer_alternative": "Ask a licensed clinician about the regulator-approved prescription treatment for under-chin fat, which is approved for that area only, and start with supervised weight-management care if the fat is general rather than local. Avoid self-injection and any product bought online.",
+      "legal_status": {
+        "US": "Only one deoxycholic acid injection is FDA-approved, for under-chin fat in adults; other fat-dissolving injections are unapproved.",
+        "UK": null,
+        "AU": "A deoxycholic acid injection for under-chin fat in adults is listed as a prescription-only (Schedule 4) medicine.",
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "FDA Approves Additional Information in Labeling for Kybella (Deoxycholic Acid) Injection Warning of Adverse Reactions Associated with Unapproved Use",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2026,
+          "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-approves-additional-information-labeling-kybella-deoxycholic-acid-injection-warning-adverse",
+          "type": "regulator",
+          "supports": "risk_rationale (129 adverse-event cases outside the chin, some serious, including vision problems and muscle or nerve injury; 117 unresolved nodule or mass cases, about 5 months on average, injection site not stated); key_harms items 1, 2 and 4; legal_status.US",
+          "verified": true,
+          "verification_note": "Sentence rewritten to match the source after fact-check."
+        },
+        {
+          "title": "Using Fat-Dissolving Injections That Are Not FDA Approved Can Be Harmful",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2023,
+          "url": "https://www.fda.gov/drugs/buying-using-medicine-safely/using-fat-dissolving-injections-are-not-fda-approved-can-be-harmful",
+          "type": "regulator",
+          "supports": "risk_rationale sentence 1 (permanent scars, serious infections, skin deformities, painful knots from unapproved products); key_harms item 3; safer_alternative (do not self-inject products bought online); legal_status.US",
+          "verified": true
+        },
+        {
+          "title": "Improvements in Submental Contour up to 3 Years After ATX-101: Efficacy and Safety Follow-Up of the Phase 3 REFINE Trials",
+          "publisher": "Aesthetic Surgery Journal",
+          "year": 2021,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8520020/",
+          "type": "rct",
+          "supports": "evidence_rationale sentence 1 (RCT follow-up of patients who had responded to treatment: 82.4% on the active drug maintained at least one grade of improvement at year 3 versus 65.0% on placebo; 224 patients enrolled). An author is employed by the drug's manufacturer.",
+          "verified": true,
+          "verification_note": "Sentence rewritten to match the source after fact-check."
+        },
+        {
+          "title": "Belkyra | healthdirect",
+          "publisher": "healthdirect Australia",
+          "year": 2026,
+          "url": "https://www.healthdirect.gov.au/medicines/brand/amt,884901000168103/belkyra",
+          "type": "health-info",
+          "supports": "legal_status.AU (Schedule 4 prescription-only; indicated for submental fat in adults)",
+          "verified": true,
+          "verification_note": "Title corrected to the page's own title and type changed from regulator to health-info after fact-check (healthdirect is a government-funded health information service reporting ARTG data, not the regulator itself). Content confirms Schedule 4, submental fat in adults."
+        }
+      ],
+      "internal_link": "/en/looks/clavicular-aqualyx-jenny-popach/",
+      "confidence": "medium",
+      "needs_human_review": false
+    },
+    {
+      "id": "lateral-canthoplasty",
+      "name": "Lateral canthoplasty ('hunter eyes' surgery)",
+      "category": "procedure",
+      "claim": "Surgically raising the outer corner of the eye creates a positive canthal tilt ('hunter eyes') that makes the face look more attractive and masculine.",
+      "claim_source": "https://looksmaxxing.guide/en/looks/hunter-eyes-explained/",
+      "evidence": 1,
+      "evidence_rationale": "Case series show lateral canthal surgery can reposition the outer eyelid corner, but mostly for lid-laxity indications in a mean-age-55 population rather than young men wanting a tilt. The one rating study found (an edited face, 2,081 raters) scored an elevated outer corner lower on attractiveness and masculinity, so nothing supports the cosmetic payoff.",
+      "risk_as_practiced": 3,
+      "risk_supervised": 2,
+      "risk_rationale": "Even in expert hands, a 600-patient series reported 28 cases of temporary eye-surface swelling, one retrobulbar bleed (managed without surgery) and 18 repeat operations within two years, and over-tightening can round the corner of the eye. The authors call complications rare and minor, but no safety data were found for cosmetic work on healthy eyes outside specialist oculoplastic practice, and the change cannot be reversed.",
+      "key_harms": [
+        "Eyelid malposition needing repeat surgery",
+        "Bleeding behind the eye (one case in a 600-patient series)",
+        "Scarring and a permanently altered eye shape",
+        "Temporary swelling of the eye surface"
+      ],
+      "safer_alternative": "Try non-surgical changes to the eye area first (sleep, sun protection, brow grooming, eyewear choice). If you still want surgery, see an oculoplastic surgeon (an eye surgeon) in your own country and ask frankly what is and isn't reversible.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Aesthetic Lateral Canthoplasty",
+          "publisher": "Ophthalmic Plastic and Reconstructive Surgery",
+          "year": 2010,
+          "url": "https://doi.org/10.1097/iop.0b013e3181baa23f",
+          "type": "case-series",
+          "supports": "evidence_rationale sentence 1 (600 patients, 806 reconstructive and 244 cosmetic procedures, mean age 55); risk_rationale sentence 1 (28 cases of chemosis, one retrobulbar hematoma, 18 reoperations, over-tension can round the canthal angle); risk_rationale sentence 2 (complications described as rare and minor)",
+          "verified": true,
+          "verification_note": "Article text confirmed (600 patients, 806 reconstructive + 244 cosmetic, mean age 55, 28 chemosis, 1 retrobulbar hematoma, 18 reoperations, rounding of canthal angle under undue tension). URL replaced with the DOI after fact-check: the previous host was the first author's commercial practice site, and the same record (PMID 20489545) passes the same check via Europe PMC. The paper calls its complications \"rare and minor\"."
+        },
+        {
+          "title": "A Retrospective Review of Patients Undergoing Lateral Canthoplasty Techniques to Manage Existing or Potential Lower Eyelid Malposition: Identification of Seven Key Preoperative Findings",
+          "publisher": "Plastic and Reconstructive Surgery",
+          "year": 2015,
+          "url": "https://einstein.elsevierpure.com/en/publications/a-retrospective-review-of-patients-undergoing-lateral-canthoplast-2",
+          "type": "case-series",
+          "supports": "evidence_rationale sentence 1 (retrospective review of 146 patients with 86% surgeon-rated and 91% patient-rated success, for lower-eyelid malposition rather than a cosmetic tilt)",
+          "verified": true
+        },
+        {
+          "title": "Understanding the impact of eyebrow and lateral canthal height on the perception of character traits: A rating-based analysis of 2081 participants",
+          "publisher": "Journal of Plastic, Reconstructive & Aesthetic Surgery",
+          "year": 2025,
+          "url": "https://pure.eur.nl/en/publications/understanding-the-impact-of-eyebrow-and-lateral-canthal-height-on/",
+          "type": "cross-sectional",
+          "supports": "evidence_rationale sentence 2 (lateral canthus elevation on an edited unisex face lowered ratings of attractiveness and masculinity; this is a perception survey, not a surgical outcome study)",
+          "verified": true,
+          "verification_note": "Confirmed against the PubMed abstract (PMID 40174260): lateral canthus elevation affected attractiveness, femininity, masculinity and trustworthiness negatively. Edited unisex face, perception survey only."
+        }
+      ],
+      "internal_link": "/en/looks/hunter-eyes-explained/",
+      "confidence": "low",
+      "needs_human_review": true
+    },
+    {
+      "id": "rhinoplasty",
+      "name": "Rhinoplasty",
+      "category": "procedure",
+      "claim": "A well-done rhinoplasty permanently reshapes the nose to improve facial harmony and side profile.",
+      "claim_source": "https://looksmaxxing.guide/en/looks/looksmaxxing-surgery-guide/",
+      "evidence": 2,
+      "evidence_rationale": "Evidence is observational: a literature review reports 72-89% patient satisfaction, and a meta-analysis found facial cosmetic surgery produced no significant self-esteem change (g = 0.23, P = .268). Controlled evidence for the cosmetic result itself is thin.",
+      "risk_as_practiced": 2,
+      "risk_supervised": 2,
+      "risk_rationale": "Revision rates run about 5-15% and the result is permanent, with a residual hump and tip irregularities the most common complaints. People with body dysmorphic disorder, anxiety or depression are more likely to be unhappy even when the surgery is technically sound, and male sex has been labeled a potential risk factor for dissatisfaction.",
+      "key_harms": [
+        "Need for revision surgery (about 5-15%)",
+        "Persistent hump or tip irregularities",
+        "Dissatisfaction despite a technically good result",
+        "Excessive scarring"
+      ],
+      "safer_alternative": "Choose a surgeon on your country's specialist register who does a lot of nose surgery, ask to be screened for body dysmorphic disorder, get a second opinion, and reassess your goals before booking. Do not use filler as a shortcut, since the FDA lists the nose as an unapproved filler site.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Persistent cosmetic dissatisfaction in rhinoplasty & management of the difficult patient",
+          "publisher": "Plastic and Aesthetic Research",
+          "year": 2024,
+          "url": "https://www.oaepublish.com/articles/2347-9264.2023.111",
+          "type": "review",
+          "supports": "evidence_rationale sentence 1 (72-89% satisfaction); risk_rationale (revision 5-15%, residual dorsal hump and tip irregularities, male sex as a potential risk factor for dissatisfaction); key_harms items 1, 2 and 4",
+          "verified": true,
+          "verification_note": "Sentence rewritten to match the source after fact-check."
+        },
+        {
+          "title": "Psychosocial Factors Surrounding Aesthetic Rhinoplasty: A Systematic Review",
+          "publisher": "Plastic and Reconstructive Surgery Global Open",
+          "year": 2026,
+          "url": "https://doi.org/10.1097/GOX.0000000000007372",
+          "type": "systematic-review",
+          "supports": "risk_rationale sentence 2 (preexisting body dysmorphic disorder, anxiety or depression predicts lower satisfaction despite technically successful surgery); safer_alternative (preoperative mental health screening)",
+          "verified": true,
+          "verification_note": "DOI resolves (302 to publisher, paywalled 402 to WebFetch); record read via Europe PMC (PMID 41541245)."
+        },
+        {
+          "title": "The Impact of Cosmetic and Plastic Surgery on Self-Esteem: A Systematic Review and Meta-analysis",
+          "publisher": "Aesthetic Surgery Journal Open Forum",
+          "year": 2026,
+          "url": "https://doi.org/10.1093/asjof/ojag013",
+          "type": "systematic-review",
+          "supports": "evidence_rationale sentence 1 (facial surgery subgroup showed a smaller, nonsignificant self-esteem change, g = 0.23, P = .268)",
+          "verified": true,
+          "verification_note": "Facial subgroup g = 0.23, P = .268 in the PubMed abstract (the publisher page shows P = .277). Outcome is self-esteem, not the cosmetic result itself."
+        }
+      ],
+      "internal_link": "/en/looks/rhinoplasty-for-men/",
+      "confidence": "medium",
+      "needs_human_review": false
+    },
+    {
+      "id": "hair-transplant-abroad",
+      "name": "Hair transplant abroad (FUE, Turkey)",
+      "category": "procedure",
+      "claim": "A cheap, all-inclusive FUE hair transplant in Turkey gives a dense, natural, permanent hairline for a fraction of the home-country price.",
+      "claim_source": "https://looksmaxxing.guide/en/looks/looksmaxxing-surgery-turkey/",
+      "evidence": 2,
+      "evidence_rationale": "FUE is described as the most widely used transplant technique and as giving natural-looking results, but the cited review states this in passing rather than testing it, and no controlled trial of transplantation against no treatment was found. Nothing tests the specific claim that high-volume package clinics abroad deliver comparable density and safety.",
+      "risk_as_practiced": 3,
+      "risk_supervised": 1,
+      "risk_rationale": "The international society of hair restoration surgeons says clinics in Turkey that recruit foreign patients often rely on unlicensed technicians, with depleted donor areas, scarring, unnatural hairlines and infections among the problems its members report encountering. With qualified surgeons, published reviews put overall FUE complication rates at about 1.2-4.7%, mostly minor and self-limited.",
+      "key_harms": [
+        "Over-harvested, permanently thinned donor area",
+        "Permanent pinpoint scarring",
+        "Unnatural hairline or poor growth",
+        "Infection or scalp tissue death (rare)"
+      ],
+      "safer_alternative": "See a dermatologist first about whether medical treatment should come before surgery, then book a hair-restoration surgeon licensed in your own country and confirm in writing that the surgeon personally makes the incisions and removes the grafts. If you do travel, verify credentials and arrange aftercare before you go.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Complications in follicular unit excision hair transplantation: current evidence and practical approaches",
+          "publisher": "Frontiers in Medicine",
+          "year": 2026,
+          "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1750989/full",
+          "type": "review",
+          "supports": "evidence_rationale sentence 1 (FUE most widely used, natural-looking results); risk_rationale sentence 2 (overall complication rates 1.2-4.7%, mostly mild and self-limited); key_harms items 1 and 2 (donor over-harvesting, permanent scarring)",
+          "verified": true,
+          "verification_note": "Complications review; efficacy is asserted in one introductory sentence (\"natural-looking results\"), not tested. Not specific to Turkey."
+        },
+        {
+          "title": "Buyer Beware: Medical Tourism for Hair Transplants Can Have Costly Consequences",
+          "publisher": "International Society of Hair Restoration Surgery",
+          "year": 2016,
+          "url": "https://ishrs.org/buyer-beware-medical-tourism-for-hair-transplants-can-have-costly-consequences/",
+          "type": "expert-statement",
+          "supports": "risk_rationale sentence 1 (restrictions in Turkey led to illegal clinics where unlicensed technicians perform procedures); safer_alternative (verify credentials and who performs each surgical step)",
+          "verified": true,
+          "verification_note": "Published 18 May 2016, updated 27 Jun 2024. Society advisory/advocacy page, so re-typed from guideline to expert-statement after fact-check."
+        },
+        {
+          "title": "ISHRS Launches Fight the FIGHT Public Awareness Campaign to Combat Fraudulent Hair Restoration Practices Worldwide",
+          "publisher": "International Society of Hair Restoration Surgery",
+          "year": 2019,
+          "url": "https://ishrs.org/ishrs-launches-fight-the-fight-public-awareness-campaign/",
+          "type": "expert-statement",
+          "supports": "risk_rationale sentence 1 (ISHRS members report encountering scarring, unnatural hairlines, poor growth, depleted donor areas and infections after technician-performed procedures); key_harms items 1 to 3",
+          "verified": true,
+          "verification_note": "Content supports the sentence. Title and URL corrected after fact-check: the recorded URL 301-redirects to the page now cited, and the recorded title did not appear on it. The page is a press release (1 Nov 2019), not a guideline, so the type is expert-statement. The problem list is what ISHRS members report encountering."
+        },
+        {
+          "title": "Recipient Site Necrosis After Follicular Unit Excision Technique For Hair Transplantation: Evaluation of 18 Patients",
+          "publisher": "Aesthetic Plastic Surgery",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/s00266-024-04305-6",
+          "type": "case-series",
+          "supports": "key_harms item 4 (recipient-site necrosis is rare but serious; all 18 patients had scarring and graft failure)",
+          "verified": true,
+          "verification_note": "DOI resolves (302 to publisher); abstract read via Europe PMC (PMID 39160404). Retrospective case series of 18 patients."
+        }
+      ],
+      "internal_link": "/en/looks/looksmaxxing-surgery-turkey/",
+      "confidence": "low",
+      "needs_human_review": true
+    },
+    {
+      "id": "limb-lengthening-surgery",
+      "name": "Limb-lengthening surgery",
+      "category": "procedure",
+      "claim": "Cosmetic limb-lengthening surgery safely adds several centimetres of permanent height.",
+      "claim_source": null,
+      "evidence": 2,
+      "evidence_rationale": "Two systematic reviews (795 and 760 patients) report average gains of about 6.7 cm and satisfaction of roughly 89-98%, but the first found all included studies were level IV case series or retrospective reviews with no RCTs. Height gain is well documented; the 'safely' part rests on uncontrolled specialist-centre data.",
+      "risk_as_practiced": 3,
+      "risk_supervised": 2,
+      "risk_rationale": "Even in specialist-centre series, reviews report about 0.15 true complications per patient (new-bone deformity, ankle and subtalar joint stiffness), alongside frequent pin-site infection and ankle equinus, with some nerve injuries and fractures. The reviews do not capture cost-driven overseas clinics, so the as-practiced score is a judgment, not a measured rate.",
+      "key_harms": [
+        "Infection, including at pin sites",
+        "Joint stiffness or deformity (ankle, subtalar)",
+        "Deformity or fracture of the newly formed bone",
+        "Nerve injury"
+      ],
+      "safer_alternative": "Non-surgical ways to look taller (posture work, tailoring, lifts in footwear) carry far less risk, and a GP or clinical psychologist can help if height distress is significant. If you still pursue surgery, use a specialist limb-reconstruction orthopaedic unit with published outcomes rather than a cosmetic clinic.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Cosmetic stature lengthening: systematic review of outcomes and complications",
+          "publisher": "Bone & Joint Research",
+          "year": 2020,
+          "url": "https://boneandjoint.org.uk/Article/10.1302/2046-3758.97.BJR-2019-0379.R1",
+          "type": "systematic-review",
+          "supports": "evidence_rationale (11 studies, 795 patients, mean gain 6.7 cm, all level IV case series, no RCTs); risk_rationale sentence 1 (0.15 complications per patient, regenerate deformation, subtalar stiffness, ankle equinus, pin-track infection, nerve injuries and fractures reported)",
+          "verified": true,
+          "verification_note": "Nerve injuries and fractures confirmed in the full-text tables. Authors conclude \"low rate of major complications\"."
+        },
+        {
+          "title": "Aesthetic lower limb lengthening techniques: a systematic review of efficacy, complications, and patient satisfaction",
+          "publisher": "Journal of Orthopaedic Surgery and Research",
+          "year": 2025,
+          "url": "https://doi.org/10.1186/s13018-025-05808-x",
+          "type": "systematic-review",
+          "supports": "evidence_rationale (12 studies, 760 patients, average lengthening 67 mm, satisfaction 88.8-98%); key_harms (infections, bone-healing issues, joint deformities, material-related complications)",
+          "verified": true,
+          "verification_note": "DOI resolves (redirect chain ends at a publisher cookie handshake); abstract via Europe PMC (PMID 40275369) and full text via Europe PMC (PMC12020155): neurological, infectious, joint, bone and material-related complications confirmed."
+        }
+      ],
+      "internal_link": null,
+      "confidence": "medium",
+      "needs_human_review": true
+    }
+  ],
+  "proposed": [
+    {
+      "name": "Orthognathic (jaw) surgery for cosmetic goals",
+      "why": "Often called 'bimax' in the community, it is the legitimate surgical counterpart to bonesmashing and has established clinical indications, so a graded entry would show readers where the evidence-backed route differs from the do-it-yourself one."
+    }
+  ]
+}

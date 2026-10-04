@@ -1,0 +1,478 @@
+{
+  "generated": "2026-10-03",
+  "practices": [
+    {
+      "id": "trt-without-prescription",
+      "name": "TRT without a prescription",
+      "category": "compound",
+      "claim": "Self-sourced testosterone, with no doctor and no blood work, is a safe shortcut for healthy men to build muscle, drive and a more masculine look.",
+      "claim_source": "https://looksmaxxing.guide/en/looks/clavicular-trt-at-14-claim/",
+      "evidence": 2,
+      "evidence_rationale": "Testosterone therapy has mostly been tested in men with symptoms and repeatedly low blood levels; one short randomized trial in healthy men with normal levels found larger muscles and more strength at above-normal exposure, especially alongside training, but it aimed at muscle outcomes and says little about long-term safety, so the 'safe shortcut' claim has no direct support. The Endocrine Society guideline limits treatment to men with deficiency symptoms plus unequivocally and consistently low results.",
+      "risk_as_practiced": 3,
+      "risk_supervised": 2,
+      "risk_rationale": "Without blood work or monitoring, users cannot know their baseline or catch blood-pressure, blood-thickness or fertility problems, and a systematic review found about a third of black-market anabolic steroid samples were counterfeit and a similar share substandard. Even under supervision, the largest trial, in men aged 45-80 with low testosterone and heart disease or a high risk of it, saw more atrial fibrillation, pulmonary embolism and kidney injury than placebo, so treatment needs monitoring.",
+      "key_harms": [
+        "Reduced fertility",
+        "Higher blood pressure and thicker blood",
+        "Atrial fibrillation, clots and kidney injury (trial signal)",
+        "Counterfeit or mislabeled products"
+      ],
+      "safer_alternative": "See a GP or endocrinologist for repeat morning blood tests and a proper work-up before any hormone treatment. If levels are normal, sleep, resistance training and body-fat management are the routes with evidence; if fertility matters, raise it before starting anything.",
+      "legal_status": {
+        "US": "Schedule III controlled substance (anabolic steroids) under DEA scheduling.",
+        "UK": "Class C controlled drug (Schedule 4 Part II); supply requires authorisation.",
+        "AU": null,
+        "CA": "Anabolic steroids are Schedule IV controlled substances under the Controlled Drugs and Substances Act."
+      },
+      "sources": [
+        {
+          "title": "FDA issues class-wide labeling changes for testosterone products",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2025,
+          "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-issues-class-wide-labeling-changes-testosterone-products",
+          "type": "regulator",
+          "supports": "risk_rationale (blood-pressure monitoring) and key_harms 'Higher blood pressure'; evidence_rationale (labeling keeps its limitation of use for age-related low testosterone)",
+          "verified": true
+        },
+        {
+          "title": "Testosterone Therapy in Men With Hypogonadism: An Endocrine Society Clinical Practice Guideline",
+          "publisher": "Endocrine Society / Journal of Clinical Endocrinology & Metabolism",
+          "year": 2018,
+          "url": "https://www.endocrine.org/clinical-practice-guidelines/testosterone-therapy",
+          "type": "guideline",
+          "supports": "evidence_rationale sentence 2; key_harms 'Reduced fertility' and 'thicker blood' (not for men planning fertility or with raised hematocrit; monitoring advised)",
+          "verified": true
+        },
+        {
+          "title": "Cardiovascular Safety of Testosterone-Replacement Therapy",
+          "publisher": "New England Journal of Medicine",
+          "year": 2023,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37326322/",
+          "type": "rct",
+          "supports": "risk_rationale sentence 2 and key_harms 'Atrial fibrillation, clots and kidney injury'",
+          "verified": true
+        },
+        {
+          "title": "Fake anabolic androgenic steroids on the black market - a systematic review and meta-analysis on qualitative and quantitative analytical results found within the literature",
+          "publisher": "BMC Public Health",
+          "year": 2022,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9288681/",
+          "type": "systematic-review",
+          "supports": "risk_rationale sentence 1 (about a third counterfeit, a similar share substandard) and key_harms 'Counterfeit or mislabeled products'",
+          "verified": true
+        },
+        {
+          "title": "Health Canada advises consumers not to use unauthorized products containing anabolic steroids",
+          "publisher": "Health Canada",
+          "year": 2006,
+          "url": "https://www.canada.ca/en/news/archive/2006/04/health-canada-advises-consumers-not-use-unauthorized-products-containing-anabolic-steroids.html",
+          "type": "regulator",
+          "supports": "legal_status CA (Schedule IV) and key_harms 'Reduced fertility'",
+          "verified": true
+        },
+        {
+          "title": "Controlled Substance Schedules",
+          "publisher": "U.S. Drug Enforcement Administration, Diversion Control Division",
+          "year": 2026,
+          "url": "https://www.deadiversion.usdoj.gov/schedules/schedules.html",
+          "type": "regulator",
+          "supports": "legal_status US (anabolic steroids listed in Schedule III); undated live page, year is the year fetched",
+          "verified": true
+        },
+        {
+          "title": "CONTROLLED DRUGS (Home Office Circular 039/2003)",
+          "publisher": "Home Office (UK government)",
+          "year": 2003,
+          "url": "https://www.gov.uk/government/publications/controlled-drugs--7",
+          "type": "regulator",
+          "supports": "legal_status UK (Class C, Schedule 4 Part II; supply requires authorisation)",
+          "verified": true
+        },
+        {
+          "title": "The effects of supraphysiologic doses of testosterone on muscle size and strength in normal men",
+          "publisher": "New England Journal of Medicine",
+          "year": 1996,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8637535/",
+          "type": "rct",
+          "supports": "evidence_rationale sentence 1 (randomized trial in 43 healthy men with normal testosterone levels: testosterone increased muscle size and strength, especially with strength training; short, muscle outcomes only)",
+          "verified": true,
+          "verification_note": "Added by the editor after the fact-check, not by the fact-checker: the PubMed record (PMID 8637535) was fetched in this session through NCBI E-utilities and its abstract confirms the design and results described."
+        }
+      ],
+      "internal_link": "/en/looks/clavicular-trt-at-14-claim/",
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "sarms",
+      "name": "SARMs",
+      "category": "compound",
+      "claim": "SARMs deliver steroid-like muscle gain and fat loss without the side effects of steroids.",
+      "claim_source": "https://looksmaxxing.guide/en/looks/looksmaxxing-dangers-doctors-warn/",
+      "evidence": 2,
+      "evidence_rationale": "Randomized trials, mostly in older and clinical populations, show a modest gain in lean mass and physical performance, not steroid-like changes in healthy young men. Nothing supports the 'no side effects' half of the claim, and reviews of recreational users report drug-induced liver injury.",
+      "risk_as_practiced": 3,
+      "risk_supervised": null,
+      "risk_rationale": "FDA and Health Canada say SARMs are unapproved drugs linked to liver injury and possible heart-attack and stroke risk. Lab testing of products sold online as SARMs found that only 41% matched their label for the active compound and 39% contained other unapproved drugs.",
+      "key_harms": [
+        "Drug-induced liver injury",
+        "Lower HDL cholesterol and suppressed natural testosterone",
+        "Possible heart attack or stroke (FDA warning)",
+        "Mislabeled products with undeclared drugs"
+      ],
+      "safer_alternative": "Progressive resistance training with adequate protein and sleep; creatine monohydrate is the supplement with strong evidence. If you suspect a hormone problem, an endocrinologist can test and treat it properly.",
+      "legal_status": {
+        "US": "Unapproved drugs; FDA states they cannot be legally marketed as a drug or a dietary supplement.",
+        "UK": null,
+        "AU": null,
+        "CA": "Not authorized in Canada for any medical use."
+      },
+      "sources": [
+        {
+          "title": "FDA Warns of Use of Selective Androgen Receptor Modulators (SARMs) Among Teens, Young Adults",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2023,
+          "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+          "type": "regulator",
+          "supports": "risk_rationale sentence 1; key_harms (liver injury, heart attack or stroke); legal_status US",
+          "verified": true
+        },
+        {
+          "title": "Using bodybuilding products",
+          "publisher": "Health Canada",
+          "year": 2026,
+          "url": "https://www.canada.ca/en/health-canada/topics/buying-using-drug-health-products-safely/safe-use-bodybuilding-products.html",
+          "type": "regulator",
+          "supports": "legal_status CA (not authorized for any medical use); risk_rationale sentence 1 (hormonal suppression, heart and liver disease)",
+          "verified": true
+        },
+        {
+          "title": "Chemical Composition and Labeling of Substances Marketed as Selective Androgen Receptor Modulators and Sold via the Internet",
+          "publisher": "JAMA",
+          "year": 2017,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/29183075/",
+          "type": "cross-sectional",
+          "supports": "risk_rationale sentence 2 (41% matched label, 39% contained other unapproved drugs) and key_harms 'Mislabeled products'; cross-sectional product-testing study (research letter)",
+          "verified": true
+        },
+        {
+          "title": "Systematic Review of Safety of Selective Androgen Receptor Modulators in Healthy Adults: Implications for Recreational Users",
+          "publisher": "Journal of Xenobiotics",
+          "year": 2023,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10204391/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale sentence 2 (liver injury in recreational users) and key_harms 'Drug-induced liver injury' and 'Lower HDL cholesterol and suppressed natural testosterone'",
+          "verified": true
+        },
+        {
+          "title": "Selective Androgen Receptor Modulators (SARMs) Effects on Physical Performance: A Systematic Review of Randomized Control Trials",
+          "publisher": "Clinical Endocrinology",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39285652/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale sentence 1 (modest lean-mass and performance gains in trial populations averaging about 57 years old)",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/looks/looksmaxxing-dangers-doctors-warn/",
+      "confidence": "medium",
+      "needs_human_review": false
+    },
+    {
+      "id": "dnp",
+      "name": "DNP",
+      "category": "compound",
+      "claim": "DNP strips body fat fast, giving a quick route to a leaner, more defined physique.",
+      "claim_source": null,
+      "evidence": 2,
+      "evidence_rationale": "Reviews report rapid weight loss with DNP, which was used as a weight-loss drug before the US declared it not fit for human consumption in 1938, but this rests on historical and uncontrolled reports and no modern controlled trials were found. The weight loss comes with severe, sometimes fatal toxicity.",
+      "risk_as_practiced": 4,
+      "risk_supervised": null,
+      "risk_rationale": "DNP drives the body to overheat, there is no specific antidote, and a medical review counted 62 published deaths. A UK poison-service series recorded five deaths among 23 reported toxic exposures, mostly in young men.",
+      "key_harms": [
+        "Fatal overheating with no specific antidote",
+        "Documented deaths in the UK, Australia and elsewhere",
+        "Cataracts and liver damage (FDA)",
+        "Rapid heart rate, fever, sweating and collapse"
+      ],
+      "safer_alternative": "Supervised weight-loss care from a doctor or registered dietitian, which can include approved medication where it is clinically indicated.",
+      "legal_status": {
+        "US": "FDA has never approved DNP for human consumption.",
+        "UK": "Not treated as a controlled drug; the Advisory Council on the Misuse of Drugs advises that it is a poison rather than a drug, and Public Health England has said it is unfit for human consumption.",
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "2,4-Dinitrophenol (DNP): A Weight Loss Agent with Significant Acute Toxicity and Risk of Death",
+          "publisher": "Journal of Medical Toxicology",
+          "year": 2011,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3550200/",
+          "type": "review",
+          "supports": "evidence_rationale (weight loss reported; declared not fit for human consumption in 1938); risk_rationale sentence 1 (62 published deaths, no specific antidote); key_harms 'Fatal overheating' and 'Rapid heart rate, fever, sweating and collapse'",
+          "verified": true
+        },
+        {
+          "title": "Severe toxicity after use of 2,4-dinitrophenol reported to the UK National Poisons Information Service",
+          "publisher": "EAPCCT Congress abstract, hosted by the All Wales Therapeutics and Toxicology Centre",
+          "year": 2014,
+          "url": "https://awttc.nhs.wales/research-publications/severe-toxicity-after-use-of-24-dinitrophenol-reported-to-the-uk-national-poisons-information-service/",
+          "type": "case-series",
+          "supports": "risk_rationale sentence 2 (five deaths among 23 exposures, mostly young men)",
+          "verified": true
+        },
+        {
+          "title": "PHE supports FSA warnings over deadly weight loss supplement",
+          "publisher": "Public Health England (GOV.UK)",
+          "year": 2013,
+          "url": "https://www.gov.uk/government/news/phe-supports-fsa-warnings-over-deadly-weight-loss-supplement",
+          "type": "regulator",
+          "supports": "legal_status UK (unfit for human consumption) and key_harms 'Documented deaths'",
+          "verified": true
+        },
+        {
+          "title": "Letter to the Minister for Crime, Safeguarding and Vulnerability: Advice on 2,4-Dinitrophenol",
+          "publisher": "Advisory Council on the Misuse of Drugs (GOV.UK)",
+          "year": 2019,
+          "url": "https://www.gov.uk/government/publications/advice-on-24-dinitrophenol",
+          "type": "regulator",
+          "supports": "legal_status UK (a poison, not a drug; Misuse of Drugs Act judged not the right control)",
+          "verified": true
+        },
+        {
+          "title": "Retired New Jersey Doctor Sentenced for Selling Toxic DNP Online and Faking Cancer Diagnosis to Avoid Trial",
+          "publisher": "U.S. Food and Drug Administration, Office of Criminal Investigations",
+          "year": 2023,
+          "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/retired-new-jersey-doctor-sentenced-selling-toxic-dnp-online-and-faking-cancer-diagnosis-avoid-trial",
+          "type": "regulator",
+          "supports": "legal_status US (never approved for human consumption) and key_harms 'Cataracts and liver damage (FDA)'",
+          "verified": true
+        },
+        {
+          "title": "2,4-Dinitrophenol exposures and deaths in Australia after the 2017 up-scheduling",
+          "publisher": "Medical Journal of Australia",
+          "year": 2020,
+          "url": "https://www.mja.com.au/journal/2020/212/9/24-dinitrophenol-exposures-and-deaths-australia-after-2017-scheduling",
+          "type": "cohort",
+          "supports": "key_harms 'Documented deaths in the UK, Australia and elsewhere' (four deaths in Australia since 2015)",
+          "verified": true
+        }
+      ],
+      "internal_link": null,
+      "confidence": "high",
+      "needs_human_review": false
+    },
+    {
+      "id": "glp-1-non-pharmacy",
+      "name": "GLP-1 agonists from non-pharmacy sources",
+      "category": "compound",
+      "claim": "GLP-1 weight-loss injections bought outside regulated pharmacies give the same large, fast fat loss as prescribed ones, for less money.",
+      "claim_source": null,
+      "evidence": 1,
+      "evidence_rationale": "Randomized trials show that prescribed, regulated GLP-1 treatment produces substantial weight loss, but none test products bought outside pharmacies. One small product-testing study of such sellers judged every sample probable substandard or falsified, so equivalence is unproven.",
+      "risk_as_practiced": 3,
+      "risk_supervised": 2,
+      "risk_rationale": "Regulators in the US and UK warn of counterfeit, contaminated or mislabeled products, and the UK saw hospitalisations after fake pens that appeared to contain insulin. A product-testing study found very low purity and endotoxin in every sample, while supervised use scores 2 because it is prescription-only with common gastrointestinal side effects.",
+      "key_harms": [
+        "Low blood sugar and coma from fakes that appeared to contain insulin",
+        "Contamination, including endotoxin, and injection infections",
+        "Wrong-strength or mislabeled products serious enough to need hospital care",
+        "Nausea, vomiting and diarrhoea (common even with approved use)"
+      ],
+      "safer_alternative": "Get a prescription from a licensed clinician and fill it at a licensed pharmacy. If cost is the barrier, ask the prescriber about other approved options and structured lifestyle programmes.",
+      "legal_status": {
+        "US": "Prescription-only; FDA warns that unapproved or counterfeit versions have not been reviewed for safety, effectiveness or quality.",
+        "UK": "Prescription-only medicines; only registered pharmacies may legally supply them.",
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "FDA's Concerns with Unapproved GLP-1 Drugs Used for Weight Loss",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2026,
+          "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+          "type": "regulator",
+          "supports": "risk_rationale sentence 1 (counterfeit, contaminated, mislabeled products); key_harms 'Wrong-strength or mislabeled products' and 'injection infections'; legal_status US",
+          "verified": true
+        },
+        {
+          "title": "MHRA warns of unsafe fake weight loss pens",
+          "publisher": "Medicines and Healthcare products Regulatory Agency (GOV.UK)",
+          "year": 2023,
+          "url": "https://www.gov.uk/government/news/mhra-warns-of-unsafe-fake-weight-loss-pens",
+          "type": "regulator",
+          "supports": "risk_rationale sentence 1 (UK hospitalisations, fakes appearing to contain insulin); key_harms 'Low blood sugar and coma'; legal_status UK",
+          "verified": true
+        },
+        {
+          "title": "Multifactor Quality and Safety Analysis of Semaglutide Products Sold by Online Sellers Without a Prescription: Market Surveillance, Content Analysis, and Product Purchase Evaluation Study",
+          "publisher": "Journal of Medical Internet Research",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39509151/",
+          "type": "cross-sectional",
+          "supports": "evidence_rationale sentence 2 and risk_rationale sentence 2 (low purity, endotoxin in all samples); key_harms 'Contamination, including endotoxin'; cross-sectional product-testing study (three vials from online sellers)",
+          "verified": true
+        },
+        {
+          "title": "Once-Weekly Semaglutide in Adults with Overweight or Obesity",
+          "publisher": "New England Journal of Medicine",
+          "year": 2021,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33567185/",
+          "type": "rct",
+          "supports": "evidence_rationale sentence 1 (substantial weight loss with prescribed treatment) and key_harms 'Nausea, vomiting and diarrhoea' (nausea and diarrhoea most common)",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/fitness/glp-1-for-men-guide/",
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "research-peptides-bpc-157",
+      "name": "Research peptides (e.g. BPC-157)",
+      "category": "compound",
+      "claim": "Injectable 'research' peptides such as BPC-157 speed up healing of tendons, muscles and gut injuries and improve recovery.",
+      "claim_source": null,
+      "evidence": 1,
+      "evidence_rationale": "A 2025 systematic review found 36 studies on BPC-157 in orthopaedic sports medicine, 35 of them preclinical and one a small uncontrolled series of 12 patients with knee pain. No controlled human trial was among them.",
+      "risk_as_practiced": 3,
+      "risk_supervised": null,
+      "risk_rationale": "The same review found no clinical safety data, and FDA has said it lacks enough information to know whether BPC-157 would harm people, citing immunogenicity concerns. Health Canada adds that unauthorized injectable peptides may contain wrong amounts or contaminants whatever the 'research use only' label says.",
+      "key_harms": [
+        "No human safety data",
+        "Immune reactions (immunogenicity risk flagged by FDA)",
+        "Infection or allergic reaction from injected, unregulated product",
+        "Wrong or contaminated contents"
+      ],
+      "safer_alternative": "For a stubborn injury, see a sports-medicine physician or physiotherapist for a diagnosis and a supervised loading-based rehabilitation plan. For gut symptoms, see a GP or gastroenterologist.",
+      "legal_status": {
+        "US": "FDA's briefing document for the July 2026 advisory committee meeting proposed that BPC-157 not be included on the pharmacy-compounding bulks list (ulcerative colitis use); the committee is advisory only, and no final FDA determination has been published.",
+        "UK": null,
+        "AU": null,
+        "CA": "Unauthorized; Health Canada says 'research use only' labelling gives no exemption from the rules."
+      },
+      "sources": [
+        {
+          "title": "Emerging Use of BPC-157 in Orthopaedic Sports Medicine: A Systematic Review",
+          "publisher": "HSS Journal",
+          "year": 2025,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12313605/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale (35 preclinical studies, one 12-patient uncontrolled series); risk_rationale sentence 1 and key_harms 'No human safety data'",
+          "verified": true
+        },
+        {
+          "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2026,
+          "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+          "type": "regulator",
+          "supports": "risk_rationale sentence 1 (FDA lacks safety information; immunogenicity risk) and key_harms 'Immune reactions'",
+          "verified": true
+        },
+        {
+          "title": "July 23-24, 2026: Meeting of the Pharmacy Compounding Advisory Committee - 07/23/2026",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2026,
+          "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+          "type": "regulator",
+          "supports": "legal_status US (committee discussing BPC-157 for the bulks list for ulcerative colitis; advisory only; the page posts no minutes or vote result)",
+          "verified": true
+        },
+        {
+          "title": "FDA Briefing Document, Pharmacy Compounding Advisory Committee (PCAC) Meeting, July 23-24, 2026",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2026,
+          "url": "https://www.fda.gov/media/193342/download",
+          "type": "regulator",
+          "supports": "legal_status US (FDA proposes that BPC-157 not be included on the 503A bulks list, and does not intend to issue a final determination until the advisory process is complete)",
+          "verified": true
+        },
+        {
+          "title": "Think twice before injecting peptides bought online: unauthorized products can seriously harm you",
+          "publisher": "Health Canada",
+          "year": 2026,
+          "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+          "type": "regulator",
+          "supports": "legal_status CA; risk_rationale sentence 2; key_harms 'Infection or allergic reaction' and 'Wrong or contaminated contents'",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/fitness/peptides-guide-for-men/",
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "creatine-monohydrate",
+      "name": "Creatine monohydrate",
+      "category": "compound",
+      "claim": "Creatine monohydrate reliably adds strength and lean mass and is safe for healthy men.",
+      "claim_source": "https://looksmaxxing.guide/en/fitness/supplements-that-work/",
+      "evidence": 4,
+      "evidence_rationale": "A 2024 meta-analysis of randomized trials in adults under 50 found creatine plus resistance training raised upper- and lower-body strength more than placebo, with larger effects in men. The ISSN position stand and a 2025 meta-analysis of kidney outcomes support its safety in healthy people.",
+      "risk_as_practiced": 1,
+      "risk_supervised": 0,
+      "risk_rationale": "Weight gain is the only side effect consistently reported in healthy users. A 2025 meta-analysis found a small rise in blood creatinine but no change in kidney filtration.",
+      "key_harms": [
+        "Weight gain",
+        "Small rise in blood creatinine with no change in kidney filtration"
+      ],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": "FDA completed a 2020 review of a GRAS notice for creatine monohydrate as an ingredient in certain foods and drinks and had no questions.",
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine",
+          "publisher": "Journal of the International Society of Sports Nutrition",
+          "year": 2017,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5469049/",
+          "type": "guideline",
+          "supports": "evidence_rationale sentence 2 (safety) and risk_rationale sentence 1 (weight gain the only consistent side effect); also lean-mass benefit",
+          "verified": true
+        },
+        {
+          "title": "Effects of Creatine Supplementation and Resistance Training on Muscle Strength Gains in Adults <50 Years of Age: A Systematic Review and Meta-Analysis",
+          "publisher": "Nutrients",
+          "year": 2024,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11547435",
+          "type": "systematic-review",
+          "supports": "evidence_rationale sentence 1 (strength gains versus placebo, larger in men)",
+          "verified": true
+        },
+        {
+          "title": "Effect of creatine supplementation on kidney function: a systematic review and meta-analysis",
+          "publisher": "BMC Nephrology",
+          "year": 2025,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12590749/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale sentence 2; risk_rationale sentence 2; key_harms 'Small rise in blood creatinine'",
+          "verified": true
+        },
+        {
+          "title": "GRAS Notice GRN 000931: creatine monohydrate, FDA response letter (corrected)",
+          "publisher": "U.S. Food and Drug Administration, Center for Food Safety and Applied Nutrition",
+          "year": 2020,
+          "url": "https://www.fda.gov/media/144598/download",
+          "type": "regulator",
+          "supports": "legal_status US (FDA had no questions about the GRAS conclusion for the stated food uses)",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/fitness/supplements-that-work/",
+      "confidence": "high",
+      "needs_human_review": false
+    }
+  ],
+  "proposed": [
+    {
+      "name": "Clomiphene / enclomiphene as a 'natural TRT' alternative",
+      "why": "It is a recurring community claim that sits between prescribed TRT and SARMs, so readers comparing those options will look for it. It needs its own claim, evidence and risk grading rather than being folded into the TRT entry."
+    }
+  ]
+}

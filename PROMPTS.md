@@ -4,7 +4,15 @@ A one-page tool for [looksmaxxing.guide](https://looksmaxxing.guide) that places
 
 This file holds the prompts that build it, in the order they run, and the decisions behind them. The iteration log at the bottom is filled in while executing — real failures only.
 
-**Status (work in progress):** Prompt 1 ran as 5 parallel Sonnet agents, one per category; all 5 are done (`data/parts/`, 28 practices). Prompt 2: face is verified (`data/verification/face.md`, 12 verified / 1 weak / 0 fabricated) and its one proposed score change was reviewed and applied by hand (`data/review-decisions.md`); the other categories are being verified. Prompt 3 is done: `build.mjs` works and was developed against placeholder data (`data/fixture.json`) while the research ran. Prompt 4 is not run yet.
+**Status: shipped.** Live at https://tupap1.github.io/jubilant-dollop/
+
+- **Prompt 1** ran as 5 parallel Sonnet agents, one per category (`data/parts/`, 28 practices).
+- **Prompt 2** ran as 5 more agents that never saw the research: 121 sources checked, 116 verified, 5 weak, 0 mismatched, 0 fabricated (`data/verification/`).
+- **Human review:** 1 score change accepted, 1 rejected, ~30 over-stated sentences corrected by an editor pass (`data/review-decisions.md`, `data/corrections-log.md`).
+- **Prompt 3** was built in parallel against placeholder data (`data/fixture.json`), then run on the real dataset (`merge.mjs` → `build.mjs` → `docs/`).
+- **Prompt 4** (`qa-report.md`): no-JS content, data fidelity, links, contrast and weight pass; mobile (320/375 px) and keyboard checked by hand in a browser.
+
+The prompts below are the versions that ran. Two things changed after they ran and are in the iteration log rather than edited into the prompts: the source `type` list grew, and "7–9 h sleep" became "7 or more hours".
 
 ---
 
@@ -364,8 +372,11 @@ Filled in while running the prompts. Real failures only.
 |---|---|---|---|---|
 | 1 | 1 | PubMed pages return a cookie wall and several publishers return 403 to the fetch tool, so papers could not be read directly. | Both research agents reported it. | Read the same records through the NCBI E-utilities and Europe PMC APIs; the verification prompt now allows this and asks which method was used per source. |
 | 2 | 1 | The prompt contradicted itself: "no brands anywhere", but one practice is named "Aqualyx-type" and FDA pages have brand names in their titles. | The procedure agent flagged it. | Brands allowed only inside verbatim source titles and URLs, never in written prose. |
-| 3 | 1 | The source `type` list has no value for case series, perception surveys or expert statements, so agents squeezed them into "cohort" or "review". | Both research agents flagged it. | Pending: add `case-series` and `expert-statement` to the schema. |
+| 3 | 1 | The source `type` list has no value for case series, perception surveys or expert statements, so agents squeezed them into "cohort" or "review". | Both research agents flagged it. | Added `case-series`, `cross-sectional`, `experimental`, `expert-statement` and `health-info`; the editor pass re-typed 29 sources and `build.mjs` accepts them. |
 | 4 | 1 | No study looks at thumbpulling or bonesmashing directly, and there is no complication data specific to Turkey for hair transplants. | Agents set `needs_human_review` instead of forcing sources (the behavior the prompt asks for). | Pending: those scores need a clinician's review. |
-| 6 | 2 | The face dataset said face yoga had "no adverse events reported", but the cited study never mentions safety. The verifier also found 6 more sentences the sources don't back. | The verification report. | Pending: rewrite or cut those sentences. |
+| 6 | 2 | The face dataset said face yoga had "no adverse events reported", but the cited study never mentions safety. The verifier also found 6 more sentences the sources don't back. | The verification report. | Across all 5 reports about 30 such sentences; an editor agent rewrote or cut each one (102 logged changes in `data/corrections-log.md`), no scores touched. |
 | 7 | 3 | My build prompt assumed DNP has "real evidence of fat loss"; the research graded it 2 (only historical, uncontrolled reports). | The compound agent pointed it out. | The "risk 4 → Avoid first" rule still holds, but the reasoning in the prompt was wrong. |
-| 5 | 3 | Two of the site's own status colors (red #EF4444, blue #3B82F6) fail 4.5:1 as text on the dark background. | The build's contrast check. | Text uses lighter versions with the same hue; borders keep the original tokens. |
+| 5 | 3 | Two of the site's own status colors (red #EF4444, blue #3B82F6) fail 4.5:1 as text on their own tinted badge background (3.51 and 3.47; they pass on the page background). | The build's contrast check. | Text uses lighter versions with the same hue; borders keep the original tokens. |
+| 8 | 4 | Every source printed a "Supports:" line with internal field names ("evidence_rationale sentence 1…") meant for the fact-checker, not the reader. | QA agent. | Removed from the page; the field stays in `practices.json`. Follow-up: conflict-of-interest notes that lived there should move into the entry prose. |
+| 9 | 2 | After the editor cut an unsupported sentence, hair transplant abroad keeps evidence 2 with no cited efficacy study. | Editor agent. | Open: find a source or lower the score. |
+| 10 | 2 | BPC-157: secondary reports claim an FDA committee vote in July 2026, but no FDA page posts minutes or a vote. | Compound verifier. | The entry only says FDA proposed not including it and no final determination is published; check the FDA minutes before relying on it. |

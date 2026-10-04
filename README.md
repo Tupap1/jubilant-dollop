@@ -9,6 +9,7 @@ The prompts that build it, and the decisions behind them, are in [PROMPTS.md](PR
 Requires Node 18 or newer. There are no dependencies and nothing to install.
 
 ```sh
+node merge.mjs                       # joins data/verified/*.json into data/practices.verified.json
 node build.mjs                       # reads data/practices.verified.json
 node build.mjs data/fixture.json     # reads another file, e.g. the placeholder fixture
 ```

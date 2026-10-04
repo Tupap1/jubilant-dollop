@@ -1,0 +1,356 @@
+{
+  "generated": "2026-10-03",
+  "practices": [
+    {
+      "id": "daily-sunscreen",
+      "name": "Daily broad-spectrum sunscreen",
+      "category": "skin",
+      "claim": "Daily broad-spectrum sunscreen slows skin aging and lowers skin cancer risk.",
+      "claim_source": "https://looksmaxxing.guide/en/looks/looksmaxxing-skincare-routine-men/",
+      "evidence": 4,
+      "evidence_rationale": "FDA says sunscreens used as directed with other sun protection measures reduce the risk of skin cancer and early skin aging, and the Nambour randomized trial found less skin aging with daily use. Its long-term follow-up found about half as many melanomas in the daily-use group, a result at the edge of statistical significance.",
+      "risk_as_practiced": 0,
+      "risk_supervised": 0,
+      "risk_rationale": "Sunscreen is a regulated over-the-counter product and FDA still advises using it. FDA notes that some active ingredients are absorbed into the body and has asked manufacturers for more safety data.",
+      "key_harms": [
+        "Some UV-filter ingredients are absorbed through the skin; FDA is still gathering safety data",
+        "False sense of security if used instead of shade or clothing"
+      ],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": "Over-the-counter drug regulated by the FDA.",
+        "UK": null,
+        "AU": null,
+        "CA": "Non-prescription drug or natural health product under the Food and Drugs Act; authorized products carry a DIN or NPN."
+      },
+      "sources": [
+        {
+          "title": "Sunscreen: How to Help Protect Your Skin from the Sun",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2026,
+          "url": "https://www.fda.gov/drugs/understanding-over-counter-medicines/sunscreen-how-help-protect-your-skin-sun",
+          "type": "regulator",
+          "supports": "evidence_rationale sentence 1 (FDA statement on skin cancer and early skin aging); risk_rationale; legal_status.US",
+          "verified": true
+        },
+        {
+          "title": "Sunscreen and prevention of skin aging: a randomized trial",
+          "publisher": "Annals of Internal Medicine",
+          "year": 2013,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23732711/",
+          "type": "rct",
+          "supports": "evidence_rationale sentence 1 (less skin aging with daily use)",
+          "verified": true
+        },
+        {
+          "title": "Reduced melanoma after regular sunscreen use: randomized trial follow-up",
+          "publisher": "Journal of Clinical Oncology",
+          "year": 2011,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21135266/",
+          "type": "rct",
+          "supports": "evidence_rationale sentence 2 (about half as many melanomas, borderline significance)",
+          "verified": true
+        },
+        {
+          "title": "Sunscreens",
+          "publisher": "Health Canada",
+          "year": 2026,
+          "url": "https://www.canada.ca/en/health-canada/services/sun-safety/sunscreens.html",
+          "type": "regulator",
+          "supports": "legal_status.CA",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/looks/looksmaxxing-skincare-routine-men/",
+      "confidence": "high",
+      "needs_human_review": false
+    },
+    {
+      "id": "topical-tretinoin",
+      "name": "Topical tretinoin",
+      "category": "skin",
+      "claim": "Prescription tretinoin reverses skin aging and sun damage and clears acne.",
+      "claim_source": null,
+      "evidence": 3,
+      "evidence_rationale": "A systematic review of seven randomized trials found topical tretinoin improved wrinkling and mottled pigmentation, and the AAD acne guideline strongly recommends topical retinoids for acne. But the FDA label says it does not remove wrinkles or repair sun-damaged skin, so 'reverses' overstates it.",
+      "risk_as_practiced": 2,
+      "risk_supervised": 1,
+      "risk_rationale": "Prescription-only, and in label trials nearly everyone had peeling, dryness, burning or redness, mostly mild to moderate and early in treatment. Serious harm is not expected; the score reflects prescription status and the need for guidance on tolerance.",
+      "key_harms": [
+        "Peeling and dry skin",
+        "Burning, stinging and redness",
+        "Itching",
+        "Some users stop because of irritation"
+      ],
+      "safer_alternative": "Get it through a licensed prescriber (GP, dermatologist or regulated telehealth service) who sets the strength and pace, and use daily sunscreen alongside. For acne, benzoyl peroxide is another strongly recommended topical option.",
+      "legal_status": {
+        "US": "Prescription-only (Rx only on the FDA-approved label).",
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Topical tretinoin for treating photoaging: A systematic review of randomized controlled trials",
+          "publisher": "International Journal of Women's Dermatology",
+          "year": 2022,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35620028/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale sentence 1 (improved wrinkling and mottled pigmentation across seven RCTs)",
+          "verified": true
+        },
+        {
+          "title": "Prescribing information for tretinoin cream for photodamaged facial skin (FDA-approved label)",
+          "publisher": "U.S. Food and Drug Administration (Drugs@FDA)",
+          "year": 2000,
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2000/19963S5%2C7LBL.PDF",
+          "type": "regulator",
+          "supports": "evidence_rationale sentence 2 (does not remove wrinkles or repair sun-damaged skin); risk_rationale (local skin reactions, Rx only); legal_status.US",
+          "verified": true
+        },
+        {
+          "title": "Guidelines of care for the management of acne vulgaris",
+          "publisher": "Journal of the American Academy of Dermatology (American Academy of Dermatology)",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38300170/",
+          "type": "guideline",
+          "supports": "evidence_rationale sentence 1 (strong recommendation for topical retinoids in acne); safer_alternative sentence 2 (benzoyl peroxide)",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/looks/looksmaxxing-skincare-routine-men/",
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "isotretinoin-unsupervised",
+      "name": "Isotretinoin without dermatologist supervision",
+      "category": "skin",
+      "claim": "Isotretinoin clears even severe acne, and you can get and take it without a dermatologist.",
+      "claim_source": null,
+      "evidence": 3,
+      "evidence_rationale": "Isotretinoin is FDA-approved for severe recalcitrant nodular acne and the AAD guideline strongly recommends it for severe or treatment-resistant acne, but that evidence comes from prescribed, monitored use. No study found supports skipping the prescriber, and regulators advise the opposite.",
+      "risk_as_practiced": 3,
+      "risk_supervised": 2,
+      "risk_rationale": "Without a prescriber there is no screening or follow-up for the depression, suicidal thoughts and sexual side effects that regulators warn about, and the drug causes severe birth defects in pregnancy. A survey of online pharmacies found most would supply it without a valid prescription, often with gaps in safety information.",
+      "key_harms": [
+        "Depression and suicidal thoughts reported",
+        "Sexual function side effects",
+        "Severe birth defects if taken in pregnancy",
+        "No monitoring or follow-up without a prescriber"
+      ],
+      "safer_alternative": "See a dermatologist or GP: the AAD acne guideline strongly recommends benzoyl peroxide, topical retinoids, topical antibiotics and oral doxycycline, and recommends isotretinoin for acne that is severe, scarring, causing psychosocial burden or not responding to standard treatment, under prescriber oversight.",
+      "legal_status": {
+        "US": "Prescription-only, with restricted distribution under the iPLEDGE REMS.",
+        "UK": "Prescription-only black-triangle medicine for severe acne; the lead prescriber must have expertise in systemic retinoids.",
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Isotretinoin Capsule Information",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2026,
+          "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/isotretinoin-capsule-information",
+          "type": "regulator",
+          "supports": "evidence_rationale sentence 1 (approved indication); risk_rationale (mental health, birth defects, online purchase warning); legal_status.US",
+          "verified": true
+        },
+        {
+          "title": "Isotretinoin: introduction of new safety measures, including additional oversight of the initiation of treatment for patients under 18 years of age (Drug Safety Update)",
+          "publisher": "MHRA (UK Medicines and Healthcare products Regulatory Agency)",
+          "year": 2023,
+          "url": "https://www.gov.uk/drug-safety-update/isotretinoin-roaccutanev-introduction-of-new-safety-measures-including-additional-oversight-of-the-initiation-of-treatment-for-patients-under-18-years-of-age",
+          "type": "regulator",
+          "supports": "evidence_rationale sentence 2 (regulators advise prescriber oversight); risk_rationale (monitoring of mental health and sexual function); legal_status.UK",
+          "verified": true
+        },
+        {
+          "title": "Assessing the availability of the teratogenic drug isotretinoin outside the pregnancy prevention programme: a survey of e-pharmacies",
+          "publisher": "Pharmacoepidemiology and Drug Safety",
+          "year": 2014,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4265198",
+          "type": "cross-sectional",
+          "supports": "risk_rationale sentence 2 (most of 50 online pharmacies supplied it without a valid prescription, with gaps in safety information); cross-sectional survey of 50 online pharmacies",
+          "verified": true
+        },
+        {
+          "title": "Guidelines of care for the management of acne vulgaris",
+          "publisher": "Journal of the American Academy of Dermatology (American Academy of Dermatology)",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38300170/",
+          "type": "guideline",
+          "supports": "evidence_rationale sentence 1 (strong recommendation for isotretinoin in severe acne, acne causing psychosocial burden or scarring, or acne failing standard treatment); safer_alternative (strong recommendations for benzoyl peroxide, topical retinoids, topical antibiotics and oral doxycycline)",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/looks/looksmaxxing-skincare-routine-men/",
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "tanning-beds",
+      "name": "Tanning beds",
+      "category": "skin",
+      "claim": "Tanning beds give a safe base tan that protects against sunburn and supply healthy vitamin D.",
+      "claim_source": null,
+      "evidence": 0,
+      "evidence_rationale": "Health Canada says a tan from tanning equipment gives only very limited protection and that tanning equipment should not be used as a vitamin D source. A systematic review of 27 studies links sunbed use to higher melanoma risk, which contradicts the 'safe' part of the claim.",
+      "risk_as_practiced": 3,
+      "risk_supervised": null,
+      "risk_rationale": "Sunbed use raises melanoma risk (about 20% overall, nearly double if first used before age 35), and the harms include other skin cancers, premature aging and eye injury. There is no supervised version that makes cosmetic tanning safe, and regulators restrict it or advise against it.",
+      "key_harms": [
+        "Melanoma, higher if use starts before age 35",
+        "Other skin cancers",
+        "Premature skin aging",
+        "Eye injury such as photokeratitis and cataracts"
+      ],
+      "safer_alternative": "Skip UV tanning. Topical self-tanners colour the skin without UV but give little or no sun protection, so pair them with a broad-spectrum sunscreen.",
+      "legal_status": {
+        "US": "Legal for adults; FDA-regulated product that must carry a warning against use under age 18.",
+        "UK": "Commercial sunbed use is banned for under-18s (Sunbeds (Regulation) Act 2010).",
+        "AU": null,
+        "CA": "Legal for adults; Health Canada recommends against use and many provinces ban use by under-18s."
+      },
+      "sources": [
+        {
+          "title": "Cutaneous melanoma attributable to sunbed use: systematic review and meta-analysis",
+          "publisher": "The BMJ",
+          "year": 2012,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3404185",
+          "type": "systematic-review",
+          "supports": "evidence_rationale sentence 2 and risk_rationale sentence 1 (melanoma risk with ever use and with first use before 35)",
+          "verified": true
+        },
+        {
+          "title": "Tanning beds and equipment",
+          "publisher": "Health Canada",
+          "year": 2023,
+          "url": "https://www.canada.ca/en/health-canada/services/sun-safety/tanning-beds-lamps.html",
+          "type": "regulator",
+          "supports": "evidence_rationale sentence 1 (limited protection from a base tan; not a vitamin D source); key_harms; legal_status.CA",
+          "verified": true
+        },
+        {
+          "title": "Tanning products",
+          "publisher": "Health Canada",
+          "year": 2018,
+          "url": "https://www.canada.ca/en/health-canada/services/cosmetics/tanning-products.html",
+          "type": "regulator",
+          "supports": "safer_alternative (self-tanners colour the skin and give little or no sun protection)",
+          "verified": true
+        },
+        {
+          "title": "Sunlamps and Sunlamp Products (Tanning Beds/Booths)",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2020,
+          "url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/sunlamps-and-sunlamp-products-tanning-bedsbooths",
+          "type": "regulator",
+          "supports": "risk_rationale (skin cancer and premature aging from repeated UV exposure); legal_status.US",
+          "verified": true
+        },
+        {
+          "title": "Sunbeds (Regulation) Act 2010: Explanatory Notes",
+          "publisher": "UK legislation (legislation.gov.uk)",
+          "year": 2010,
+          "url": "https://www.legislation.gov.uk/ukpga/2010/20/notes/division/5",
+          "type": "regulator",
+          "supports": "legal_status.UK",
+          "verified": true
+        }
+      ],
+      "internal_link": null,
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "id": "melanotan-ii",
+      "name": "Melanotan II",
+      "category": "skin",
+      "claim": "Self-injected Melanotan II gives a deep, lasting tan without sun exposure.",
+      "claim_source": "https://looksmaxxing.guide/en/fitness/peptides-guide-for-men/",
+      "evidence": 2,
+      "evidence_rationale": "A small 1996 placebo-controlled pilot in three men found increased pigmentation in two of them, and no larger controlled study of its use as a tanning agent was found. No evidence found that the tan is lasting or protects against sunburn or skin cancer.",
+      "risk_as_practiced": 3,
+      "risk_supervised": null,
+      "risk_rationale": "No regulator has authorized it for tanning, so supply is unregulated, and Health Canada warns that such injectables can carry contaminants and cause infections. Case reports describe melanomas arising from existing moles during or shortly after use, although causation is unproven.",
+      "key_harms": [
+        "Nausea, fatigue and spontaneous erections reported in a three-man trial",
+        "Changes to moles; case reports of melanoma arising from existing moles",
+        "Infection and contamination risk from unregulated injectables"
+      ],
+      "safer_alternative": "Use broad-spectrum sunscreen and, if a tanned look is wanted, a topical self-tanner. Have any new or changing mole checked by a doctor.",
+      "legal_status": {
+        "US": "Unapproved new drug; selling it without an FDA-approved application violates federal law.",
+        "UK": "Unauthorised medicine; sale, supply and advertising are not permitted under the Human Medicines Regulations.",
+        "AU": null,
+        "CA": "Not authorized; unauthorized injectable peptide products, including Melanotan I and II, are illegal in Canada."
+      },
+      "sources": [
+        {
+          "title": "Evaluation of melanotan-II, a superpotent cyclic melanotropic peptide in a pilot phase-I clinical study",
+          "publisher": "Life Sciences",
+          "year": 1996,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8637402/",
+          "type": "experimental",
+          "supports": "evidence_rationale sentence 1 (pigmentation in two of three men); key_harms item 1 (nausea, fatigue and spontaneous erections reported in the three-man trial); single-blind, placebo-controlled pilot in three men",
+          "verified": true
+        },
+        {
+          "title": "Risks of unregulated use of alpha-melanocyte-stimulating hormone analogues: a review",
+          "publisher": "International Journal of Dermatology",
+          "year": 2017,
+          "url": "https://repub.eur.nl/pub/98589",
+          "type": "review",
+          "supports": "risk_rationale sentence 2 and key_harms item 2 (case reports of melanoma arising from existing moles)",
+          "verified": true
+        },
+        {
+          "title": "Think twice before injecting peptides bought online: unauthorized products can seriously harm you",
+          "publisher": "Health Canada",
+          "year": 2026,
+          "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+          "type": "regulator",
+          "supports": "risk_rationale sentence 1 (contaminants and infections); key_harms item 3; legal_status.CA",
+          "verified": true
+        },
+        {
+          "title": "FOI 24/274: Side effects reports of melanotan II products",
+          "publisher": "MHRA (UK Medicines and Healthcare products Regulatory Agency)",
+          "year": 2024,
+          "url": "https://assets.publishing.service.gov.uk/media/669fbd3aa3c2a28abb50d55a/Final_Redaction_FOI_24_274.pdf",
+          "type": "regulator",
+          "supports": "risk_rationale sentence 1 (no safeguards on quality, safety or effectiveness); legal_status.UK",
+          "verified": true
+        },
+        {
+          "title": "Notice of Opportunity for Hearing: Manookian, Edward (8/5/16)",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2016,
+          "url": "https://www.fda.gov/regulatory-information/electronic-reading-room/notice-opportunity-hearing-nooh-manookian-edward-8516",
+          "type": "regulator",
+          "supports": "legal_status.US (Melanotan II is an unapproved new drug that cannot be sold without an approved application)",
+          "verified": true
+        },
+        {
+          "title": "Tanning products",
+          "publisher": "Health Canada",
+          "year": 2018,
+          "url": "https://www.canada.ca/en/health-canada/services/cosmetics/tanning-products.html",
+          "type": "regulator",
+          "supports": "safer_alternative (topical self-tanners; no oral tanning drugs authorized for sale in Canada)",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/fitness/peptides-guide-for-men/",
+      "confidence": "medium",
+      "needs_human_review": false
+    }
+  ],
+  "proposed": [
+    {
+      "name": "Sunless self-tanner (topical)",
+      "why": "It is the lower-risk substitute for the two riskiest tanning entries here (tanning beds, Melanotan II), so readers will want to know how it compares, though it gives little or no sun protection."
+    }
+  ]
+}

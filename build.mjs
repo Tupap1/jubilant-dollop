@@ -95,6 +95,8 @@ const MARKETS = [['US', 'United States'], ['UK', 'United Kingdom'], ['AU', 'Aust
 const SOURCE_TYPES = {
   regulator: 'Regulator', 'systematic-review': 'Systematic review', rct: 'RCT', guideline: 'Guideline',
   cohort: 'Cohort study', 'case-report': 'Case report', review: 'Review',
+  'case-series': 'Case series', 'cross-sectional': 'Cross-sectional study', experimental: 'Experimental study',
+  'expert-statement': 'Expert statement', 'health-info': 'Health information',
 };
 const GUIDE_PATH = /^\/en\/[a-z0-9\-/]+\/$/;
 // Ids used by the page itself; a practice may not take one.
@@ -351,7 +353,7 @@ function renderEntry(p) {
   const sources = p.sources.length
     ? `<ol class="sources">${p.sources.map((s) => {
         const meta = [s.publisher, s.year > 0 ? s.year : null].filter(Boolean).map(esc).join(', ');
-        return `<li><span class="badge">${esc(SOURCE_TYPES[s.type] || s.type || 'Source')}</span> <a href="${esc(s.url)}" rel="noopener noreferrer">${esc(s.title)}</a>${meta ? `<span class="src-meta"> — ${meta}</span>` : ''}${s.verified === false ? ' <span class="unv">(not independently verified)</span>' : ''}${isStr(s.supports) ? `<span class="supports">Supports: ${esc(s.supports)}</span>` : ''}</li>`;
+        return `<li><span class="badge">${esc(SOURCE_TYPES[s.type] || s.type || 'Source')}</span> <a href="${esc(s.url)}" rel="noopener noreferrer">${esc(s.title)}</a>${meta ? `<span class="src-meta"> — ${meta}</span>` : ''}${s.verified === false ? ' <span class="unv">(not independently verified)</span>' : ''}</li>`;
       }).join('')}</ol>`
     : '<p class="nosrc">No sources listed for this entry yet.</p>';
   const guide = isStr(p.internal_link) ? `<p><a class="guide" href="${esc(SITE + p.internal_link)}">Read the full guide <span aria-hidden="true">→</span></a></p>` : '';
@@ -491,7 +493,6 @@ h2{font-size:clamp(1.4rem,3.5vw,1.9rem);margin-bottom:1rem}
 .badge{display:inline-block;padding:.15rem .45rem;margin-right:.15rem;background:var(--s2);color:var(--text);border:1px solid var(--muted);border-radius:.25rem;font:600 .75rem/1.2 ${SG};letter-spacing:.05em;text-transform:uppercase;vertical-align:.1em}
 .entry:target .badge{background:var(--bg)}
 .src-meta,.unv{color:var(--muted)}
-.supports{display:block;color:var(--muted);font-size:1rem}
 .nosrc{color:var(--muted);margin:0}
 .guide{display:inline-block;margin:.25rem 0 .5rem;padding:.6rem 1.1rem;background:var(--gold);color:var(--bg);font:700 1rem/1.2 ${SG};text-decoration:none;border-radius:.375rem}
 .guide:hover{text-decoration:underline}
@@ -590,7 +591,7 @@ const html = `<!doctype html>
 <meta property="og:title" content="${esc(TITLE)}">
 <meta property="og:description" content="${esc(DESCRIPTION)}">
 <meta property="og:url" content="${esc(PAGE_URL)}">${OG_IMAGE ? `\n<meta property="og:image" content="${esc(OG_IMAGE)}">` : ''}
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="${OG_IMAGE ? 'summary_large_image' : 'summary'}">
 <meta name="twitter:title" content="${esc(TITLE)}">
 <meta name="twitter:description" content="${esc(DESCRIPTION)}">${OG_IMAGE ? `\n<meta name="twitter:image" content="${esc(OG_IMAGE)}">` : ''}
 <link rel="icon" href="data:,">

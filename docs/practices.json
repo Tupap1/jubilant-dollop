@@ -1,0 +1,1966 @@
+{
+  "generated": "2026-10-03",
+  "last_reviewed": "2026-10-03",
+  "practices": [
+    {
+      "id": "mewing",
+      "name": "Mewing",
+      "category": "face",
+      "claim": "Holding the tongue flat against the roof of the mouth (correct \"oral posture\") reshapes adult facial bone, giving a sharper jawline, a more forward upper jaw and more defined cheekbones.",
+      "claim_source": "https://aaoinfo.org/wp-content/uploads/2025/01/Risks-of-Mewing.pdf",
+      "evidence": 0,
+      "evidence_rationale": "No trial or imaging study testing mewing on adult jaw shape turned up in a PubMed search, and the American Association of Orthodontists states there is no scientific evidence that it reshapes the jawline. Tongue posture matters for oral function, but that is a much weaker claim than changing adult bone.",
+      "risk_as_practiced": 1,
+      "risk_supervised": null,
+      "risk_rationale": "The AAO warns that chronic tongue pressure can loosen teeth, shift the bite and affect speech, but no study quantifies this. The bigger cost is time spent on a method that does not deliver while a real bite or jaw problem goes unassessed.",
+      "key_harms": [
+        "Tooth movement or bite change from chronic pressure",
+        "Speech changes",
+        "Jaw muscle or TMJ tension",
+        "Delays a real orthodontic assessment"
+      ],
+      "safer_alternative": "An orthodontist consult for any bite, jaw-alignment or tongue-posture concern.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "American Association of Orthodontists Warns Against Popular \"Mewing\" Trend",
+          "publisher": "American Association of Orthodontists",
+          "year": 2024,
+          "url": "https://aaoinfo.org/wp-content/uploads/2025/01/Risks-of-Mewing.pdf",
+          "type": "expert-statement",
+          "supports": "evidence_rationale sentence 1 (no scientific evidence that mewing reshapes the jawline); risk_rationale sentence 1 and key_harms (loosened teeth, bite change, speech changes)",
+          "verified": true
+        },
+        {
+          "title": "Does Mewing Actually Reshape Your Jaw?",
+          "publisher": "American Association of Orthodontists",
+          "year": 2025,
+          "url": "https://aaoinfo.org/whats-trending/is-mewing-bad-for-you/",
+          "type": "expert-statement",
+          "supports": "evidence_rationale sentence 1 (no scientific support for jaw-sculpting claims); key_harms (bite problems, TMJ pain, speech difficulty from uneven tongue pressure)",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/looks/does-mewing-work/",
+      "confidence": "medium",
+      "needs_human_review": false
+    },
+    {
+      "id": "bonesmashing",
+      "name": "Bonesmashing",
+      "category": "face",
+      "claim": "Striking the cheekbones and jaw with a hammer or similar tool creates microfractures that heal as denser, more projecting bone, producing a sharper jawline and higher cheekbones.",
+      "claim_source": "https://www.mater.org.au/about-us/news/mater-news/2026/april/mater-doctors-warn-of-dangers-of-bone-smashing-trend",
+      "evidence": 0,
+      "evidence_rationale": "No human study shows that repeated blows reshape adult facial bone; a plastic surgeon at Mater Private Hospital Brisbane says they cause swelling and microfractures that do not improve appearance. Even professionally treated cheekbone-arch fractures leave some asymmetry in 20-40% of patients, the opposite of the promised result.",
+      "risk_as_practiced": 3,
+      "risk_supervised": null,
+      "risk_rationale": "Deliberate blows to the face can fracture the cheekbone or jaw, and in a pooled analysis about half of patients with cheekbone-complex fractures had infraorbital nerve dysfunction, with numbness sometimes persisting long term. No documented deaths or case series of permanent disability were found, so this is rated High rather than Severe.",
+      "key_harms": [
+        "Facial fracture needing surgery",
+        "Lasting numbness from nerve injury",
+        "Bite change and tooth damage",
+        "Permanent asymmetry or scarring"
+      ],
+      "safer_alternative": "A consult with an orthodontist or oral and maxillofacial surgeon, who can say what is realistic for your face and treat any genuine bite or jaw problem safely.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Mater doctors warn of dangers of bone-smashing trend",
+          "publisher": "Mater (Australia)",
+          "year": 2026,
+          "url": "https://www.mater.org.au/about-us/news/mater-news/2026/april/mater-doctors-warn-of-dangers-of-bone-smashing-trend",
+          "type": "expert-statement",
+          "supports": "evidence_rationale sentence 1 (blows cause swelling and microfractures that do not improve appearance); key_harms (nerve damage, bite and tooth problems, permanent disfigurement). Expert statement by a plastic surgeon, not a study.",
+          "verified": true
+        },
+        {
+          "title": "Evaluating infra-orbital nerve injury in zygomaticomaxillary complex fractures: a systematic review and meta-analysis",
+          "publisher": "Frontiers in Oral Health",
+          "year": 2025,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12714943/",
+          "type": "systematic-review",
+          "supports": "risk_rationale sentence 1 (pooled infraorbital nerve dysfunction of 51.9% after cheekbone-complex fractures, with deficits that may persist). Data are from clinical fractures, extrapolated to deliberate strikes; no bonesmashing cohort exists.",
+          "verified": true
+        },
+        {
+          "title": "Zygomatic Arch Fracture",
+          "publisher": "StatPearls (NCBI Bookshelf)",
+          "year": 2024,
+          "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK549898/",
+          "type": "review",
+          "supports": "evidence_rationale sentence 2 (postoperative asymmetry in 20-40% of patients); risk_rationale (long-term paresthesia in 22-65%); key_harms. Data are from clinical fractures, extrapolated to deliberate strikes.",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/looks/is-bonesmashing-dangerous/",
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "thumbpulling",
+      "name": "Thumbpulling",
+      "category": "face",
+      "claim": "Pulling outward on the roof of the mouth with the thumbs widens and advances the adult upper jaw, giving more tongue room, higher cheekbones and a better-balanced face.",
+      "claim_source": "https://mewing.coach/blog/thumb-pulling",
+      "evidence": 0,
+      "evidence_rationale": "A PubMed title and abstract search for thumb pulling returned no results. One studied non-surgical route to adult upper-jaw expansion is a miniscrew-anchored appliance, not finger pressure.",
+      "risk_as_practiced": 1,
+      "risk_supervised": null,
+      "risk_rationale": "No harm cases are documented, so this score is an inference from mechanism: uncontrolled finger force on teeth, gums and the jaw joint is most likely to cause irritation or soreness. The harms are not well characterized, which is why confidence is low.",
+      "key_harms": [
+        "Gum and mouth-lining irritation",
+        "Tooth or bite change from uncontrolled force",
+        "Jaw joint strain",
+        "Delays a proper orthodontic assessment"
+      ],
+      "safer_alternative": "An orthodontist can assess palate width and bite with imaging and, if a narrow palate is confirmed, treat it with a specialist expansion appliance.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Efficacy of Miniscrew-Assisted Rapid Palatal Expansion (MARPE) in late adolescents and adults: a systematic review and meta-analysis",
+          "publisher": "European Journal of Orthodontics",
+          "year": 2021,
+          "url": "https://academic.oup.com/ejo/article/43/3/313/6244623",
+          "type": "systematic-review",
+          "supports": "evidence_rationale sentence 2 and safer_alternative (one studied non-surgical route to adult upper-jaw expansion is a miniscrew-anchored appliance, with dental tipping and thinner buccal bone as documented side effects). Does not study finger pressure; the review rates 7 of its 8 included studies at serious risk of bias and 1 at moderate.",
+          "verified": true
+        },
+        {
+          "title": "Analysis of the Frequency and Correlated Factors of Midpalatal Suture Maturation Stages in Young Adults, Based on Cone Beam Computed Tomography Imaging",
+          "publisher": "Journal of Clinical Medicine",
+          "year": 2022,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9740603/",
+          "type": "cross-sectional",
+          "supports": "safer_alternative (whether an adult palate is a candidate for expansion varies by individual and is judged with CBCT imaging, not by age or by trial and error). Cross-sectional imaging study of 142 scans, ages 15-30; says nothing about thumb pulling.",
+          "verified": true
+        }
+      ],
+      "internal_link": null,
+      "confidence": "low",
+      "needs_human_review": true
+    },
+    {
+      "id": "jawline-gum-jaw-exercisers",
+      "name": "Jawline chewing gum / jaw exercisers",
+      "category": "face",
+      "claim": "Chewing very hard gum or using resistance jaw trainers builds the jaw muscles and gives a sharper, more chiseled jawline.",
+      "claim_source": "https://www.thenationalnews.com/lifestyle/wellbeing/2024/08/06/chewing-gum-jawline-fitness/",
+      "evidence": 0,
+      "evidence_rationale": "A randomized trial in healthy adults (58 participants, six months of gum-chewing training) raised bite force but found no change in masseter thickness or jaw shape. A trial that did show masseter thickening tested chewing exercises in adults aged 65 and over, and one case report describes masseter hypertrophy as bulging at the angle of the jaw.",
+      "risk_as_practiced": 1,
+      "risk_supervised": null,
+      "risk_rationale": "A systematic review of 8 studies found gum chewing ranges from no link to jaw-disorder symptoms through to dose-dependent muscle discomfort and hypertrophy, which generally eases when chewing stops. No study of very hard gum or resistance jaw trainers was found, so their harms are unquantified.",
+      "key_harms": [
+        "Jaw muscle pain",
+        "Temporomandibular disorder symptoms",
+        "Masseter hypertrophy (bulging at the angle of the jaw)"
+      ],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Effects of gum chewing training on occlusal force, masseter muscle thickness and mandibular shape: A randomised controlled clinical trial",
+          "publisher": "Journal of Oral Rehabilitation",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39215439/",
+          "type": "rct",
+          "supports": "evidence_rationale sentence 1 (no change in masseter thickness or mandibular shape in healthy adults after 6 months of gum-chewing training; bite force rose)",
+          "verified": true
+        },
+        {
+          "title": "Effects of chewing exercises on the occlusal force and masseter muscle thickness in community-dwelling Koreans aged 65 years and older: A randomised assessor-blind trial",
+          "publisher": "Journal of Oral Rehabilitation",
+          "year": 2020,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32589302/",
+          "type": "rct",
+          "supports": "evidence_rationale sentence 2 (chewing exercises increased masseter thickness versus controls, but only in adults aged 65 and over)",
+          "verified": true
+        },
+        {
+          "title": "Association of temporomandibular disorders and other jaw anomalies in chewing gum users - a systematic review",
+          "publisher": "Journal of Oral & Facial Pain and Headache",
+          "year": 2025,
+          "url": "https://www.jofph.com/articles/10.22514/jofph.2025.022",
+          "type": "systematic-review",
+          "supports": "risk_rationale sentence 1 and key_harms (mixed findings, with a dose-dependent pattern of muscle discomfort and hypertrophy in some studies)",
+          "verified": true
+        },
+        {
+          "title": "Benign masseter muscle hypertrophy",
+          "publisher": "Brazilian Journal of Otorhinolaryngology",
+          "year": 2008,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19082365/",
+          "type": "case-report",
+          "supports": "evidence_rationale sentence 2 and key_harms (masseter hypertrophy presents as bulging at the mandibular angle and has been associated with gum-chewing habits and TMJ dysfunction). Single case report; association only.",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/looks/looksmaxxing-jawline/",
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "facial-exercises",
+      "name": "Facial exercises (\"face yoga\")",
+      "category": "face",
+      "claim": "Daily facial exercises build the facial muscles, lifting the cheeks and tightening the jaw so the face looks more defined and younger.",
+      "claim_source": "https://health.clevelandclinic.org/can-doing-facial-exercises-help-you-look-younger-face-yoga",
+      "evidence": 2,
+      "evidence_rationale": "One uncontrolled 20-week pilot of 16 completers (27 enrolled), all women aged 40-65, found small gains in cheek fullness and an apparent age about 2.7 years younger on blinded rating. A systematic review of nine earlier uncontrolled studies found the evidence insufficient; the pilot measured cheek fullness and apparent age, not jawline definition.",
+      "risk_as_practiced": 0,
+      "risk_supervised": 0,
+      "risk_rationale": "The practice involves no product or procedure, so the score rests on mechanism: the cited pilot trial does not report on safety either way. The main cost is time spent on a method with limited proof.",
+      "key_harms": [],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Association of Facial Exercise With the Appearance of Aging",
+          "publisher": "JAMA Dermatology",
+          "year": 2018,
+          "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2666801",
+          "type": "experimental",
+          "supports": "evidence_rationale sentence 1 (open-label, no control group; women aged 40-65; cheek fullness and apparent age improved; 11 of 27 dropped out). The letter does not report on safety. An author founded the company behind the exercise programme used in the study (commercial conflict of interest).",
+          "verified": true,
+          "verification_note": "Sentence rewritten to match the source after fact-check."
+        },
+        {
+          "title": "The effectiveness of facial exercises for facial rejuvenation: a systematic review",
+          "publisher": "Aesthetic Surgery Journal",
+          "year": 2014,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24327764/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale sentence 2 (nine reports, none controlled or randomized; evidence insufficient to judge effectiveness)",
+          "verified": true
+        }
+      ],
+      "internal_link": null,
+      "confidence": "medium",
+      "needs_human_review": false
+    },
+    {
+      "id": "dermal-fillers-jaw-chin",
+      "name": "Dermal fillers (jaw/chin)",
+      "category": "procedure",
+      "claim": "Injecting filler into the jaw and chin instantly gives a sharper, more defined jawline and a stronger profile without surgery.",
+      "claim_source": null,
+      "evidence": 4,
+      "evidence_rationale": "The FDA has approved hyaluronic acid fillers for chin augmentation and, since 2022, one filler for jawline definition, and a systematic review found significant improvement in 17 of 24 chin studies, including four RCTs. Results fade, with global improvement ratings falling from 82-100% early on to 52-77% at 12-18 months.",
+      "risk_as_practiced": 2,
+      "risk_supervised": 1,
+      "risk_rationale": "Bruising and swelling are common, but an accidental injection into a blood vessel can cause tissue death, vision loss or stroke, and the risk depends on the injector's anatomy knowledge and on whether the product is regulator-approved. In a review covering 2,259 treated chin patients, serious events were rare (one necrosis, one vascular occlusion) and lumps resolved once the filler was dissolved.",
+      "key_harms": [
+        "Bruising and swelling",
+        "Lumps or nodules",
+        "Blocked blood vessel causing tissue death, vision loss or stroke (rare)",
+        "Permanent disfigurement with non-approved permanent fillers such as injectable silicone"
+      ],
+      "safer_alternative": "Use a licensed, medically trained injector with a regulator-approved, dissolvable hyaluronic acid filler, and avoid permanent fillers. If the chin or jaw is structurally weak, ask an orthodontist or maxillofacial surgeon whether a lasting fix suits you better.",
+      "legal_status": {
+        "US": "FDA-regulated medical devices; approved fillers are indicated for chin augmentation, and one product is approved for jawline definition, in adults over 21; use in the nose, forehead and around the eyes is not approved.",
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Dermal Fillers (Soft Tissue Fillers)",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2023,
+          "url": "https://www.fda.gov/medical-devices/aesthetic-cosmetic-devices/dermal-fillers-soft-tissue-fillers",
+          "type": "regulator",
+          "supports": "evidence_rationale sentence 1 (chin augmentation is an approved filler indication); risk_rationale sentence 1 (vascular blockage, necrosis, vision loss, stroke); key_harms item 4 (injectable silicone); legal_status.US",
+          "verified": true
+        },
+        {
+          "title": "JUVÉDERM VOLUX XC – P110033/S065",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2022,
+          "url": "https://www.fda.gov/medical-devices/recently-approved-devices/juvederm-volux-xc-p110033s065",
+          "type": "regulator",
+          "supports": "evidence_rationale sentence 1 (a filler approved in 2022 for jawline definition in adults over 21); legal_status.US",
+          "verified": true
+        },
+        {
+          "title": "The Application and Efficacy of Hyaluronic Acid Fillers for Chin Enhancement and Retrusion Correction: A Systematic Review of Patient-Reported Outcomes",
+          "publisher": "Cureus",
+          "year": 2023,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10719547/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale (17 of 24 studies significant, four RCTs, rating decline at 12-18 months); risk_rationale sentence 2 (2,259 patients, one necrosis, one vascular occlusion, nodules resolved with hyaluronidase)",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/looks/looksmaxxing-dangers-doctors-warn/",
+      "confidence": "medium",
+      "needs_human_review": false
+    },
+    {
+      "id": "fat-dissolving-injections",
+      "name": "Fat-dissolving injections (deoxycholic acid, incl. Aqualyx-type products)",
+      "category": "procedure",
+      "claim": "Injected 'fat dissolvers' permanently melt chin and jowl fat without surgery.",
+      "claim_source": "https://looksmaxxing.guide/en/looks/clavicular-aqualyx-jenny-popach/",
+      "evidence": 3,
+      "evidence_rationale": "Randomized trials of the single approved deoxycholic acid drug show lasting improvement in under-chin fat, and a follow-up of patients who had responded to treatment found 82.4% still held at least a one-grade improvement at three years, against 65.0% on placebo. Controlled data cover only that licensed product under the chin; none was found for unapproved fat-dissolving products or for the jowls.",
+      "risk_as_practiced": 3,
+      "risk_supervised": 2,
+      "risk_rationale": "The FDA reports permanent scars, serious infections, skin deformities and deep painful knots from unapproved fat-dissolving injections, and has logged 129 cases of adverse events, some serious, when the approved drug was used outside the chin, including vision problems and muscle or nerve injury. Its 2026 safety communication on the approved drug also counts 117 unresolved cases of lumps or masses, averaging about 5 months.",
+      "key_harms": [
+        "Persistent lumps or masses",
+        "Nerve or muscle injury",
+        "Serious infection and permanent scarring",
+        "Vision problems when injected near the eyes"
+      ],
+      "safer_alternative": "Ask a licensed clinician about the regulator-approved prescription treatment for under-chin fat, which is approved for that area only, and start with supervised weight-management care if the fat is general rather than local. Avoid self-injection and any product bought online.",
+      "legal_status": {
+        "US": "Only one deoxycholic acid injection is FDA-approved, for under-chin fat in adults; other fat-dissolving injections are unapproved.",
+        "UK": null,
+        "AU": "A deoxycholic acid injection for under-chin fat in adults is listed as a prescription-only (Schedule 4) medicine.",
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "FDA Approves Additional Information in Labeling for Kybella (Deoxycholic Acid) Injection Warning of Adverse Reactions Associated with Unapproved Use",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2026,
+          "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-approves-additional-information-labeling-kybella-deoxycholic-acid-injection-warning-adverse",
+          "type": "regulator",
+          "supports": "risk_rationale (129 adverse-event cases outside the chin, some serious, including vision problems and muscle or nerve injury; 117 unresolved nodule or mass cases, about 5 months on average, injection site not stated); key_harms items 1, 2 and 4; legal_status.US",
+          "verified": true,
+          "verification_note": "Sentence rewritten to match the source after fact-check."
+        },
+        {
+          "title": "Using Fat-Dissolving Injections That Are Not FDA Approved Can Be Harmful",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2023,
+          "url": "https://www.fda.gov/drugs/buying-using-medicine-safely/using-fat-dissolving-injections-are-not-fda-approved-can-be-harmful",
+          "type": "regulator",
+          "supports": "risk_rationale sentence 1 (permanent scars, serious infections, skin deformities, painful knots from unapproved products); key_harms item 3; safer_alternative (do not self-inject products bought online); legal_status.US",
+          "verified": true
+        },
+        {
+          "title": "Improvements in Submental Contour up to 3 Years After ATX-101: Efficacy and Safety Follow-Up of the Phase 3 REFINE Trials",
+          "publisher": "Aesthetic Surgery Journal",
+          "year": 2021,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8520020/",
+          "type": "rct",
+          "supports": "evidence_rationale sentence 1 (RCT follow-up of patients who had responded to treatment: 82.4% on the active drug maintained at least one grade of improvement at year 3 versus 65.0% on placebo; 224 patients enrolled). An author is employed by the drug's manufacturer.",
+          "verified": true,
+          "verification_note": "Sentence rewritten to match the source after fact-check."
+        },
+        {
+          "title": "Belkyra | healthdirect",
+          "publisher": "healthdirect Australia",
+          "year": 2026,
+          "url": "https://www.healthdirect.gov.au/medicines/brand/amt,884901000168103/belkyra",
+          "type": "health-info",
+          "supports": "legal_status.AU (Schedule 4 prescription-only; indicated for submental fat in adults)",
+          "verified": true,
+          "verification_note": "Title corrected to the page's own title and type changed from regulator to health-info after fact-check (healthdirect is a government-funded health information service reporting ARTG data, not the regulator itself). Content confirms Schedule 4, submental fat in adults."
+        }
+      ],
+      "internal_link": "/en/looks/clavicular-aqualyx-jenny-popach/",
+      "confidence": "medium",
+      "needs_human_review": false
+    },
+    {
+      "id": "lateral-canthoplasty",
+      "name": "Lateral canthoplasty ('hunter eyes' surgery)",
+      "category": "procedure",
+      "claim": "Surgically raising the outer corner of the eye creates a positive canthal tilt ('hunter eyes') that makes the face look more attractive and masculine.",
+      "claim_source": "https://looksmaxxing.guide/en/looks/hunter-eyes-explained/",
+      "evidence": 1,
+      "evidence_rationale": "Case series show lateral canthal surgery can reposition the outer eyelid corner, but mostly for lid-laxity indications in a mean-age-55 population rather than young men wanting a tilt. The one rating study found (an edited face, 2,081 raters) scored an elevated outer corner lower on attractiveness and masculinity, so nothing supports the cosmetic payoff.",
+      "risk_as_practiced": 3,
+      "risk_supervised": 2,
+      "risk_rationale": "Even in expert hands, a 600-patient series reported 28 cases of temporary eye-surface swelling, one retrobulbar bleed (managed without surgery) and 18 repeat operations within two years, and over-tightening can round the corner of the eye. The authors call complications rare and minor, but no safety data were found for cosmetic work on healthy eyes outside specialist oculoplastic practice, and the change cannot be reversed.",
+      "key_harms": [
+        "Eyelid malposition needing repeat surgery",
+        "Bleeding behind the eye (one case in a 600-patient series)",
+        "Scarring and a permanently altered eye shape",
+        "Temporary swelling of the eye surface"
+      ],
+      "safer_alternative": "Try non-surgical changes to the eye area first (sleep, sun protection, brow grooming, eyewear choice). If you still want surgery, see an oculoplastic surgeon (an eye surgeon) in your own country and ask frankly what is and isn't reversible.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Aesthetic Lateral Canthoplasty",
+          "publisher": "Ophthalmic Plastic and Reconstructive Surgery",
+          "year": 2010,
+          "url": "https://doi.org/10.1097/iop.0b013e3181baa23f",
+          "type": "case-series",
+          "supports": "evidence_rationale sentence 1 (600 patients, 806 reconstructive and 244 cosmetic procedures, mean age 55); risk_rationale sentence 1 (28 cases of chemosis, one retrobulbar hematoma, 18 reoperations, over-tension can round the canthal angle); risk_rationale sentence 2 (complications described as rare and minor)",
+          "verified": true,
+          "verification_note": "Article text confirmed (600 patients, 806 reconstructive + 244 cosmetic, mean age 55, 28 chemosis, 1 retrobulbar hematoma, 18 reoperations, rounding of canthal angle under undue tension). URL replaced with the DOI after fact-check: the previous host was the first author's commercial practice site, and the same record (PMID 20489545) passes the same check via Europe PMC. The paper calls its complications \"rare and minor\"."
+        },
+        {
+          "title": "A Retrospective Review of Patients Undergoing Lateral Canthoplasty Techniques to Manage Existing or Potential Lower Eyelid Malposition: Identification of Seven Key Preoperative Findings",
+          "publisher": "Plastic and Reconstructive Surgery",
+          "year": 2015,
+          "url": "https://einstein.elsevierpure.com/en/publications/a-retrospective-review-of-patients-undergoing-lateral-canthoplast-2",
+          "type": "case-series",
+          "supports": "evidence_rationale sentence 1 (retrospective review of 146 patients with 86% surgeon-rated and 91% patient-rated success, for lower-eyelid malposition rather than a cosmetic tilt)",
+          "verified": true
+        },
+        {
+          "title": "Understanding the impact of eyebrow and lateral canthal height on the perception of character traits: A rating-based analysis of 2081 participants",
+          "publisher": "Journal of Plastic, Reconstructive & Aesthetic Surgery",
+          "year": 2025,
+          "url": "https://pure.eur.nl/en/publications/understanding-the-impact-of-eyebrow-and-lateral-canthal-height-on/",
+          "type": "cross-sectional",
+          "supports": "evidence_rationale sentence 2 (lateral canthus elevation on an edited unisex face lowered ratings of attractiveness and masculinity; this is a perception survey, not a surgical outcome study)",
+          "verified": true,
+          "verification_note": "Confirmed against the PubMed abstract (PMID 40174260): lateral canthus elevation affected attractiveness, femininity, masculinity and trustworthiness negatively. Edited unisex face, perception survey only."
+        }
+      ],
+      "internal_link": "/en/looks/hunter-eyes-explained/",
+      "confidence": "low",
+      "needs_human_review": true
+    },
+    {
+      "id": "rhinoplasty",
+      "name": "Rhinoplasty",
+      "category": "procedure",
+      "claim": "A well-done rhinoplasty permanently reshapes the nose to improve facial harmony and side profile.",
+      "claim_source": "https://looksmaxxing.guide/en/looks/looksmaxxing-surgery-guide/",
+      "evidence": 2,
+      "evidence_rationale": "Evidence is observational: a literature review reports 72-89% patient satisfaction, and a meta-analysis found facial cosmetic surgery produced no significant self-esteem change (g = 0.23, P = .268). Controlled evidence for the cosmetic result itself is thin.",
+      "risk_as_practiced": 2,
+      "risk_supervised": 2,
+      "risk_rationale": "Revision rates run about 5-15% and the result is permanent, with a residual hump and tip irregularities the most common complaints. People with body dysmorphic disorder, anxiety or depression are more likely to be unhappy even when the surgery is technically sound, and male sex has been labeled a potential risk factor for dissatisfaction.",
+      "key_harms": [
+        "Need for revision surgery (about 5-15%)",
+        "Persistent hump or tip irregularities",
+        "Dissatisfaction despite a technically good result",
+        "Excessive scarring"
+      ],
+      "safer_alternative": "Choose a surgeon on your country's specialist register who does a lot of nose surgery, ask to be screened for body dysmorphic disorder, get a second opinion, and reassess your goals before booking. Do not use filler as a shortcut, since the FDA lists the nose as an unapproved filler site.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Persistent cosmetic dissatisfaction in rhinoplasty & management of the difficult patient",
+          "publisher": "Plastic and Aesthetic Research",
+          "year": 2024,
+          "url": "https://www.oaepublish.com/articles/2347-9264.2023.111",
+          "type": "review",
+          "supports": "evidence_rationale sentence 1 (72-89% satisfaction); risk_rationale (revision 5-15%, residual dorsal hump and tip irregularities, male sex as a potential risk factor for dissatisfaction); key_harms items 1, 2 and 4",
+          "verified": true,
+          "verification_note": "Sentence rewritten to match the source after fact-check."
+        },
+        {
+          "title": "Psychosocial Factors Surrounding Aesthetic Rhinoplasty: A Systematic Review",
+          "publisher": "Plastic and Reconstructive Surgery Global Open",
+          "year": 2026,
+          "url": "https://doi.org/10.1097/GOX.0000000000007372",
+          "type": "systematic-review",
+          "supports": "risk_rationale sentence 2 (preexisting body dysmorphic disorder, anxiety or depression predicts lower satisfaction despite technically successful surgery); safer_alternative (preoperative mental health screening)",
+          "verified": true,
+          "verification_note": "DOI resolves (302 to publisher, paywalled 402 to WebFetch); record read via Europe PMC (PMID 41541245)."
+        },
+        {
+          "title": "The Impact of Cosmetic and Plastic Surgery on Self-Esteem: A Systematic Review and Meta-analysis",
+          "publisher": "Aesthetic Surgery Journal Open Forum",
+          "year": 2026,
+          "url": "https://doi.org/10.1093/asjof/ojag013",
+          "type": "systematic-review",
+          "supports": "evidence_rationale sentence 1 (facial surgery subgroup showed a smaller, nonsignificant self-esteem change, g = 0.23, P = .268)",
+          "verified": true,
+          "verification_note": "Facial subgroup g = 0.23, P = .268 in the PubMed abstract (the publisher page shows P = .277). Outcome is self-esteem, not the cosmetic result itself."
+        }
+      ],
+      "internal_link": "/en/looks/rhinoplasty-for-men/",
+      "confidence": "medium",
+      "needs_human_review": false
+    },
+    {
+      "id": "hair-transplant-abroad",
+      "name": "Hair transplant abroad (FUE, Turkey)",
+      "category": "procedure",
+      "claim": "A cheap, all-inclusive FUE hair transplant in Turkey gives a dense, natural, permanent hairline for a fraction of the home-country price.",
+      "claim_source": "https://looksmaxxing.guide/en/looks/looksmaxxing-surgery-turkey/",
+      "evidence": 2,
+      "evidence_rationale": "FUE is described as the most widely used transplant technique and as giving natural-looking results, but the cited review states this in passing rather than testing it, and no controlled trial of transplantation against no treatment was found. Nothing tests the specific claim that high-volume package clinics abroad deliver comparable density and safety.",
+      "risk_as_practiced": 3,
+      "risk_supervised": 1,
+      "risk_rationale": "The international society of hair restoration surgeons says clinics in Turkey that recruit foreign patients often rely on unlicensed technicians, with depleted donor areas, scarring, unnatural hairlines and infections among the problems its members report encountering. With qualified surgeons, published reviews put overall FUE complication rates at about 1.2-4.7%, mostly minor and self-limited.",
+      "key_harms": [
+        "Over-harvested, permanently thinned donor area",
+        "Permanent pinpoint scarring",
+        "Unnatural hairline or poor growth",
+        "Infection or scalp tissue death (rare)"
+      ],
+      "safer_alternative": "See a dermatologist first about whether medical treatment should come before surgery, then book a hair-restoration surgeon licensed in your own country and confirm in writing that the surgeon personally makes the incisions and removes the grafts. If you do travel, verify credentials and arrange aftercare before you go.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Complications in follicular unit excision hair transplantation: current evidence and practical approaches",
+          "publisher": "Frontiers in Medicine",
+          "year": 2026,
+          "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1750989/full",
+          "type": "review",
+          "supports": "evidence_rationale sentence 1 (FUE most widely used, natural-looking results); risk_rationale sentence 2 (overall complication rates 1.2-4.7%, mostly mild and self-limited); key_harms items 1 and 2 (donor over-harvesting, permanent scarring)",
+          "verified": true,
+          "verification_note": "Complications review; efficacy is asserted in one introductory sentence (\"natural-looking results\"), not tested. Not specific to Turkey."
+        },
+        {
+          "title": "Buyer Beware: Medical Tourism for Hair Transplants Can Have Costly Consequences",
+          "publisher": "International Society of Hair Restoration Surgery",
+          "year": 2016,
+          "url": "https://ishrs.org/buyer-beware-medical-tourism-for-hair-transplants-can-have-costly-consequences/",
+          "type": "expert-statement",
+          "supports": "risk_rationale sentence 1 (restrictions in Turkey led to illegal clinics where unlicensed technicians perform procedures); safer_alternative (verify credentials and who performs each surgical step)",
+          "verified": true,
+          "verification_note": "Published 18 May 2016, updated 27 Jun 2024. Society advisory/advocacy page, so re-typed from guideline to expert-statement after fact-check."
+        },
+        {
+          "title": "ISHRS Launches Fight the FIGHT Public Awareness Campaign to Combat Fraudulent Hair Restoration Practices Worldwide",
+          "publisher": "International Society of Hair Restoration Surgery",
+          "year": 2019,
+          "url": "https://ishrs.org/ishrs-launches-fight-the-fight-public-awareness-campaign/",
+          "type": "expert-statement",
+          "supports": "risk_rationale sentence 1 (ISHRS members report encountering scarring, unnatural hairlines, poor growth, depleted donor areas and infections after technician-performed procedures); key_harms items 1 to 3",
+          "verified": true,
+          "verification_note": "Content supports the sentence. Title and URL corrected after fact-check: the recorded URL 301-redirects to the page now cited, and the recorded title did not appear on it. The page is a press release (1 Nov 2019), not a guideline, so the type is expert-statement. The problem list is what ISHRS members report encountering."
+        },
+        {
+          "title": "Recipient Site Necrosis After Follicular Unit Excision Technique For Hair Transplantation: Evaluation of 18 Patients",
+          "publisher": "Aesthetic Plastic Surgery",
+          "year": 2024,
+          "url": "https://doi.org/10.1007/s00266-024-04305-6",
+          "type": "case-series",
+          "supports": "key_harms item 4 (recipient-site necrosis is rare but serious; all 18 patients had scarring and graft failure)",
+          "verified": true,
+          "verification_note": "DOI resolves (302 to publisher); abstract read via Europe PMC (PMID 39160404). Retrospective case series of 18 patients."
+        }
+      ],
+      "internal_link": "/en/looks/looksmaxxing-surgery-turkey/",
+      "confidence": "low",
+      "needs_human_review": true
+    },
+    {
+      "id": "limb-lengthening-surgery",
+      "name": "Limb-lengthening surgery",
+      "category": "procedure",
+      "claim": "Cosmetic limb-lengthening surgery safely adds several centimetres of permanent height.",
+      "claim_source": null,
+      "evidence": 2,
+      "evidence_rationale": "Two systematic reviews (795 and 760 patients) report average gains of about 6.7 cm and satisfaction of roughly 89-98%, but the first found all included studies were level IV case series or retrospective reviews with no RCTs. Height gain is well documented; the 'safely' part rests on uncontrolled specialist-centre data.",
+      "risk_as_practiced": 3,
+      "risk_supervised": 2,
+      "risk_rationale": "Even in specialist-centre series, reviews report about 0.15 true complications per patient (new-bone deformity, ankle and subtalar joint stiffness), alongside frequent pin-site infection and ankle equinus, with some nerve injuries and fractures. The reviews do not capture cost-driven overseas clinics, so the as-practiced score is a judgment, not a measured rate.",
+      "key_harms": [
+        "Infection, including at pin sites",
+        "Joint stiffness or deformity (ankle, subtalar)",
+        "Deformity or fracture of the newly formed bone",
+        "Nerve injury"
+      ],
+      "safer_alternative": "Non-surgical ways to look taller (posture work, tailoring, lifts in footwear) carry far less risk, and a GP or clinical psychologist can help if height distress is significant. If you still pursue surgery, use a specialist limb-reconstruction orthopaedic unit with published outcomes rather than a cosmetic clinic.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Cosmetic stature lengthening: systematic review of outcomes and complications",
+          "publisher": "Bone & Joint Research",
+          "year": 2020,
+          "url": "https://boneandjoint.org.uk/Article/10.1302/2046-3758.97.BJR-2019-0379.R1",
+          "type": "systematic-review",
+          "supports": "evidence_rationale (11 studies, 795 patients, mean gain 6.7 cm, all level IV case series, no RCTs); risk_rationale sentence 1 (0.15 complications per patient, regenerate deformation, subtalar stiffness, ankle equinus, pin-track infection, nerve injuries and fractures reported)",
+          "verified": true,
+          "verification_note": "Nerve injuries and fractures confirmed in the full-text tables. Authors conclude \"low rate of major complications\"."
+        },
+        {
+          "title": "Aesthetic lower limb lengthening techniques: a systematic review of efficacy, complications, and patient satisfaction",
+          "publisher": "Journal of Orthopaedic Surgery and Research",
+          "year": 2025,
+          "url": "https://doi.org/10.1186/s13018-025-05808-x",
+          "type": "systematic-review",
+          "supports": "evidence_rationale (12 studies, 760 patients, average lengthening 67 mm, satisfaction 88.8-98%); key_harms (infections, bone-healing issues, joint deformities, material-related complications)",
+          "verified": true,
+          "verification_note": "DOI resolves (redirect chain ends at a publisher cookie handshake); abstract via Europe PMC (PMID 40275369) and full text via Europe PMC (PMC12020155): neurological, infectious, joint, bone and material-related complications confirmed."
+        }
+      ],
+      "internal_link": null,
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "topical-minoxidil",
+      "name": "Topical minoxidil",
+      "category": "hair",
+      "claim": "Minoxidil applied to the scalp thickens thinning hair and regrows lost hair in male pattern baldness.",
+      "claim_source": "https://www.hairlosstalk.com/interact/threads/minoxidil-5-results.96395/post-1288935",
+      "evidence": 4,
+      "evidence_rationale": "It is sold without a prescription with FDA-labeled use to regrow hair on the top of the scalp in men, and meta-analyses of placebo-controlled trials find more hair growth than placebo. Only a subset of users get cosmetically meaningful regrowth, and gains last only while it is used.",
+      "risk_as_practiced": 1,
+      "risk_supervised": 1,
+      "risk_rationale": "Common effects are scalp irritation and unwanted facial hair, and the label tells users to stop for chest pain, rapid heartbeat, dizziness or sudden swelling. One case report describes low blood pressure after far too much was applied, so overuse is the main avoidable problem.",
+      "key_harms": [
+        "scalp irritation or redness",
+        "unwanted facial hair growth",
+        "chest pain, rapid heartbeat or dizziness (stop-use signs)",
+        "hair loss resumes if you stop"
+      ],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": "Non-prescription (OTC): FDA Drug Facts labeling covers regrowing hair on the top of the scalp in men.",
+        "UK": null,
+        "AU": "Pharmacy medicine (Schedule 2), available without a prescription.",
+        "CA": "Listed as a non-prescription drug in Health Canada's Drug Product Database."
+      },
+      "sources": [
+        {
+          "title": "Minoxidil topical solution for men: non-prescription Drug Facts label",
+          "publisher": "U.S. Food and Drug Administration (FDALabel)",
+          "year": 2024,
+          "url": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/ccaecec5-5348-4b24-9190-5464c50f6d80/spl-doc",
+          "type": "regulator",
+          "supports": "evidence_rationale (labeled use is to regrow hair on the top of the scalp in men); legal_status.US; key_harms and risk_rationale (stop-use signs, hair loss resumes without continued use).",
+          "verified": true
+        },
+        {
+          "title": "Topical Minoxidil: Systematic Review and Meta-Analysis of Its Efficacy in Androgenetic Alopecia",
+          "publisher": "Skinmed",
+          "year": 2015,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26380504/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale: more effective than placebo for hair growth, with cosmetically acceptable results in only a subset of patients.",
+          "verified": true
+        },
+        {
+          "title": "The effectiveness of treatments for androgenetic alopecia: A systematic review and meta-analysis",
+          "publisher": "Journal of the American Academy of Dermatology",
+          "year": 2017,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28396101/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale: minoxidil was superior to placebo in pooled randomized trials in men.",
+          "verified": true
+        },
+        {
+          "title": "Drug Product Database: minoxidil topical solution for men (non-prescription)",
+          "publisher": "Health Canada",
+          "year": 2026,
+          "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=7084",
+          "type": "regulator",
+          "supports": "legal_status.CA: schedule listed as non-prescription drugs.",
+          "verified": true
+        },
+        {
+          "title": "Minoxidil topical solution for androgenic alopecia: Australian medicine listing (Schedule 2)",
+          "publisher": "healthdirect Australia",
+          "year": 2026,
+          "url": "https://www.healthdirect.gov.au/medicines/brand/amt,45451000168101/regaine-men-s-extra-strength",
+          "type": "health-info",
+          "supports": "legal_status.AU: Schedule 2 pharmacy medicine, available from a pharmacy without a prescription.",
+          "verified": true
+        },
+        {
+          "title": "Topical Minoxidil Overdose in a Young Man With Androgenetic Alopecia: A Case Report",
+          "publisher": "Cureus",
+          "year": 2024,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11246695/",
+          "type": "case-report",
+          "supports": "risk_rationale: dizziness and low blood pressure after applying far too much, resolving once stopped.",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/looks/hair-transplant-looksmaxxing/",
+      "confidence": "high",
+      "needs_human_review": false
+    },
+    {
+      "id": "low-dose-oral-minoxidil",
+      "name": "Low-dose oral minoxidil",
+      "category": "hair",
+      "claim": "A low-dose minoxidil tablet regrows hair across the scalp as well as or better than the topical solution, without having to apply a solution to the scalp.",
+      "claim_source": "https://www.hairlosstalk.com/interact/threads/oral-minoxidil-loniten.40631",
+      "evidence": 3,
+      "evidence_rationale": "Four randomized trials (279 patients) found oral minoxidil no different from the topical on hair density or diameter over about 6 to 9 months, and the topical has placebo-controlled proof. The trials compared oral with topical rather than with placebo, the FDA does not list hair loss as an approved use, and nothing shows it beats the topical.",
+      "risk_as_practiced": 2,
+      "risk_supervised": 1,
+      "risk_rationale": "The FDA label for minoxidil tablets opens with a warning about fluid around the heart and worsened angina in its approved hypertension use; in hair-loss use, reviews report mostly excess hair growth, swelling and dizziness, and fluid around the heart is extremely rare and often tied to compounding errors. It needs a prescriber who checks blood pressure, heart history and other medicines, which self-sourcing skips.",
+      "key_harms": [
+        "unwanted face and body hair, about twice as often as with the topical",
+        "fluid retention and swelling",
+        "dizziness, low blood pressure or fast heartbeat",
+        "rare fluid around the heart"
+      ],
+      "safer_alternative": "Start with a licensed topical, or ask a dermatologist or GP about prescription options; if the oral route is on the table, they check blood pressure, heart history and other medicines first and follow up.",
+      "legal_status": {
+        "US": "Off-label. Minoxidil tablets are prescription-only and labeled for severe hypertension; the FDA label says use to promote hair growth is not an approved indication.",
+        "UK": null,
+        "AU": "Prescription-only (Schedule 4); the listed tablet product is registered for severe refractory hypertension.",
+        "CA": "Prescription-only in Health Canada's Drug Product Database; the listed tablet product is classed as an antihypertensive."
+      },
+      "sources": [
+        {
+          "title": "Efficacy and safety of oral minoxidil versus topical solution in androgenetic alopecia: a meta-analysis of randomized clinical trials",
+          "publisher": "International Journal of Dermatology",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39425514/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale (four randomized trials, 279 patients, no difference in hair density or diameter versus topical); key_harms (hypertrichosis about twice as frequent with oral).",
+          "verified": true
+        },
+        {
+          "title": "Low-dose oral minoxidil as treatment for non-scarring alopecia: a systematic review",
+          "publisher": "International Journal of Dermatology",
+          "year": 2020,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32516434/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale context (objective improvement reported in 61 to 100 percent of androgenetic alopecia patients across the included studies); key_harms (hypertrichosis and postural hypotension most common).",
+          "verified": true
+        },
+        {
+          "title": "Characterization and Management of Adverse Events of Low-Dose Oral Minoxidil Treatment for Alopecia: A Narrative Review",
+          "publisher": "Journal of Clinical Medicine",
+          "year": 2025,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11942662/",
+          "type": "review",
+          "supports": "risk_rationale and key_harms (off-label for hair loss; hypertrichosis about 15%, fluid retention, dizziness, tachycardia; fluid around the heart rare); risk_supervised.",
+          "verified": true
+        },
+        {
+          "title": "Minoxidil tablets: U.S. prescribing information (revised 05/2026)",
+          "publisher": "U.S. Food and Drug Administration (FDALabel)",
+          "year": 2026,
+          "url": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/8f3800f0-b6da-4dfe-8c32-39bb5eb0262a/spl-doc",
+          "type": "regulator",
+          "supports": "legal_status.US (prescription-only, hypertension indication, hair growth not an approved indication); risk_rationale (opening warning on fluid around the heart and angina).",
+          "verified": true
+        },
+        {
+          "title": "Minoxidil tablets: Australian medicine listing (Schedule 4, severe refractory hypertension)",
+          "publisher": "healthdirect Australia",
+          "year": 2026,
+          "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3684011000036109/loniten",
+          "type": "health-info",
+          "supports": "legal_status.AU: Schedule 4 prescription-only medicine with a severe refractory hypertension indication.",
+          "verified": true
+        },
+        {
+          "title": "Drug Product Database: minoxidil tablets (prescription)",
+          "publisher": "Health Canada",
+          "year": 2026,
+          "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=4010",
+          "type": "regulator",
+          "supports": "legal_status.CA: schedule listed as prescription; classed under antihypertensives.",
+          "verified": true
+        }
+      ],
+      "internal_link": null,
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "finasteride",
+      "name": "Finasteride",
+      "category": "hair",
+      "claim": "Finasteride stops male pattern balding in nearly all men and regrows noticeable hair in most.",
+      "claim_source": "https://www.teamblind.com/post/if-youre-noticing-hair-loss-you-should-start-taking-finasteride-th1cjyyq",
+      "evidence": 4,
+      "evidence_rationale": "It is FDA-approved for male pattern hair loss in men on the strength of three double-blind placebo-controlled trials (1,879 men), and a meta-analysis of randomized trials confirms it beats placebo. In the label's five-year vertex data about 9 in 10 men had no further visible loss, but only about half showed visible regrowth.",
+      "risk_as_practiced": 2,
+      "risk_supervised": 2,
+      "risk_rationale": "The FDA label and the MHRA both list depression, suicidal thoughts and sexual dysfunction that can continue after stopping, and the MHRA notes the hair-loss strength is commonly prescribed online, where these risks may not be explained. Most men tolerate it and causation of the psychiatric reports is still debated, but the harms that do occur can be long-lasting.",
+      "key_harms": [
+        "lower sex drive, erection or ejaculation problems",
+        "sexual side effects that can persist after stopping",
+        "depression and suicidal thoughts",
+        "possible rise in high-grade prostate cancer detection"
+      ],
+      "safer_alternative": "Use a prescriber who asks about depression history, explains the sexual and mood risks up front, and agrees a plan to stop and report symptoms; a licensed topical minoxidil is a non-hormonal option to try first.",
+      "legal_status": {
+        "US": "Prescription-only; FDA-approved for male pattern hair loss in men.",
+        "UK": "Prescription-only; approved for male pattern hair loss. The hair-loss strength is available only on private prescription and is commonly prescribed online (MHRA).",
+        "AU": "Prescription-only (Schedule 4).",
+        "CA": "Prescription drug; marketed in Canada for male pattern hair loss since 1998."
+      },
+      "sources": [
+        {
+          "title": "Finasteride tablets for male pattern hair loss: U.S. prescribing information (effective 10/2024)",
+          "publisher": "U.S. Food and Drug Administration (FDALabel)",
+          "year": 2024,
+          "url": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/6f904709-65aa-44ce-b144-b4c8a0416e36/spl-doc",
+          "type": "regulator",
+          "supports": "evidence_rationale (three double-blind placebo-controlled trials in 1,879 men; five-year hair count and photo ratings); legal_status.US; key_harms and risk_rationale (sexual dysfunction continuing after discontinuation, depression and suicidal ideation, high-grade prostate cancer signal).",
+          "verified": true
+        },
+        {
+          "title": "The effectiveness of treatments for androgenetic alopecia: A systematic review and meta-analysis",
+          "publisher": "Journal of the American Academy of Dermatology",
+          "year": 2017,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28396101/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale: finasteride was superior to placebo in pooled randomized trials in men.",
+          "verified": true
+        },
+        {
+          "title": "Safety review of Finasteride: Public Assessment Report",
+          "publisher": "Medicines and Healthcare products Regulatory Agency (MHRA)",
+          "year": 2024,
+          "url": "https://assets.publishing.service.gov.uk/media/6825bc05a4c1a40fde4e63e7/Finasteride_PAR_Accessible_1206.pdf",
+          "type": "regulator",
+          "supports": "legal_status.UK (approved for male pattern hair loss); risk_rationale (persistent sexual dysfunction and suicidal thoughts are known effects; depression is multifactorial; some online prescribers lack thorough screening).",
+          "verified": true
+        },
+        {
+          "title": "Men on finasteride asked to stay vigilant for possible psychiatric and sexual side effects",
+          "publisher": "Medicines and Healthcare products Regulatory Agency (MHRA)",
+          "year": 2024,
+          "url": "https://www.gov.uk/government/news/men-on-finasteride-asked-to-stay-vigilant-for-possible-psychiatric-and-sexual-side-effects",
+          "type": "regulator",
+          "supports": "legal_status.UK (private prescription only, commonly prescribed online); key_harms and risk_rationale (depression, suicidal thoughts, sexual dysfunction persisting after stopping).",
+          "verified": true
+        },
+        {
+          "title": "MHRA strengthens safety warnings for finasteride and dutasteride",
+          "publisher": "Medicines and Healthcare products Regulatory Agency (MHRA)",
+          "year": 2026,
+          "url": "https://www.gov.uk/government/news/mhra-strengthens-safety-warnings-for-finasteride-and-dutasteride",
+          "type": "regulator",
+          "supports": "risk_rationale sentence 1 (MHRA warnings on sexual dysfunction and mood alterations were strengthened in May 2026)",
+          "verified": true,
+          "verification_note": "Sentence rewritten to match the source after fact-check."
+        },
+        {
+          "title": "Summary Safety Review - Finasteride - Assessing the Potential Risk of Suicidal Thoughts and Behaviour (Suicidality)",
+          "publisher": "Health Canada",
+          "year": 2015,
+          "url": "https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/safety-reviews/summary-safety-review-finasteride-assessing-potential-risk-suicidal-thoughts-suicidality.html",
+          "type": "regulator",
+          "supports": "legal_status.CA (marketed since 1998 for male pattern hair loss); risk_rationale (evidence too limited to confirm or exclude a link with suicidality).",
+          "verified": true
+        },
+        {
+          "title": "Drug Product Database: finasteride tablets for male pattern hair loss (prescription)",
+          "publisher": "Health Canada",
+          "year": 2026,
+          "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=61606",
+          "type": "regulator",
+          "supports": "legal_status.CA: schedule listed as prescription.",
+          "verified": true
+        },
+        {
+          "title": "Finasteride tablets for male pattern hair loss: Australian medicine listing (Schedule 4)",
+          "publisher": "healthdirect Australia",
+          "year": 2026,
+          "url": "https://www.healthdirect.gov.au/medicines/brand/amt%2C39667011000036104/propecia",
+          "type": "health-info",
+          "supports": "legal_status.AU: Schedule 4 prescription-only medicine for male pattern hair loss.",
+          "verified": true
+        },
+        {
+          "title": "Adverse Effects and Safety of 5-alpha Reductase Inhibitors (Finasteride, Dutasteride): A Systematic Review",
+          "publisher": "The Journal of Clinical and Aesthetic Dermatology",
+          "year": 2016,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27672412/",
+          "type": "systematic-review",
+          "supports": "risk_rationale and key_harms: sexual effects reported in roughly 3 to 16 percent of men, no direct link with depression established, overall well tolerated but not without risk.",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/looks/hair-transplant-looksmaxxing/",
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "scalp-microneedling",
+      "name": "Scalp microneedling",
+      "category": "hair",
+      "claim": "Rolling or stamping a microneedle device over the scalp regrows thinning hair and makes minoxidil work much better.",
+      "claim_source": "https://tressless.com/community/pQOZ",
+      "evidence": 3,
+      "evidence_rationale": "Three meta-analyses of 10 to 13 small randomized trials find more hair growth when microneedling is added to minoxidil than with minoxidil alone, but results vary widely between trials and a network meta-analysis ranks microneedling alone below oral 5-alpha-reductase inhibitors such as finasteride. The FDA's list of authorized microneedling uses does not include hair loss.",
+      "risk_as_practiced": 1,
+      "risk_supervised": 1,
+      "risk_rationale": "Most side effects are short-lived redness, bleeding and crusting, but the FDA warns that some can be permanent, that reusing a needle cartridge is unsafe, and that these devices are not approved for pushing topical drugs into the skin. The FDA page does not discuss home use, where sterility and technique are left to the user.",
+      "key_harms": [
+        "bleeding, redness and crusting",
+        "infection or cold-sore reactivation",
+        "pigment changes (lighter or darker patches)",
+        "risks of combining with topical drugs are unknown (FDA)"
+      ],
+      "safer_alternative": "If you want to try it, a trained provider using a new single-use needle cartridge is the route the FDA describes.",
+      "legal_status": {
+        "US": "The FDA has authorized microneedling devices for facial acne scars, facial wrinkles and abdominal scars in adults 22 and older; hair loss is not among the authorized uses listed.",
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "A randomized evaluator blinded study of effect of microneedling in androgenetic alopecia: a pilot study",
+          "publisher": "International Journal of Trichology",
+          "year": 2013,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3746236/",
+          "type": "rct",
+          "supports": "evidence_rationale: in a 12-week randomized trial of 94 men who completed it, microneedling plus minoxidil gave higher hair counts than minoxidil alone.",
+          "verified": true
+        },
+        {
+          "title": "Efficacy and safety of combined microneedling therapy for androgenic alopecia: A systematic review and meta-analysis of randomized clinical trials",
+          "publisher": "Journal of Cosmetic Dermatology",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38239003/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale: 13 randomized trials (696 patients) favored combined microneedling over single treatments for hair density and diameter.",
+          "verified": true
+        },
+        {
+          "title": "Efficacy and safety of combinational therapy using topical minoxidil and microneedling for the treatment of androgenetic alopecia: a systematic review and meta-analysis",
+          "publisher": "Archives of Dermatological Research",
+          "year": 2023,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37665358/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale (10 randomized trials, 466 patients, higher hair count with the combination); risk_rationale (no scarring or serious adverse events reported in the included trials).",
+          "verified": true
+        },
+        {
+          "title": "Evaluating the efficacy and safety of combined microneedling therapy versus topical Minoxidil in androgenetic alopecia: a systematic review and meta-analysis",
+          "publisher": "Archives of Dermatological Research",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40056230/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale (12 randomized trials, 631 patients; hair count improved but heterogeneity was very high); risk_rationale (adverse events mild or self-limiting).",
+          "verified": true
+        },
+        {
+          "title": "The impact of monotherapies for male androgenetic alopecia: A network meta-analysis study",
+          "publisher": "Journal of Cosmetic Dermatology",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38725143/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale: oral 5-alpha-reductase inhibitors were more effective than newer monotherapies including microneedling.",
+          "verified": true
+        },
+        {
+          "title": "Microneedling Devices",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2025,
+          "url": "https://www.fda.gov/medical-devices/aesthetic-cosmetic-devices/microneedling-devices",
+          "type": "regulator",
+          "supports": "legal_status.US (authorized uses exclude hair loss); risk_rationale and key_harms (common and less common effects, some may be permanent, reuse of needle cartridges unsafe, not approved for delivering topical drugs, risks of off-label use and combinations not known).",
+          "verified": true
+        }
+      ],
+      "internal_link": null,
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "daily-sunscreen",
+      "name": "Daily broad-spectrum sunscreen",
+      "category": "skin",
+      "claim": "Daily broad-spectrum sunscreen slows skin aging and lowers skin cancer risk.",
+      "claim_source": "https://looksmaxxing.guide/en/looks/looksmaxxing-skincare-routine-men/",
+      "evidence": 4,
+      "evidence_rationale": "FDA says sunscreens used as directed with other sun protection measures reduce the risk of skin cancer and early skin aging, and the Nambour randomized trial found less skin aging with daily use. Its long-term follow-up found about half as many melanomas in the daily-use group, a result at the edge of statistical significance.",
+      "risk_as_practiced": 0,
+      "risk_supervised": 0,
+      "risk_rationale": "Sunscreen is a regulated over-the-counter product and FDA still advises using it. FDA notes that some active ingredients are absorbed into the body and has asked manufacturers for more safety data.",
+      "key_harms": [
+        "Some UV-filter ingredients are absorbed through the skin; FDA is still gathering safety data",
+        "False sense of security if used instead of shade or clothing"
+      ],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": "Over-the-counter drug regulated by the FDA.",
+        "UK": null,
+        "AU": null,
+        "CA": "Non-prescription drug or natural health product under the Food and Drugs Act; authorized products carry a DIN or NPN."
+      },
+      "sources": [
+        {
+          "title": "Sunscreen: How to Help Protect Your Skin from the Sun",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2026,
+          "url": "https://www.fda.gov/drugs/understanding-over-counter-medicines/sunscreen-how-help-protect-your-skin-sun",
+          "type": "regulator",
+          "supports": "evidence_rationale sentence 1 (FDA statement on skin cancer and early skin aging); risk_rationale; legal_status.US",
+          "verified": true
+        },
+        {
+          "title": "Sunscreen and prevention of skin aging: a randomized trial",
+          "publisher": "Annals of Internal Medicine",
+          "year": 2013,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23732711/",
+          "type": "rct",
+          "supports": "evidence_rationale sentence 1 (less skin aging with daily use)",
+          "verified": true
+        },
+        {
+          "title": "Reduced melanoma after regular sunscreen use: randomized trial follow-up",
+          "publisher": "Journal of Clinical Oncology",
+          "year": 2011,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21135266/",
+          "type": "rct",
+          "supports": "evidence_rationale sentence 2 (about half as many melanomas, borderline significance)",
+          "verified": true
+        },
+        {
+          "title": "Sunscreens",
+          "publisher": "Health Canada",
+          "year": 2026,
+          "url": "https://www.canada.ca/en/health-canada/services/sun-safety/sunscreens.html",
+          "type": "regulator",
+          "supports": "legal_status.CA",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/looks/looksmaxxing-skincare-routine-men/",
+      "confidence": "high",
+      "needs_human_review": false
+    },
+    {
+      "id": "topical-tretinoin",
+      "name": "Topical tretinoin",
+      "category": "skin",
+      "claim": "Prescription tretinoin reverses skin aging and sun damage and clears acne.",
+      "claim_source": null,
+      "evidence": 3,
+      "evidence_rationale": "A systematic review of seven randomized trials found topical tretinoin improved wrinkling and mottled pigmentation, and the AAD acne guideline strongly recommends topical retinoids for acne. But the FDA label says it does not remove wrinkles or repair sun-damaged skin, so 'reverses' overstates it.",
+      "risk_as_practiced": 2,
+      "risk_supervised": 1,
+      "risk_rationale": "Prescription-only, and in label trials nearly everyone had peeling, dryness, burning or redness, mostly mild to moderate and early in treatment. Serious harm is not expected; the score reflects prescription status and the need for guidance on tolerance.",
+      "key_harms": [
+        "Peeling and dry skin",
+        "Burning, stinging and redness",
+        "Itching",
+        "Some users stop because of irritation"
+      ],
+      "safer_alternative": "Get it through a licensed prescriber (GP, dermatologist or regulated telehealth service) who sets the strength and pace, and use daily sunscreen alongside. For acne, benzoyl peroxide is another strongly recommended topical option.",
+      "legal_status": {
+        "US": "Prescription-only (Rx only on the FDA-approved label).",
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Topical tretinoin for treating photoaging: A systematic review of randomized controlled trials",
+          "publisher": "International Journal of Women's Dermatology",
+          "year": 2022,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35620028/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale sentence 1 (improved wrinkling and mottled pigmentation across seven RCTs)",
+          "verified": true
+        },
+        {
+          "title": "Prescribing information for tretinoin cream for photodamaged facial skin (FDA-approved label)",
+          "publisher": "U.S. Food and Drug Administration (Drugs@FDA)",
+          "year": 2000,
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2000/19963S5%2C7LBL.PDF",
+          "type": "regulator",
+          "supports": "evidence_rationale sentence 2 (does not remove wrinkles or repair sun-damaged skin); risk_rationale (local skin reactions, Rx only); legal_status.US",
+          "verified": true
+        },
+        {
+          "title": "Guidelines of care for the management of acne vulgaris",
+          "publisher": "Journal of the American Academy of Dermatology (American Academy of Dermatology)",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38300170/",
+          "type": "guideline",
+          "supports": "evidence_rationale sentence 1 (strong recommendation for topical retinoids in acne); safer_alternative sentence 2 (benzoyl peroxide)",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/looks/looksmaxxing-skincare-routine-men/",
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "isotretinoin-unsupervised",
+      "name": "Isotretinoin without dermatologist supervision",
+      "category": "skin",
+      "claim": "Isotretinoin clears even severe acne, and you can get and take it without a dermatologist.",
+      "claim_source": null,
+      "evidence": 3,
+      "evidence_rationale": "Isotretinoin is FDA-approved for severe recalcitrant nodular acne and the AAD guideline strongly recommends it for severe or treatment-resistant acne, but that evidence comes from prescribed, monitored use. No study found supports skipping the prescriber, and regulators advise the opposite.",
+      "risk_as_practiced": 3,
+      "risk_supervised": 2,
+      "risk_rationale": "Without a prescriber there is no screening or follow-up for the depression, suicidal thoughts and sexual side effects that regulators warn about, and the drug causes severe birth defects in pregnancy. A survey of online pharmacies found most would supply it without a valid prescription, often with gaps in safety information.",
+      "key_harms": [
+        "Depression and suicidal thoughts reported",
+        "Sexual function side effects",
+        "Severe birth defects if taken in pregnancy",
+        "No monitoring or follow-up without a prescriber"
+      ],
+      "safer_alternative": "See a dermatologist or GP: the AAD acne guideline strongly recommends benzoyl peroxide, topical retinoids, topical antibiotics and oral doxycycline, and recommends isotretinoin for acne that is severe, scarring, causing psychosocial burden or not responding to standard treatment, under prescriber oversight.",
+      "legal_status": {
+        "US": "Prescription-only, with restricted distribution under the iPLEDGE REMS.",
+        "UK": "Prescription-only black-triangle medicine for severe acne; the lead prescriber must have expertise in systemic retinoids.",
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Isotretinoin Capsule Information",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2026,
+          "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/isotretinoin-capsule-information",
+          "type": "regulator",
+          "supports": "evidence_rationale sentence 1 (approved indication); risk_rationale (mental health, birth defects, online purchase warning); legal_status.US",
+          "verified": true
+        },
+        {
+          "title": "Isotretinoin: introduction of new safety measures, including additional oversight of the initiation of treatment for patients under 18 years of age (Drug Safety Update)",
+          "publisher": "MHRA (UK Medicines and Healthcare products Regulatory Agency)",
+          "year": 2023,
+          "url": "https://www.gov.uk/drug-safety-update/isotretinoin-roaccutanev-introduction-of-new-safety-measures-including-additional-oversight-of-the-initiation-of-treatment-for-patients-under-18-years-of-age",
+          "type": "regulator",
+          "supports": "evidence_rationale sentence 2 (regulators advise prescriber oversight); risk_rationale (monitoring of mental health and sexual function); legal_status.UK",
+          "verified": true
+        },
+        {
+          "title": "Assessing the availability of the teratogenic drug isotretinoin outside the pregnancy prevention programme: a survey of e-pharmacies",
+          "publisher": "Pharmacoepidemiology and Drug Safety",
+          "year": 2014,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4265198",
+          "type": "cross-sectional",
+          "supports": "risk_rationale sentence 2 (most of 50 online pharmacies supplied it without a valid prescription, with gaps in safety information); cross-sectional survey of 50 online pharmacies",
+          "verified": true
+        },
+        {
+          "title": "Guidelines of care for the management of acne vulgaris",
+          "publisher": "Journal of the American Academy of Dermatology (American Academy of Dermatology)",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38300170/",
+          "type": "guideline",
+          "supports": "evidence_rationale sentence 1 (strong recommendation for isotretinoin in severe acne, acne causing psychosocial burden or scarring, or acne failing standard treatment); safer_alternative (strong recommendations for benzoyl peroxide, topical retinoids, topical antibiotics and oral doxycycline)",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/looks/looksmaxxing-skincare-routine-men/",
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "tanning-beds",
+      "name": "Tanning beds",
+      "category": "skin",
+      "claim": "Tanning beds give a safe base tan that protects against sunburn and supply healthy vitamin D.",
+      "claim_source": null,
+      "evidence": 0,
+      "evidence_rationale": "Health Canada says a tan from tanning equipment gives only very limited protection and that tanning equipment should not be used as a vitamin D source. A systematic review of 27 studies links sunbed use to higher melanoma risk, which contradicts the 'safe' part of the claim.",
+      "risk_as_practiced": 3,
+      "risk_supervised": null,
+      "risk_rationale": "Sunbed use raises melanoma risk (about 20% overall, nearly double if first used before age 35), and the harms include other skin cancers, premature aging and eye injury. There is no supervised version that makes cosmetic tanning safe, and regulators restrict it or advise against it.",
+      "key_harms": [
+        "Melanoma, higher if use starts before age 35",
+        "Other skin cancers",
+        "Premature skin aging",
+        "Eye injury such as photokeratitis and cataracts"
+      ],
+      "safer_alternative": "Skip UV tanning. Topical self-tanners colour the skin without UV but give little or no sun protection, so pair them with a broad-spectrum sunscreen.",
+      "legal_status": {
+        "US": "Legal for adults; FDA-regulated product that must carry a warning against use under age 18.",
+        "UK": "Commercial sunbed use is banned for under-18s (Sunbeds (Regulation) Act 2010).",
+        "AU": null,
+        "CA": "Legal for adults; Health Canada recommends against use and many provinces ban use by under-18s."
+      },
+      "sources": [
+        {
+          "title": "Cutaneous melanoma attributable to sunbed use: systematic review and meta-analysis",
+          "publisher": "The BMJ",
+          "year": 2012,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3404185",
+          "type": "systematic-review",
+          "supports": "evidence_rationale sentence 2 and risk_rationale sentence 1 (melanoma risk with ever use and with first use before 35)",
+          "verified": true
+        },
+        {
+          "title": "Tanning beds and equipment",
+          "publisher": "Health Canada",
+          "year": 2023,
+          "url": "https://www.canada.ca/en/health-canada/services/sun-safety/tanning-beds-lamps.html",
+          "type": "regulator",
+          "supports": "evidence_rationale sentence 1 (limited protection from a base tan; not a vitamin D source); key_harms; legal_status.CA",
+          "verified": true
+        },
+        {
+          "title": "Tanning products",
+          "publisher": "Health Canada",
+          "year": 2018,
+          "url": "https://www.canada.ca/en/health-canada/services/cosmetics/tanning-products.html",
+          "type": "regulator",
+          "supports": "safer_alternative (self-tanners colour the skin and give little or no sun protection)",
+          "verified": true
+        },
+        {
+          "title": "Sunlamps and Sunlamp Products (Tanning Beds/Booths)",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2020,
+          "url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/sunlamps-and-sunlamp-products-tanning-bedsbooths",
+          "type": "regulator",
+          "supports": "risk_rationale (skin cancer and premature aging from repeated UV exposure); legal_status.US",
+          "verified": true
+        },
+        {
+          "title": "Sunbeds (Regulation) Act 2010: Explanatory Notes",
+          "publisher": "UK legislation (legislation.gov.uk)",
+          "year": 2010,
+          "url": "https://www.legislation.gov.uk/ukpga/2010/20/notes/division/5",
+          "type": "regulator",
+          "supports": "legal_status.UK",
+          "verified": true
+        }
+      ],
+      "internal_link": null,
+      "confidence": "high",
+      "needs_human_review": true
+    },
+    {
+      "id": "melanotan-ii",
+      "name": "Melanotan II",
+      "category": "skin",
+      "claim": "Self-injected Melanotan II gives a deep, lasting tan without sun exposure.",
+      "claim_source": "https://looksmaxxing.guide/en/fitness/peptides-guide-for-men/",
+      "evidence": 2,
+      "evidence_rationale": "A small 1996 placebo-controlled pilot in three men found increased pigmentation in two of them, and no larger controlled study of its use as a tanning agent was found. No evidence found that the tan is lasting or protects against sunburn or skin cancer.",
+      "risk_as_practiced": 3,
+      "risk_supervised": null,
+      "risk_rationale": "No regulator has authorized it for tanning, so supply is unregulated, and Health Canada warns that such injectables can carry contaminants and cause infections. Case reports describe melanomas arising from existing moles during or shortly after use, although causation is unproven.",
+      "key_harms": [
+        "Nausea, fatigue and spontaneous erections reported in a three-man trial",
+        "Changes to moles; case reports of melanoma arising from existing moles",
+        "Infection and contamination risk from unregulated injectables"
+      ],
+      "safer_alternative": "Use broad-spectrum sunscreen and, if a tanned look is wanted, a topical self-tanner. Have any new or changing mole checked by a doctor.",
+      "legal_status": {
+        "US": "Unapproved new drug; selling it without an FDA-approved application violates federal law.",
+        "UK": "Unauthorised medicine; sale, supply and advertising are not permitted under the Human Medicines Regulations.",
+        "AU": null,
+        "CA": "Not authorized; unauthorized injectable peptide products, including Melanotan I and II, are illegal in Canada."
+      },
+      "sources": [
+        {
+          "title": "Evaluation of melanotan-II, a superpotent cyclic melanotropic peptide in a pilot phase-I clinical study",
+          "publisher": "Life Sciences",
+          "year": 1996,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8637402/",
+          "type": "experimental",
+          "supports": "evidence_rationale sentence 1 (pigmentation in two of three men); key_harms item 1 (nausea, fatigue and spontaneous erections reported in the three-man trial); single-blind, placebo-controlled pilot in three men",
+          "verified": true
+        },
+        {
+          "title": "Risks of unregulated use of alpha-melanocyte-stimulating hormone analogues: a review",
+          "publisher": "International Journal of Dermatology",
+          "year": 2017,
+          "url": "https://repub.eur.nl/pub/98589",
+          "type": "review",
+          "supports": "risk_rationale sentence 2 and key_harms item 2 (case reports of melanoma arising from existing moles)",
+          "verified": true
+        },
+        {
+          "title": "Think twice before injecting peptides bought online: unauthorized products can seriously harm you",
+          "publisher": "Health Canada",
+          "year": 2026,
+          "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+          "type": "regulator",
+          "supports": "risk_rationale sentence 1 (contaminants and infections); key_harms item 3; legal_status.CA",
+          "verified": true
+        },
+        {
+          "title": "FOI 24/274: Side effects reports of melanotan II products",
+          "publisher": "MHRA (UK Medicines and Healthcare products Regulatory Agency)",
+          "year": 2024,
+          "url": "https://assets.publishing.service.gov.uk/media/669fbd3aa3c2a28abb50d55a/Final_Redaction_FOI_24_274.pdf",
+          "type": "regulator",
+          "supports": "risk_rationale sentence 1 (no safeguards on quality, safety or effectiveness); legal_status.UK",
+          "verified": true
+        },
+        {
+          "title": "Notice of Opportunity for Hearing: Manookian, Edward (8/5/16)",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2016,
+          "url": "https://www.fda.gov/regulatory-information/electronic-reading-room/notice-opportunity-hearing-nooh-manookian-edward-8516",
+          "type": "regulator",
+          "supports": "legal_status.US (Melanotan II is an unapproved new drug that cannot be sold without an approved application)",
+          "verified": true
+        },
+        {
+          "title": "Tanning products",
+          "publisher": "Health Canada",
+          "year": 2018,
+          "url": "https://www.canada.ca/en/health-canada/services/cosmetics/tanning-products.html",
+          "type": "regulator",
+          "supports": "safer_alternative (topical self-tanners; no oral tanning drugs authorized for sale in Canada)",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/fitness/peptides-guide-for-men/",
+      "confidence": "medium",
+      "needs_human_review": false
+    },
+    {
+      "id": "trt-without-prescription",
+      "name": "TRT without a prescription",
+      "category": "compound",
+      "claim": "Self-sourced testosterone, with no doctor and no blood work, is a safe shortcut for healthy men to build muscle, drive and a more masculine look.",
+      "claim_source": "https://looksmaxxing.guide/en/looks/clavicular-trt-at-14-claim/",
+      "evidence": 2,
+      "evidence_rationale": "Testosterone therapy has mostly been tested in men with symptoms and repeatedly low blood levels; one short randomized trial in healthy men with normal levels found larger muscles and more strength at above-normal exposure, especially alongside training, but it aimed at muscle outcomes and says little about long-term safety, so the 'safe shortcut' claim has no direct support. The Endocrine Society guideline limits treatment to men with deficiency symptoms plus unequivocally and consistently low results.",
+      "risk_as_practiced": 3,
+      "risk_supervised": 2,
+      "risk_rationale": "Without blood work or monitoring, users cannot know their baseline or catch blood-pressure, blood-thickness or fertility problems, and a systematic review found about a third of black-market anabolic steroid samples were counterfeit and a similar share substandard. Even under supervision, the largest trial, in men aged 45-80 with low testosterone and heart disease or a high risk of it, saw more atrial fibrillation, pulmonary embolism and kidney injury than placebo, so treatment needs monitoring.",
+      "key_harms": [
+        "Reduced fertility",
+        "Higher blood pressure and thicker blood",
+        "Atrial fibrillation, clots and kidney injury (trial signal)",
+        "Counterfeit or mislabeled products"
+      ],
+      "safer_alternative": "See a GP or endocrinologist for repeat morning blood tests and a proper work-up before any hormone treatment. If levels are normal, sleep, resistance training and body-fat management are the routes with evidence; if fertility matters, raise it before starting anything.",
+      "legal_status": {
+        "US": "Schedule III controlled substance (anabolic steroids) under DEA scheduling.",
+        "UK": "Class C controlled drug (Schedule 4 Part II); supply requires authorisation.",
+        "AU": null,
+        "CA": "Anabolic steroids are Schedule IV controlled substances under the Controlled Drugs and Substances Act."
+      },
+      "sources": [
+        {
+          "title": "FDA issues class-wide labeling changes for testosterone products",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2025,
+          "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fda-issues-class-wide-labeling-changes-testosterone-products",
+          "type": "regulator",
+          "supports": "risk_rationale (blood-pressure monitoring) and key_harms 'Higher blood pressure'; evidence_rationale (labeling keeps its limitation of use for age-related low testosterone)",
+          "verified": true
+        },
+        {
+          "title": "Testosterone Therapy in Men With Hypogonadism: An Endocrine Society Clinical Practice Guideline",
+          "publisher": "Endocrine Society / Journal of Clinical Endocrinology & Metabolism",
+          "year": 2018,
+          "url": "https://www.endocrine.org/clinical-practice-guidelines/testosterone-therapy",
+          "type": "guideline",
+          "supports": "evidence_rationale sentence 2; key_harms 'Reduced fertility' and 'thicker blood' (not for men planning fertility or with raised hematocrit; monitoring advised)",
+          "verified": true
+        },
+        {
+          "title": "Cardiovascular Safety of Testosterone-Replacement Therapy",
+          "publisher": "New England Journal of Medicine",
+          "year": 2023,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37326322/",
+          "type": "rct",
+          "supports": "risk_rationale sentence 2 and key_harms 'Atrial fibrillation, clots and kidney injury'",
+          "verified": true
+        },
+        {
+          "title": "Fake anabolic androgenic steroids on the black market - a systematic review and meta-analysis on qualitative and quantitative analytical results found within the literature",
+          "publisher": "BMC Public Health",
+          "year": 2022,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9288681/",
+          "type": "systematic-review",
+          "supports": "risk_rationale sentence 1 (about a third counterfeit, a similar share substandard) and key_harms 'Counterfeit or mislabeled products'",
+          "verified": true
+        },
+        {
+          "title": "Health Canada advises consumers not to use unauthorized products containing anabolic steroids",
+          "publisher": "Health Canada",
+          "year": 2006,
+          "url": "https://www.canada.ca/en/news/archive/2006/04/health-canada-advises-consumers-not-use-unauthorized-products-containing-anabolic-steroids.html",
+          "type": "regulator",
+          "supports": "legal_status CA (Schedule IV) and key_harms 'Reduced fertility'",
+          "verified": true
+        },
+        {
+          "title": "Controlled Substance Schedules",
+          "publisher": "U.S. Drug Enforcement Administration, Diversion Control Division",
+          "year": 2026,
+          "url": "https://www.deadiversion.usdoj.gov/schedules/schedules.html",
+          "type": "regulator",
+          "supports": "legal_status US (anabolic steroids listed in Schedule III); undated live page, year is the year fetched",
+          "verified": true
+        },
+        {
+          "title": "CONTROLLED DRUGS (Home Office Circular 039/2003)",
+          "publisher": "Home Office (UK government)",
+          "year": 2003,
+          "url": "https://www.gov.uk/government/publications/controlled-drugs--7",
+          "type": "regulator",
+          "supports": "legal_status UK (Class C, Schedule 4 Part II; supply requires authorisation)",
+          "verified": true
+        },
+        {
+          "title": "The effects of supraphysiologic doses of testosterone on muscle size and strength in normal men",
+          "publisher": "New England Journal of Medicine",
+          "year": 1996,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8637535/",
+          "type": "rct",
+          "supports": "evidence_rationale sentence 1 (randomized trial in 43 healthy men with normal testosterone levels: testosterone increased muscle size and strength, especially with strength training; short, muscle outcomes only)",
+          "verified": true,
+          "verification_note": "Added by the editor after the fact-check, not by the fact-checker: the PubMed record (PMID 8637535) was fetched in this session through NCBI E-utilities and its abstract confirms the design and results described."
+        }
+      ],
+      "internal_link": "/en/looks/clavicular-trt-at-14-claim/",
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "sarms",
+      "name": "SARMs",
+      "category": "compound",
+      "claim": "SARMs deliver steroid-like muscle gain and fat loss without the side effects of steroids.",
+      "claim_source": "https://looksmaxxing.guide/en/looks/looksmaxxing-dangers-doctors-warn/",
+      "evidence": 2,
+      "evidence_rationale": "Randomized trials, mostly in older and clinical populations, show a modest gain in lean mass and physical performance, not steroid-like changes in healthy young men. Nothing supports the 'no side effects' half of the claim, and reviews of recreational users report drug-induced liver injury.",
+      "risk_as_practiced": 3,
+      "risk_supervised": null,
+      "risk_rationale": "FDA and Health Canada say SARMs are unapproved drugs linked to liver injury and possible heart-attack and stroke risk. Lab testing of products sold online as SARMs found that only 41% matched their label for the active compound and 39% contained other unapproved drugs.",
+      "key_harms": [
+        "Drug-induced liver injury",
+        "Lower HDL cholesterol and suppressed natural testosterone",
+        "Possible heart attack or stroke (FDA warning)",
+        "Mislabeled products with undeclared drugs"
+      ],
+      "safer_alternative": "Progressive resistance training with adequate protein and sleep; creatine monohydrate is the supplement with strong evidence. If you suspect a hormone problem, an endocrinologist can test and treat it properly.",
+      "legal_status": {
+        "US": "Unapproved drugs; FDA states they cannot be legally marketed as a drug or a dietary supplement.",
+        "UK": null,
+        "AU": null,
+        "CA": "Not authorized in Canada for any medical use."
+      },
+      "sources": [
+        {
+          "title": "FDA Warns of Use of Selective Androgen Receptor Modulators (SARMs) Among Teens, Young Adults",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2023,
+          "url": "https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults",
+          "type": "regulator",
+          "supports": "risk_rationale sentence 1; key_harms (liver injury, heart attack or stroke); legal_status US",
+          "verified": true
+        },
+        {
+          "title": "Using bodybuilding products",
+          "publisher": "Health Canada",
+          "year": 2026,
+          "url": "https://www.canada.ca/en/health-canada/topics/buying-using-drug-health-products-safely/safe-use-bodybuilding-products.html",
+          "type": "regulator",
+          "supports": "legal_status CA (not authorized for any medical use); risk_rationale sentence 1 (hormonal suppression, heart and liver disease)",
+          "verified": true
+        },
+        {
+          "title": "Chemical Composition and Labeling of Substances Marketed as Selective Androgen Receptor Modulators and Sold via the Internet",
+          "publisher": "JAMA",
+          "year": 2017,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/29183075/",
+          "type": "cross-sectional",
+          "supports": "risk_rationale sentence 2 (41% matched label, 39% contained other unapproved drugs) and key_harms 'Mislabeled products'; cross-sectional product-testing study (research letter)",
+          "verified": true
+        },
+        {
+          "title": "Systematic Review of Safety of Selective Androgen Receptor Modulators in Healthy Adults: Implications for Recreational Users",
+          "publisher": "Journal of Xenobiotics",
+          "year": 2023,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10204391/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale sentence 2 (liver injury in recreational users) and key_harms 'Drug-induced liver injury' and 'Lower HDL cholesterol and suppressed natural testosterone'",
+          "verified": true
+        },
+        {
+          "title": "Selective Androgen Receptor Modulators (SARMs) Effects on Physical Performance: A Systematic Review of Randomized Control Trials",
+          "publisher": "Clinical Endocrinology",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39285652/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale sentence 1 (modest lean-mass and performance gains in trial populations averaging about 57 years old)",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/looks/looksmaxxing-dangers-doctors-warn/",
+      "confidence": "medium",
+      "needs_human_review": false
+    },
+    {
+      "id": "dnp",
+      "name": "DNP",
+      "category": "compound",
+      "claim": "DNP strips body fat fast, giving a quick route to a leaner, more defined physique.",
+      "claim_source": null,
+      "evidence": 2,
+      "evidence_rationale": "Reviews report rapid weight loss with DNP, which was used as a weight-loss drug before the US declared it not fit for human consumption in 1938, but this rests on historical and uncontrolled reports and no modern controlled trials were found. The weight loss comes with severe, sometimes fatal toxicity.",
+      "risk_as_practiced": 4,
+      "risk_supervised": null,
+      "risk_rationale": "DNP drives the body to overheat, there is no specific antidote, and a medical review counted 62 published deaths. A UK poison-service series recorded five deaths among 23 reported toxic exposures, mostly in young men.",
+      "key_harms": [
+        "Fatal overheating with no specific antidote",
+        "Documented deaths in the UK, Australia and elsewhere",
+        "Cataracts and liver damage (FDA)",
+        "Rapid heart rate, fever, sweating and collapse"
+      ],
+      "safer_alternative": "Supervised weight-loss care from a doctor or registered dietitian, which can include approved medication where it is clinically indicated.",
+      "legal_status": {
+        "US": "FDA has never approved DNP for human consumption.",
+        "UK": "Not treated as a controlled drug; the Advisory Council on the Misuse of Drugs advises that it is a poison rather than a drug, and Public Health England has said it is unfit for human consumption.",
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "2,4-Dinitrophenol (DNP): A Weight Loss Agent with Significant Acute Toxicity and Risk of Death",
+          "publisher": "Journal of Medical Toxicology",
+          "year": 2011,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3550200/",
+          "type": "review",
+          "supports": "evidence_rationale (weight loss reported; declared not fit for human consumption in 1938); risk_rationale sentence 1 (62 published deaths, no specific antidote); key_harms 'Fatal overheating' and 'Rapid heart rate, fever, sweating and collapse'",
+          "verified": true
+        },
+        {
+          "title": "Severe toxicity after use of 2,4-dinitrophenol reported to the UK National Poisons Information Service",
+          "publisher": "EAPCCT Congress abstract, hosted by the All Wales Therapeutics and Toxicology Centre",
+          "year": 2014,
+          "url": "https://awttc.nhs.wales/research-publications/severe-toxicity-after-use-of-24-dinitrophenol-reported-to-the-uk-national-poisons-information-service/",
+          "type": "case-series",
+          "supports": "risk_rationale sentence 2 (five deaths among 23 exposures, mostly young men)",
+          "verified": true
+        },
+        {
+          "title": "PHE supports FSA warnings over deadly weight loss supplement",
+          "publisher": "Public Health England (GOV.UK)",
+          "year": 2013,
+          "url": "https://www.gov.uk/government/news/phe-supports-fsa-warnings-over-deadly-weight-loss-supplement",
+          "type": "regulator",
+          "supports": "legal_status UK (unfit for human consumption) and key_harms 'Documented deaths'",
+          "verified": true
+        },
+        {
+          "title": "Letter to the Minister for Crime, Safeguarding and Vulnerability: Advice on 2,4-Dinitrophenol",
+          "publisher": "Advisory Council on the Misuse of Drugs (GOV.UK)",
+          "year": 2019,
+          "url": "https://www.gov.uk/government/publications/advice-on-24-dinitrophenol",
+          "type": "regulator",
+          "supports": "legal_status UK (a poison, not a drug; Misuse of Drugs Act judged not the right control)",
+          "verified": true
+        },
+        {
+          "title": "Retired New Jersey Doctor Sentenced for Selling Toxic DNP Online and Faking Cancer Diagnosis to Avoid Trial",
+          "publisher": "U.S. Food and Drug Administration, Office of Criminal Investigations",
+          "year": 2023,
+          "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/retired-new-jersey-doctor-sentenced-selling-toxic-dnp-online-and-faking-cancer-diagnosis-avoid-trial",
+          "type": "regulator",
+          "supports": "legal_status US (never approved for human consumption) and key_harms 'Cataracts and liver damage (FDA)'",
+          "verified": true
+        },
+        {
+          "title": "2,4-Dinitrophenol exposures and deaths in Australia after the 2017 up-scheduling",
+          "publisher": "Medical Journal of Australia",
+          "year": 2020,
+          "url": "https://www.mja.com.au/journal/2020/212/9/24-dinitrophenol-exposures-and-deaths-australia-after-2017-scheduling",
+          "type": "cohort",
+          "supports": "key_harms 'Documented deaths in the UK, Australia and elsewhere' (four deaths in Australia since 2015)",
+          "verified": true
+        }
+      ],
+      "internal_link": null,
+      "confidence": "high",
+      "needs_human_review": false
+    },
+    {
+      "id": "glp-1-non-pharmacy",
+      "name": "GLP-1 agonists from non-pharmacy sources",
+      "category": "compound",
+      "claim": "GLP-1 weight-loss injections bought outside regulated pharmacies give the same large, fast fat loss as prescribed ones, for less money.",
+      "claim_source": null,
+      "evidence": 1,
+      "evidence_rationale": "Randomized trials show that prescribed, regulated GLP-1 treatment produces substantial weight loss, but none test products bought outside pharmacies. One small product-testing study of such sellers judged every sample probable substandard or falsified, so equivalence is unproven.",
+      "risk_as_practiced": 3,
+      "risk_supervised": 2,
+      "risk_rationale": "Regulators in the US and UK warn of counterfeit, contaminated or mislabeled products, and the UK saw hospitalisations after fake pens that appeared to contain insulin. A product-testing study found very low purity and endotoxin in every sample, while supervised use scores 2 because it is prescription-only with common gastrointestinal side effects.",
+      "key_harms": [
+        "Low blood sugar and coma from fakes that appeared to contain insulin",
+        "Contamination, including endotoxin, and injection infections",
+        "Wrong-strength or mislabeled products serious enough to need hospital care",
+        "Nausea, vomiting and diarrhoea (common even with approved use)"
+      ],
+      "safer_alternative": "Get a prescription from a licensed clinician and fill it at a licensed pharmacy. If cost is the barrier, ask the prescriber about other approved options and structured lifestyle programmes.",
+      "legal_status": {
+        "US": "Prescription-only; FDA warns that unapproved or counterfeit versions have not been reviewed for safety, effectiveness or quality.",
+        "UK": "Prescription-only medicines; only registered pharmacies may legally supply them.",
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "FDA's Concerns with Unapproved GLP-1 Drugs Used for Weight Loss",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2026,
+          "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+          "type": "regulator",
+          "supports": "risk_rationale sentence 1 (counterfeit, contaminated, mislabeled products); key_harms 'Wrong-strength or mislabeled products' and 'injection infections'; legal_status US",
+          "verified": true
+        },
+        {
+          "title": "MHRA warns of unsafe fake weight loss pens",
+          "publisher": "Medicines and Healthcare products Regulatory Agency (GOV.UK)",
+          "year": 2023,
+          "url": "https://www.gov.uk/government/news/mhra-warns-of-unsafe-fake-weight-loss-pens",
+          "type": "regulator",
+          "supports": "risk_rationale sentence 1 (UK hospitalisations, fakes appearing to contain insulin); key_harms 'Low blood sugar and coma'; legal_status UK",
+          "verified": true
+        },
+        {
+          "title": "Multifactor Quality and Safety Analysis of Semaglutide Products Sold by Online Sellers Without a Prescription: Market Surveillance, Content Analysis, and Product Purchase Evaluation Study",
+          "publisher": "Journal of Medical Internet Research",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39509151/",
+          "type": "cross-sectional",
+          "supports": "evidence_rationale sentence 2 and risk_rationale sentence 2 (low purity, endotoxin in all samples); key_harms 'Contamination, including endotoxin'; cross-sectional product-testing study (three vials from online sellers)",
+          "verified": true
+        },
+        {
+          "title": "Once-Weekly Semaglutide in Adults with Overweight or Obesity",
+          "publisher": "New England Journal of Medicine",
+          "year": 2021,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33567185/",
+          "type": "rct",
+          "supports": "evidence_rationale sentence 1 (substantial weight loss with prescribed treatment) and key_harms 'Nausea, vomiting and diarrhoea' (nausea and diarrhoea most common)",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/fitness/glp-1-for-men-guide/",
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "research-peptides-bpc-157",
+      "name": "Research peptides (e.g. BPC-157)",
+      "category": "compound",
+      "claim": "Injectable 'research' peptides such as BPC-157 speed up healing of tendons, muscles and gut injuries and improve recovery.",
+      "claim_source": null,
+      "evidence": 1,
+      "evidence_rationale": "A 2025 systematic review found 36 studies on BPC-157 in orthopaedic sports medicine, 35 of them preclinical and one a small uncontrolled series of 12 patients with knee pain. No controlled human trial was among them.",
+      "risk_as_practiced": 3,
+      "risk_supervised": null,
+      "risk_rationale": "The same review found no clinical safety data, and FDA has said it lacks enough information to know whether BPC-157 would harm people, citing immunogenicity concerns. Health Canada adds that unauthorized injectable peptides may contain wrong amounts or contaminants whatever the 'research use only' label says.",
+      "key_harms": [
+        "No human safety data",
+        "Immune reactions (immunogenicity risk flagged by FDA)",
+        "Infection or allergic reaction from injected, unregulated product",
+        "Wrong or contaminated contents"
+      ],
+      "safer_alternative": "For a stubborn injury, see a sports-medicine physician or physiotherapist for a diagnosis and a supervised loading-based rehabilitation plan. For gut symptoms, see a GP or gastroenterologist.",
+      "legal_status": {
+        "US": "FDA's briefing document for the July 2026 advisory committee meeting proposed that BPC-157 not be included on the pharmacy-compounding bulks list (ulcerative colitis use); the committee is advisory only, and no final FDA determination has been published.",
+        "UK": null,
+        "AU": null,
+        "CA": "Unauthorized; Health Canada says 'research use only' labelling gives no exemption from the rules."
+      },
+      "sources": [
+        {
+          "title": "Emerging Use of BPC-157 in Orthopaedic Sports Medicine: A Systematic Review",
+          "publisher": "HSS Journal",
+          "year": 2025,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12313605/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale (35 preclinical studies, one 12-patient uncontrolled series); risk_rationale sentence 1 and key_harms 'No human safety data'",
+          "verified": true
+        },
+        {
+          "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2026,
+          "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+          "type": "regulator",
+          "supports": "risk_rationale sentence 1 (FDA lacks safety information; immunogenicity risk) and key_harms 'Immune reactions'",
+          "verified": true
+        },
+        {
+          "title": "July 23-24, 2026: Meeting of the Pharmacy Compounding Advisory Committee - 07/23/2026",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2026,
+          "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+          "type": "regulator",
+          "supports": "legal_status US (committee discussing BPC-157 for the bulks list for ulcerative colitis; advisory only; the page posts no minutes or vote result)",
+          "verified": true
+        },
+        {
+          "title": "FDA Briefing Document, Pharmacy Compounding Advisory Committee (PCAC) Meeting, July 23-24, 2026",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2026,
+          "url": "https://www.fda.gov/media/193342/download",
+          "type": "regulator",
+          "supports": "legal_status US (FDA proposes that BPC-157 not be included on the 503A bulks list, and does not intend to issue a final determination until the advisory process is complete)",
+          "verified": true
+        },
+        {
+          "title": "Think twice before injecting peptides bought online: unauthorized products can seriously harm you",
+          "publisher": "Health Canada",
+          "year": 2026,
+          "url": "https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm",
+          "type": "regulator",
+          "supports": "legal_status CA; risk_rationale sentence 2; key_harms 'Infection or allergic reaction' and 'Wrong or contaminated contents'",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/fitness/peptides-guide-for-men/",
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "creatine-monohydrate",
+      "name": "Creatine monohydrate",
+      "category": "compound",
+      "claim": "Creatine monohydrate reliably adds strength and lean mass and is safe for healthy men.",
+      "claim_source": "https://looksmaxxing.guide/en/fitness/supplements-that-work/",
+      "evidence": 4,
+      "evidence_rationale": "A 2024 meta-analysis of randomized trials in adults under 50 found creatine plus resistance training raised upper- and lower-body strength more than placebo, with larger effects in men. The ISSN position stand and a 2025 meta-analysis of kidney outcomes support its safety in healthy people.",
+      "risk_as_practiced": 1,
+      "risk_supervised": 0,
+      "risk_rationale": "Weight gain is the only side effect consistently reported in healthy users. A 2025 meta-analysis found a small rise in blood creatinine but no change in kidney filtration.",
+      "key_harms": [
+        "Weight gain",
+        "Small rise in blood creatinine with no change in kidney filtration"
+      ],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": "FDA completed a 2020 review of a GRAS notice for creatine monohydrate as an ingredient in certain foods and drinks and had no questions.",
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine",
+          "publisher": "Journal of the International Society of Sports Nutrition",
+          "year": 2017,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5469049/",
+          "type": "guideline",
+          "supports": "evidence_rationale sentence 2 (safety) and risk_rationale sentence 1 (weight gain the only consistent side effect); also lean-mass benefit",
+          "verified": true
+        },
+        {
+          "title": "Effects of Creatine Supplementation and Resistance Training on Muscle Strength Gains in Adults <50 Years of Age: A Systematic Review and Meta-Analysis",
+          "publisher": "Nutrients",
+          "year": 2024,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11547435",
+          "type": "systematic-review",
+          "supports": "evidence_rationale sentence 1 (strength gains versus placebo, larger in men)",
+          "verified": true
+        },
+        {
+          "title": "Effect of creatine supplementation on kidney function: a systematic review and meta-analysis",
+          "publisher": "BMC Nephrology",
+          "year": 2025,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12590749/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale sentence 2; risk_rationale sentence 2; key_harms 'Small rise in blood creatinine'",
+          "verified": true
+        },
+        {
+          "title": "GRAS Notice GRN 000931: creatine monohydrate, FDA response letter (corrected)",
+          "publisher": "U.S. Food and Drug Administration, Center for Food Safety and Applied Nutrition",
+          "year": 2020,
+          "url": "https://www.fda.gov/media/144598/download",
+          "type": "regulator",
+          "supports": "legal_status US (FDA had no questions about the GRAS conclusion for the stated food uses)",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/fitness/supplements-that-work/",
+      "confidence": "high",
+      "needs_human_review": false
+    },
+    {
+      "id": "resistance-training",
+      "name": "Resistance training",
+      "category": "baseline",
+      "claim": "Lifting weights builds muscle and lowers body fat, giving a visibly better physique.",
+      "claim_source": "https://greatist.com/discover/looks-maxing",
+      "evidence": 4,
+      "evidence_rationale": "A meta-analysis of 111 studies found about 1.5 kg of added muscle mass in healthy men, and a meta-analysis of randomized trials found resistance training lowers body fat percentage and fat mass in healthy adults, though the fat loss on its own is modest. US public-health guidance includes muscle-strengthening activity for adults.",
+      "risk_as_practiced": 1,
+      "risk_supervised": null,
+      "risk_rationale": "Reviews of competitive weight-training sports find low injury rates, mostly strains and tendinitis of the shoulder, lower back and knee. Most of that data comes from competitive athletes, so rates in casual lifters are less certain.",
+      "key_harms": [
+        "muscle strains and tendinitis",
+        "shoulder, lower-back and knee injuries",
+        "sprains"
+      ],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "A Systematic Review with Meta-Analysis of the Effect of Resistance Training on Whole-Body Muscle Growth in Healthy Adult Males",
+          "publisher": "International Journal of Environmental Research and Public Health",
+          "year": 2020,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7068252/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale: 111 studies (1,927 men) showed a pooled muscle mass gain of about 1.5 kg with no heterogeneity across studies.",
+          "verified": true
+        },
+        {
+          "title": "The Effect of Resistance Training in Healthy Adults on Body Fat Percentage, Fat Mass and Visceral Fat: A Systematic Review and Meta-Analysis",
+          "publisher": "Sports Medicine",
+          "year": 2022,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34536199/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale: in randomized trials versus control (the review has 58 studies, 54 in the meta-analysis), resistance training reduced body fat percentage, fat mass and visceral fat.",
+          "verified": true
+        },
+        {
+          "title": "Adult Activity: An Overview",
+          "publisher": "Centers for Disease Control and Prevention",
+          "year": 2023,
+          "url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html",
+          "type": "guideline",
+          "supports": "evidence_rationale: US public-health guidance for adults includes muscle-strengthening activity across all major muscle groups.",
+          "verified": true
+        },
+        {
+          "title": "The Epidemiology of Injuries Across the Weight-Training Sports",
+          "publisher": "Sports Medicine",
+          "year": 2017,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27328853/",
+          "type": "systematic-review",
+          "supports": "risk_rationale and key_harms: low injury rates relative to common team sports; shoulder, lower back, knee, elbow and wrist most affected; strains, tendinitis and sprains most common; most studies retrospective and of competitive athletes.",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/fitness/beginner-strength-program/",
+      "confidence": "high",
+      "needs_human_review": false
+    },
+    {
+      "id": "consistent-sleep",
+      "name": "Consistent sleep (7+ hours)",
+      "category": "baseline",
+      "claim": "Getting consistent sleep of 7 or more hours a night makes your skin, eyes and face look healthier and more attractive.",
+      "claim_source": "https://greatist.com/discover/looks-maxing",
+      "evidence": 3,
+      "evidence_rationale": "One lab experiment found sleep-deprived faces were rated less healthy and less attractive, a second found more visible fatigue cues such as darker eye circles and paler skin, and a comparison of 60 women links poor sleep quality with worse skin-ageing and skin-barrier recovery measures. The samples are small, the experiments test total sleep deprivation (31 hours awake) rather than 7 or more hours versus slightly less, and the visible effects were small.",
+      "risk_as_practiced": 0,
+      "risk_supervised": null,
+      "risk_rationale": "Getting enough sleep carries no meaningful harm. Ongoing trouble sleeping is a reason to see a doctor, not to self-medicate.",
+      "key_harms": [],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Beauty sleep: experimental study on the perceived health and attractiveness of sleep deprived people",
+          "publisher": "BMJ",
+          "year": 2010,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3001961/",
+          "type": "experimental",
+          "supports": "evidence_rationale: 23 adults photographed after normal sleep and after sleep deprivation were rated by 65 observers as less healthy, more tired and less attractive when sleep deprived (small differences).",
+          "verified": true
+        },
+        {
+          "title": "Cues of fatigue: effects of sleep deprivation on facial appearance",
+          "publisher": "Sleep",
+          "year": 2013,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23997369/",
+          "type": "experimental",
+          "supports": "evidence_rationale: faces after sleep deprivation were rated as having darker eye circles, paler skin and more wrinkles and fine lines.",
+          "verified": true
+        },
+        {
+          "title": "Does poor sleep quality affect skin ageing?",
+          "publisher": "Clinical and Experimental Dermatology",
+          "year": 2015,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/25266053/",
+          "type": "cross-sectional",
+          "supports": "evidence_rationale: in 60 women, good sleepers had lower intrinsic skin-ageing scores, better barrier recovery and better self-rated appearance than poor sleepers.",
+          "verified": true
+        },
+        {
+          "title": "Recommended Amount of Sleep for a Healthy Adult: A Joint Consensus Statement of the American Academy of Sleep Medicine and Sleep Research Society",
+          "publisher": "Sleep",
+          "year": 2015,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26039963/",
+          "type": "guideline",
+          "supports": "claim and practice name: professional-body consensus that adults need 7 or more hours of sleep per night for optimal health. Says nothing about appearance or skin.",
+          "verified": true
+        },
+        {
+          "title": "About Sleep",
+          "publisher": "Centers for Disease Control and Prevention",
+          "year": 2024,
+          "url": "https://www.cdc.gov/sleep/about/index.html",
+          "type": "guideline",
+          "supports": "claim and practice name (adults 18-60 need 7 or more hours); risk_rationale sentence 2 (talk to a healthcare provider about problems sleeping). Says nothing about appearance or skin.",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/fitness/sleep-optimization-guide/",
+      "confidence": "medium",
+      "needs_human_review": true
+    }
+  ],
+  "proposed": [
+    {
+      "name": "Mouth taping at night",
+      "why": "Promoted in mewing and nasal-breathing circles as a way to protect jaw and facial structure, yet a 2025 systematic review (10 studies, 213 patients) found sparse benefit and flagged a potentially serious risk for people practicing it indiscriminately, so it fits the harm-reduction angle and the same oral-posture search queries."
+    },
+    {
+      "name": "Orthognathic (jaw) surgery for cosmetic goals",
+      "why": "Often called 'bimax' in the community, it is the legitimate surgical counterpart to bonesmashing and has established clinical indications, so a graded entry would show readers where the evidence-backed route differs from the do-it-yourself one."
+    },
+    {
+      "name": "Dutasteride for hair loss (off-label)",
+      "why": "A 2024 network meta-analysis ranked it highest for hair density among monotherapies, and in May 2026 the MHRA announced a precautionary mood-alteration warning for its product information, so it deserves its own evidence and risk grade."
+    },
+    {
+      "name": "Sunless self-tanner (topical)",
+      "why": "It is the lower-risk substitute for the two riskiest tanning entries here (tanning beds, Melanotan II), so readers will want to know how it compares, though it gives little or no sun protection."
+    },
+    {
+      "name": "Clomiphene / enclomiphene as a 'natural TRT' alternative",
+      "why": "It is a recurring community claim that sits between prescribed TRT and SARMs, so readers comparing those options will look for it. It needs its own claim, evidence and risk grading rather than being folded into the TRT entry."
+    }
+  ]
+}
