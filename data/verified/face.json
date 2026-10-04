@@ -1,0 +1,272 @@
+{
+  "generated": "2026-10-03",
+  "practices": [
+    {
+      "id": "mewing",
+      "name": "Mewing",
+      "category": "face",
+      "claim": "Holding the tongue flat against the roof of the mouth (correct \"oral posture\") reshapes adult facial bone, giving a sharper jawline, a more forward upper jaw and more defined cheekbones.",
+      "claim_source": "https://aaoinfo.org/wp-content/uploads/2025/01/Risks-of-Mewing.pdf",
+      "evidence": 0,
+      "evidence_rationale": "No trial or imaging study testing mewing on adult jaw shape turned up in a PubMed search, and the American Association of Orthodontists states there is no scientific evidence that it reshapes the jawline. Tongue posture matters for oral function, but that is a much weaker claim than changing adult bone.",
+      "risk_as_practiced": 1,
+      "risk_supervised": null,
+      "risk_rationale": "The AAO warns that chronic tongue pressure can loosen teeth, shift the bite and affect speech, but no study quantifies this and ordinary tongue resting is usually harmless and reversible. The bigger cost is time spent on a method that does not deliver while a real bite or jaw problem goes unassessed.",
+      "key_harms": [
+        "Tooth movement or bite change from chronic pressure",
+        "Speech changes",
+        "Jaw muscle or TMJ tension",
+        "Delays a real orthodontic assessment"
+      ],
+      "safer_alternative": "An orthodontist consult for any bite, jaw-alignment or tongue-posture concern.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "American Association of Orthodontists Warns Against Popular \"Mewing\" Trend",
+          "publisher": "American Association of Orthodontists",
+          "year": 2024,
+          "url": "https://aaoinfo.org/wp-content/uploads/2025/01/Risks-of-Mewing.pdf",
+          "type": "guideline",
+          "supports": "evidence_rationale sentence 1 (no scientific evidence that mewing reshapes the jawline); risk_rationale sentence 1 and key_harms (loosened teeth, bite change, speech changes)",
+          "verified": true
+        },
+        {
+          "title": "Does Mewing Actually Reshape Your Jaw?",
+          "publisher": "American Association of Orthodontists",
+          "year": 2025,
+          "url": "https://aaoinfo.org/whats-trending/is-mewing-bad-for-you/",
+          "type": "guideline",
+          "supports": "evidence_rationale sentence 1 (no scientific support for jaw-sculpting claims); key_harms (bite problems, TMJ pain, speech difficulty from uneven tongue pressure)",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/looks/does-mewing-work/",
+      "confidence": "medium",
+      "needs_human_review": false
+    },
+    {
+      "id": "bonesmashing",
+      "name": "Bonesmashing",
+      "category": "face",
+      "claim": "Striking the cheekbones and jaw with a hammer or similar tool creates microfractures that heal as denser, more projecting bone, producing a sharper jawline and higher cheekbones.",
+      "claim_source": "https://www.mater.org.au/about-us/news/mater-news/2026/april/mater-doctors-warn-of-dangers-of-bone-smashing-trend",
+      "evidence": 0,
+      "evidence_rationale": "No human study shows that repeated blows reshape adult facial bone; a plastic surgeon at Mater Private Hospital Brisbane says they cause swelling and microfractures that do not improve appearance. Even professionally treated cheekbone-arch fractures leave some asymmetry in 20-40% of patients, the opposite of the promised result.",
+      "risk_as_practiced": 3,
+      "risk_supervised": null,
+      "risk_rationale": "Deliberate blows to the face can fracture the cheekbone or jaw, and in a pooled analysis about half of patients with cheekbone-complex fractures had infraorbital nerve dysfunction, with numbness sometimes persisting long term. No documented deaths or case series of permanent disability were found, so this is rated High rather than Severe.",
+      "key_harms": [
+        "Facial fracture needing surgery",
+        "Lasting numbness from nerve injury",
+        "Bite change and tooth damage",
+        "Permanent asymmetry or scarring"
+      ],
+      "safer_alternative": "A consult with an orthodontist or oral and maxillofacial surgeon, who can say what is realistic for your face and treat any genuine bite or jaw problem safely.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Mater doctors warn of dangers of bone-smashing trend",
+          "publisher": "Mater (Australia)",
+          "year": 2026,
+          "url": "https://www.mater.org.au/about-us/news/mater-news/2026/april/mater-doctors-warn-of-dangers-of-bone-smashing-trend",
+          "type": "review",
+          "supports": "evidence_rationale sentence 1 (blows cause swelling and microfractures that do not improve appearance); key_harms (nerve damage, bite and tooth problems, permanent disfigurement). Expert statement by a plastic surgeon, not a study.",
+          "verified": true
+        },
+        {
+          "title": "Evaluating infra-orbital nerve injury in zygomaticomaxillary complex fractures: a systematic review and meta-analysis",
+          "publisher": "Frontiers in Oral Health",
+          "year": 2025,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12714943/",
+          "type": "systematic-review",
+          "supports": "risk_rationale sentence 1 (pooled infraorbital nerve dysfunction of 51.9% after cheekbone-complex fractures, with deficits that may persist). Data are from clinical fractures, extrapolated to deliberate strikes; no bonesmashing cohort exists.",
+          "verified": true
+        },
+        {
+          "title": "Zygomatic Arch Fracture",
+          "publisher": "StatPearls (NCBI Bookshelf)",
+          "year": 2024,
+          "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK549898/",
+          "type": "review",
+          "supports": "evidence_rationale sentence 2 (postoperative asymmetry in 20-40% of patients); risk_rationale (long-term paresthesia in 22-65%); key_harms. Data are from clinical fractures, extrapolated to deliberate strikes.",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/looks/is-bonesmashing-dangerous/",
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "thumbpulling",
+      "name": "Thumbpulling",
+      "category": "face",
+      "claim": "Pulling outward on the roof of the mouth with the thumbs widens and advances the adult upper jaw, giving more tongue room, higher cheekbones and a better-balanced face.",
+      "claim_source": "https://mewing.coach/blog/thumb-pulling",
+      "evidence": 0,
+      "evidence_rationale": "A PubMed title and abstract search for thumb pulling returned no results, and even a page promoting the practice concedes there are no randomized trials. Where adult upper-jaw expansion is studied, it uses specialist miniscrew-anchored appliances, not finger pressure.",
+      "risk_as_practiced": 1,
+      "risk_supervised": null,
+      "risk_rationale": "No harm cases are documented, so this score is an inference from mechanism: uncontrolled finger force on teeth, gums and the jaw joint is most likely to cause irritation or soreness. The harms are not well characterized, which is why confidence is low.",
+      "key_harms": [
+        "Gum and mouth-lining irritation",
+        "Tooth or bite change from uncontrolled force",
+        "Jaw joint strain",
+        "Delays a proper orthodontic assessment"
+      ],
+      "safer_alternative": "An orthodontist can assess palate width and bite with imaging and, if a narrow palate is confirmed, treat it with a specialist expansion appliance.",
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Efficacy of Miniscrew-Assisted Rapid Palatal Expansion (MARPE) in late adolescents and adults: a systematic review and meta-analysis",
+          "publisher": "European Journal of Orthodontics",
+          "year": 2021,
+          "url": "https://academic.oup.com/ejo/article/43/3/313/6244623",
+          "type": "systematic-review",
+          "supports": "evidence_rationale sentence 2 and safer_alternative (adult upper-jaw expansion is done with miniscrew-anchored appliances, with dental tipping and thinner buccal bone as documented side effects). Does not study finger pressure; the review itself notes serious risk of bias in its 8 included studies.",
+          "verified": true
+        },
+        {
+          "title": "Analysis of the Frequency and Correlated Factors of Midpalatal Suture Maturation Stages in Young Adults, Based on Cone Beam Computed Tomography Imaging",
+          "publisher": "Journal of Clinical Medicine",
+          "year": 2022,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9740603/",
+          "type": "cohort",
+          "supports": "safer_alternative (whether an adult palate is a candidate for expansion varies by individual and is judged with CBCT imaging, not by age or by trial and error). Cross-sectional imaging study of 142 scans, ages 15-30; says nothing about thumb pulling.",
+          "verified": true
+        }
+      ],
+      "internal_link": null,
+      "confidence": "low",
+      "needs_human_review": true
+    },
+    {
+      "id": "jawline-gum-jaw-exercisers",
+      "name": "Jawline chewing gum / jaw exercisers",
+      "category": "face",
+      "claim": "Chewing very hard gum or using resistance jaw trainers builds the jaw muscles and gives a sharper, more chiseled jawline.",
+      "claim_source": "https://www.thenationalnews.com/lifestyle/wellbeing/2024/08/06/chewing-gum-jawline-fitness/",
+      "evidence": 0,
+      "evidence_rationale": "The one randomized trial in healthy adults (58 participants, six months of gum-chewing training) raised bite force but found no change in masseter thickness or jaw shape. The trials that did show masseter thickening tested chewing exercises in adults aged 65 and over, and a thicker masseter bulges at the jaw angle rather than sharpening the line.",
+      "risk_as_practiced": 1,
+      "risk_supervised": null,
+      "risk_rationale": "A systematic review of 8 studies found gum chewing ranges from no link to jaw-disorder symptoms through to dose-dependent muscle discomfort and hypertrophy, which generally eases when chewing stops. No study of very hard gum or resistance jaw trainers was found, so their harms are unquantified.",
+      "key_harms": [
+        "Jaw muscle pain",
+        "Temporomandibular disorder symptoms",
+        "Bulkier, squarer lower face from masseter hypertrophy"
+      ],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Effects of gum chewing training on occlusal force, masseter muscle thickness and mandibular shape: A randomised controlled clinical trial",
+          "publisher": "Journal of Oral Rehabilitation",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39215439/",
+          "type": "rct",
+          "supports": "evidence_rationale sentence 1 (no change in masseter thickness or mandibular shape in healthy adults after 6 months of gum-chewing training; bite force rose)",
+          "verified": true
+        },
+        {
+          "title": "Effects of chewing exercises on the occlusal force and masseter muscle thickness in community-dwelling Koreans aged 65 years and older: A randomised assessor-blind trial",
+          "publisher": "Journal of Oral Rehabilitation",
+          "year": 2020,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32589302/",
+          "type": "rct",
+          "supports": "evidence_rationale sentence 2 (chewing exercises increased masseter thickness versus controls, but only in adults aged 65 and over)",
+          "verified": true
+        },
+        {
+          "title": "Association of temporomandibular disorders and other jaw anomalies in chewing gum users - a systematic review",
+          "publisher": "Journal of Oral & Facial Pain and Headache",
+          "year": 2025,
+          "url": "https://www.jofph.com/articles/10.22514/jofph.2025.022",
+          "type": "systematic-review",
+          "supports": "risk_rationale sentence 1 and key_harms (mixed findings, with a dose-dependent pattern of muscle discomfort and hypertrophy in some studies)",
+          "verified": true
+        },
+        {
+          "title": "Benign masseter muscle hypertrophy",
+          "publisher": "Brazilian Journal of Otorhinolaryngology",
+          "year": 2008,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19082365/",
+          "type": "case-report",
+          "supports": "evidence_rationale sentence 2 and key_harms (masseter hypertrophy presents as bulging at the mandibular angle and has been associated with gum-chewing habits and TMJ dysfunction). Single case report; association only.",
+          "verified": true
+        }
+      ],
+      "internal_link": "/en/looks/looksmaxxing-jawline/",
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "facial-exercises",
+      "name": "Facial exercises (\"face yoga\")",
+      "category": "face",
+      "claim": "Daily facial exercises build the facial muscles, lifting the cheeks and tightening the jaw so the face looks more defined and younger.",
+      "claim_source": "https://health.clevelandclinic.org/can-doing-facial-exercises-help-you-look-younger-face-yoga",
+      "evidence": 2,
+      "evidence_rationale": "One uncontrolled 20-week pilot of 16 completers (27 enrolled), all women aged 40-65, found small gains in cheek fullness and an apparent age about 2.7 years younger on blinded rating. A systematic review of nine earlier uncontrolled studies found the evidence insufficient, and nothing has been tested in men or for jawline definition.",
+      "risk_as_practiced": 0,
+      "risk_supervised": 0,
+      "risk_rationale": "The pilot trial reported no adverse events, and the practice involves no product or procedure. The main cost is time spent on a method with limited proof.",
+      "key_harms": [],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Association of Facial Exercise With the Appearance of Aging",
+          "publisher": "JAMA Dermatology",
+          "year": 2018,
+          "url": "https://jamanetwork.com/journals/jamadermatology/fullarticle/2666801",
+          "type": "cohort",
+          "supports": "evidence_rationale sentence 1 (prospective uncontrolled pilot in women; cheek fullness and apparent age improved; 11 of 27 dropped out) and risk_rationale (no adverse events reported)",
+          "verified": false
+        },
+        {
+          "title": "The effectiveness of facial exercises for facial rejuvenation: a systematic review",
+          "publisher": "Aesthetic Surgery Journal",
+          "year": 2014,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24327764/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale sentence 2 (nine reports, none controlled or randomized; evidence insufficient to judge effectiveness)",
+          "verified": true
+        }
+      ],
+      "internal_link": null,
+      "confidence": "medium",
+      "needs_human_review": false
+    }
+  ],
+  "proposed": [
+    {
+      "name": "Mouth taping at night",
+      "why": "Promoted in mewing and nasal-breathing circles as a way to protect jaw and facial structure, yet a 2025 systematic review (10 studies, 213 patients) found sparse benefit and flagged a potentially serious risk for people practicing it indiscriminately, so it fits the harm-reduction angle and the same oral-posture search queries."
+    }
+  ]
+}

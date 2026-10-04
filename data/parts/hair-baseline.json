@@ -1,0 +1,473 @@
+{
+  "generated": "2026-10-03",
+  "practices": [
+    {
+      "id": "topical-minoxidil",
+      "name": "Topical minoxidil",
+      "category": "hair",
+      "claim": "Minoxidil applied to the scalp thickens thinning hair and regrows lost hair in male pattern baldness.",
+      "claim_source": "https://www.hairlosstalk.com/interact/threads/minoxidil-5-results.96395/post-1288935",
+      "evidence": 4,
+      "evidence_rationale": "It is sold without a prescription with FDA-labeled use to regrow hair on the top of the scalp in men, and meta-analyses of placebo-controlled trials find more hair growth than placebo. Only a subset of users get cosmetically meaningful regrowth, and gains last only while it is used.",
+      "risk_as_practiced": 1,
+      "risk_supervised": 1,
+      "risk_rationale": "Common effects are scalp irritation and unwanted facial hair, and the label tells users to stop for chest pain, rapid heartbeat, dizziness or sudden swelling. One case report describes low blood pressure after far too much was applied, so overuse is the main avoidable problem.",
+      "key_harms": [
+        "scalp irritation or redness",
+        "unwanted facial hair growth",
+        "chest pain, rapid heartbeat or dizziness (stop-use signs)",
+        "hair loss resumes if you stop"
+      ],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": "Non-prescription (OTC): FDA Drug Facts labeling covers regrowing hair on the top of the scalp in men.",
+        "UK": null,
+        "AU": "Pharmacy medicine (Schedule 2), available without a prescription.",
+        "CA": "Listed as a non-prescription drug in Health Canada's Drug Product Database."
+      },
+      "sources": [
+        {
+          "title": "Minoxidil topical solution for men: non-prescription Drug Facts label",
+          "publisher": "U.S. Food and Drug Administration (FDALabel)",
+          "year": 2024,
+          "url": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/ccaecec5-5348-4b24-9190-5464c50f6d80/spl-doc",
+          "type": "regulator",
+          "supports": "evidence_rationale (labeled use is to regrow hair on the top of the scalp in men); legal_status.US; key_harms and risk_rationale (stop-use signs, hair loss resumes without continued use)."
+        },
+        {
+          "title": "Topical Minoxidil: Systematic Review and Meta-Analysis of Its Efficacy in Androgenetic Alopecia",
+          "publisher": "Skinmed",
+          "year": 2015,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26380504/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale: more effective than placebo for hair growth, with cosmetically acceptable results in only a subset of patients."
+        },
+        {
+          "title": "The effectiveness of treatments for androgenetic alopecia: A systematic review and meta-analysis",
+          "publisher": "Journal of the American Academy of Dermatology",
+          "year": 2017,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28396101/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale: minoxidil was superior to placebo in pooled randomized trials in men."
+        },
+        {
+          "title": "Drug Product Database: minoxidil topical solution for men (non-prescription)",
+          "publisher": "Health Canada",
+          "year": 2026,
+          "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=7084",
+          "type": "regulator",
+          "supports": "legal_status.CA: schedule listed as non-prescription drugs."
+        },
+        {
+          "title": "Minoxidil topical solution for androgenic alopecia: Australian medicine listing (Schedule 2)",
+          "publisher": "healthdirect Australia",
+          "year": 2026,
+          "url": "https://www.healthdirect.gov.au/medicines/brand/amt,45451000168101/regaine-men-s-extra-strength",
+          "type": "regulator",
+          "supports": "legal_status.AU: Schedule 2 pharmacy medicine, available from a pharmacy without a prescription."
+        },
+        {
+          "title": "Topical Minoxidil Overdose in a Young Man With Androgenetic Alopecia: A Case Report",
+          "publisher": "Cureus",
+          "year": 2024,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11246695/",
+          "type": "case-report",
+          "supports": "risk_rationale: dizziness and low blood pressure after applying far too much, resolving once stopped."
+        }
+      ],
+      "internal_link": "/en/looks/hair-transplant-looksmaxxing/",
+      "confidence": "high",
+      "needs_human_review": false
+    },
+    {
+      "id": "low-dose-oral-minoxidil",
+      "name": "Low-dose oral minoxidil",
+      "category": "hair",
+      "claim": "A daily low-dose minoxidil tablet regrows hair across the scalp as well as or better than the topical solution, without the daily application.",
+      "claim_source": "https://www.hairlosstalk.com/interact/threads/oral-minoxidil-loniten.40631",
+      "evidence": 3,
+      "evidence_rationale": "Four randomized trials (279 patients) found oral minoxidil no different from the topical on hair density or diameter over about 6 to 9 months, and the topical has placebo-controlled proof. The trials compared oral with topical rather than with placebo, the FDA does not list hair loss as an approved use, and nothing shows it beats the topical.",
+      "risk_as_practiced": 2,
+      "risk_supervised": 1,
+      "risk_rationale": "The FDA label for minoxidil tablets opens with a warning about fluid around the heart and worsened angina in its approved hypertension use; in hair-loss use, reviews report mostly excess hair growth, swelling and dizziness, and fluid around the heart is extremely rare and often tied to compounding errors. It needs a prescriber who checks blood pressure, heart history and other medicines, which self-sourcing skips.",
+      "key_harms": [
+        "unwanted face and body hair, about twice as often as with the topical",
+        "fluid retention and swelling",
+        "dizziness, low blood pressure or fast heartbeat",
+        "rare fluid around the heart"
+      ],
+      "safer_alternative": "Start with a licensed topical, or ask a dermatologist or GP about prescription options; if the oral route is on the table, they check blood pressure, heart history and other medicines first and follow up.",
+      "legal_status": {
+        "US": "Off-label. Minoxidil tablets are prescription-only and labeled for severe hypertension; the FDA label says use to promote hair growth is not an approved indication.",
+        "UK": null,
+        "AU": "Prescription-only (Schedule 4); the listed tablet product is registered for severe refractory hypertension.",
+        "CA": "Prescription-only in Health Canada's Drug Product Database; the listed tablet product is classed as an antihypertensive."
+      },
+      "sources": [
+        {
+          "title": "Efficacy and safety of oral minoxidil versus topical solution in androgenetic alopecia: a meta-analysis of randomized clinical trials",
+          "publisher": "International Journal of Dermatology",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39425514/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale (four randomized trials, 279 patients, no difference in hair density or diameter versus topical); key_harms (hypertrichosis about twice as frequent with oral)."
+        },
+        {
+          "title": "Low-dose oral minoxidil as treatment for non-scarring alopecia: a systematic review",
+          "publisher": "International Journal of Dermatology",
+          "year": 2020,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32516434/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale context (objective improvement reported in 61 to 100 percent of androgenetic alopecia patients across the included studies); key_harms (hypertrichosis and postural hypotension most common)."
+        },
+        {
+          "title": "Characterization and Management of Adverse Events of Low-Dose Oral Minoxidil Treatment for Alopecia: A Narrative Review",
+          "publisher": "Journal of Clinical Medicine",
+          "year": 2025,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11942662/",
+          "type": "review",
+          "supports": "risk_rationale and key_harms (off-label for hair loss; hypertrichosis about 15%, fluid retention, dizziness, tachycardia; fluid around the heart rare); risk_supervised."
+        },
+        {
+          "title": "Minoxidil tablets: U.S. prescribing information (revised 05/2026)",
+          "publisher": "U.S. Food and Drug Administration (FDALabel)",
+          "year": 2026,
+          "url": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/8f3800f0-b6da-4dfe-8c32-39bb5eb0262a/spl-doc",
+          "type": "regulator",
+          "supports": "legal_status.US (prescription-only, hypertension indication, hair growth not an approved indication); risk_rationale (opening warning on fluid around the heart and angina)."
+        },
+        {
+          "title": "Minoxidil tablets: Australian medicine listing (Schedule 4, severe refractory hypertension)",
+          "publisher": "healthdirect Australia",
+          "year": 2026,
+          "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3684011000036109/loniten",
+          "type": "regulator",
+          "supports": "legal_status.AU: Schedule 4 prescription-only medicine with a severe refractory hypertension indication."
+        },
+        {
+          "title": "Drug Product Database: minoxidil tablets (prescription)",
+          "publisher": "Health Canada",
+          "year": 2026,
+          "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=4010",
+          "type": "regulator",
+          "supports": "legal_status.CA: schedule listed as prescription; classed under antihypertensives."
+        }
+      ],
+      "internal_link": null,
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "finasteride",
+      "name": "Finasteride",
+      "category": "hair",
+      "claim": "Finasteride stops male pattern balding in nearly all men and regrows noticeable hair in most.",
+      "claim_source": "https://www.teamblind.com/post/if-youre-noticing-hair-loss-you-should-start-taking-finasteride-th1cjyyq",
+      "evidence": 4,
+      "evidence_rationale": "It is FDA-approved for male pattern hair loss in men on the strength of three double-blind placebo-controlled trials (1,879 men), and a meta-analysis of randomized trials confirms it beats placebo. In the label's five-year vertex data about 9 in 10 men had no further visible loss, but only about half showed visible regrowth.",
+      "risk_as_practiced": 2,
+      "risk_supervised": 2,
+      "risk_rationale": "The FDA label and the MHRA both list depression, suicidal thoughts and sexual dysfunction that can continue after stopping, and the MHRA notes the hair-loss strength is commonly prescribed online, where these risks may not be explained. Most men tolerate it and causation of the psychiatric reports is still debated, but the harms that do occur can be long-lasting.",
+      "key_harms": [
+        "lower sex drive, erection or ejaculation problems",
+        "sexual side effects that can persist after stopping",
+        "depression and suicidal thoughts",
+        "possible rise in high-grade prostate cancer detection"
+      ],
+      "safer_alternative": "Use a prescriber who asks about depression history, explains the sexual and mood risks up front, and agrees a plan to stop and report symptoms; a licensed topical minoxidil is a non-hormonal option to try first.",
+      "legal_status": {
+        "US": "Prescription-only; FDA-approved for male pattern hair loss in men.",
+        "UK": "Prescription-only; approved for male pattern hair loss. The hair-loss strength is available only on private prescription and is commonly prescribed online (MHRA).",
+        "AU": "Prescription-only (Schedule 4).",
+        "CA": "Prescription drug; marketed in Canada for male pattern hair loss since 1998."
+      },
+      "sources": [
+        {
+          "title": "Finasteride tablets for male pattern hair loss: U.S. prescribing information (revised 11/2023)",
+          "publisher": "U.S. Food and Drug Administration (FDALabel)",
+          "year": 2023,
+          "url": "https://nctr-crs.fda.gov/fdalabel/services/spl/set-ids/6f904709-65aa-44ce-b144-b4c8a0416e36/spl-doc",
+          "type": "regulator",
+          "supports": "evidence_rationale (three double-blind placebo-controlled trials in 1,879 men; five-year hair count and photo ratings); legal_status.US; key_harms and risk_rationale (sexual dysfunction continuing after discontinuation, depression and suicidal ideation, high-grade prostate cancer signal)."
+        },
+        {
+          "title": "The effectiveness of treatments for androgenetic alopecia: A systematic review and meta-analysis",
+          "publisher": "Journal of the American Academy of Dermatology",
+          "year": 2017,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28396101/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale: finasteride was superior to placebo in pooled randomized trials in men."
+        },
+        {
+          "title": "Safety review of Finasteride: Public Assessment Report",
+          "publisher": "Medicines and Healthcare products Regulatory Agency (MHRA)",
+          "year": 2024,
+          "url": "https://assets.publishing.service.gov.uk/media/6825bc05a4c1a40fde4e63e7/Finasteride_PAR_Accessible_1206.pdf",
+          "type": "regulator",
+          "supports": "legal_status.UK (approved for male pattern hair loss); risk_rationale (persistent sexual dysfunction and suicidal thoughts are known effects; depression is multifactorial; some online prescribers lack thorough screening)."
+        },
+        {
+          "title": "Men on finasteride asked to stay vigilant for possible psychiatric and sexual side effects",
+          "publisher": "Medicines and Healthcare products Regulatory Agency (MHRA)",
+          "year": 2024,
+          "url": "https://www.gov.uk/government/news/men-on-finasteride-asked-to-stay-vigilant-for-possible-psychiatric-and-sexual-side-effects",
+          "type": "regulator",
+          "supports": "legal_status.UK (private prescription only, commonly prescribed online); key_harms and risk_rationale (depression, suicidal thoughts, sexual dysfunction persisting after stopping)."
+        },
+        {
+          "title": "MHRA strengthens safety warnings for finasteride and dutasteride",
+          "publisher": "Medicines and Healthcare products Regulatory Agency (MHRA)",
+          "year": 2026,
+          "url": "https://www.gov.uk/government/news/mhra-strengthens-safety-warnings-for-finasteride-and-dutasteride",
+          "type": "regulator",
+          "supports": "risk_rationale: UK warnings on sexual dysfunction, depression and suicidal thoughts were strengthened again in May 2026."
+        },
+        {
+          "title": "Summary Safety Review - Finasteride - Assessing the Potential Risk of Suicidal Thoughts and Behaviour (Suicidality)",
+          "publisher": "Health Canada",
+          "year": 2015,
+          "url": "https://www.canada.ca/en/health-canada/services/drugs-health-products/medeffect-canada/safety-reviews/summary-safety-review-finasteride-assessing-potential-risk-suicidal-thoughts-suicidality.html",
+          "type": "regulator",
+          "supports": "legal_status.CA (marketed since 1998 for male pattern hair loss); risk_rationale (evidence too limited to confirm or exclude a link with suicidality)."
+        },
+        {
+          "title": "Drug Product Database: finasteride tablets for male pattern hair loss (prescription)",
+          "publisher": "Health Canada",
+          "year": 2026,
+          "url": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code=61606",
+          "type": "regulator",
+          "supports": "legal_status.CA: schedule listed as prescription."
+        },
+        {
+          "title": "Finasteride tablets for male pattern hair loss: Australian medicine listing (Schedule 4)",
+          "publisher": "healthdirect Australia",
+          "year": 2026,
+          "url": "https://www.healthdirect.gov.au/medicines/brand/amt%2C39667011000036104/propecia",
+          "type": "regulator",
+          "supports": "legal_status.AU: Schedule 4 prescription-only medicine for male pattern hair loss."
+        },
+        {
+          "title": "Adverse Effects and Safety of 5-alpha Reductase Inhibitors (Finasteride, Dutasteride): A Systematic Review",
+          "publisher": "The Journal of Clinical and Aesthetic Dermatology",
+          "year": 2016,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27672412/",
+          "type": "systematic-review",
+          "supports": "risk_rationale and key_harms: sexual effects reported in roughly 3 to 16 percent of men, no direct link with depression established, overall well tolerated but not without risk."
+        }
+      ],
+      "internal_link": "/en/looks/hair-transplant-looksmaxxing/",
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "scalp-microneedling",
+      "name": "Scalp microneedling",
+      "category": "hair",
+      "claim": "Rolling or stamping a microneedle device over the scalp regrows thinning hair and makes minoxidil work much better.",
+      "claim_source": "https://tressless.com/community/pQOZ",
+      "evidence": 3,
+      "evidence_rationale": "Three meta-analyses of 10 to 13 small randomized trials find more hair growth when microneedling is added to minoxidil than with minoxidil alone, but results vary widely between trials and a network meta-analysis ranks microneedling alone below oral 5-alpha-reductase inhibitors such as finasteride. The FDA's list of authorized microneedling uses does not include hair loss.",
+      "risk_as_practiced": 1,
+      "risk_supervised": 1,
+      "risk_rationale": "Most side effects are short-lived redness, bleeding and crusting, but the FDA warns that some can be permanent, that reusing a needle cartridge is unsafe, and that these devices are not approved for pushing topical drugs into the skin. Home use leaves sterility and technique unchecked.",
+      "key_harms": [
+        "bleeding, redness and crusting",
+        "infection or cold-sore reactivation",
+        "pigment changes (lighter or darker patches)",
+        "risks of combining with topical drugs are unknown (FDA)"
+      ],
+      "safer_alternative": "If you want to try it, a trained provider using a new single-use needle cartridge is the route the FDA describes.",
+      "legal_status": {
+        "US": "The FDA has authorized microneedling devices for facial acne scars, facial wrinkles and abdominal scars in adults 22 and older; hair loss is not among the authorized uses listed.",
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "A randomized evaluator blinded study of effect of microneedling in androgenetic alopecia: a pilot study",
+          "publisher": "International Journal of Trichology",
+          "year": 2013,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3746236/",
+          "type": "rct",
+          "supports": "evidence_rationale: in a 12-week randomized trial of 94 men who completed it, microneedling plus minoxidil gave higher hair counts than minoxidil alone."
+        },
+        {
+          "title": "Efficacy and safety of combined microneedling therapy for androgenic alopecia: A systematic review and meta-analysis of randomized clinical trials",
+          "publisher": "Journal of Cosmetic Dermatology",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38239003/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale: 13 randomized trials (696 patients) favored combined microneedling over single treatments for hair density and diameter."
+        },
+        {
+          "title": "Efficacy and safety of combinational therapy using topical minoxidil and microneedling for the treatment of androgenetic alopecia: a systematic review and meta-analysis",
+          "publisher": "Archives of Dermatological Research",
+          "year": 2023,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37665358/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale (10 randomized trials, 466 patients, higher hair count with the combination); risk_rationale (no scarring or serious adverse events reported in the included trials)."
+        },
+        {
+          "title": "Evaluating the efficacy and safety of combined microneedling therapy versus topical Minoxidil in androgenetic alopecia: a systematic review and meta-analysis",
+          "publisher": "Archives of Dermatological Research",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40056230/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale (12 randomized trials, 631 patients; hair count improved but heterogeneity was very high); risk_rationale (adverse events mild or self-limiting)."
+        },
+        {
+          "title": "The impact of monotherapies for male androgenetic alopecia: A network meta-analysis study",
+          "publisher": "Journal of Cosmetic Dermatology",
+          "year": 2024,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38725143/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale: oral 5-alpha-reductase inhibitors were more effective than newer monotherapies including microneedling."
+        },
+        {
+          "title": "Microneedling Devices",
+          "publisher": "U.S. Food and Drug Administration",
+          "year": 2025,
+          "url": "https://www.fda.gov/medical-devices/aesthetic-cosmetic-devices/microneedling-devices",
+          "type": "regulator",
+          "supports": "legal_status.US (authorized uses exclude hair loss); risk_rationale and key_harms (common and less common effects, some may be permanent, reuse of needle cartridges unsafe, not approved for delivering topical drugs, risks of off-label use and combinations not known)."
+        }
+      ],
+      "internal_link": null,
+      "confidence": "medium",
+      "needs_human_review": true
+    },
+    {
+      "id": "resistance-training",
+      "name": "Resistance training",
+      "category": "baseline",
+      "claim": "Lifting weights builds muscle and lowers body fat, giving a visibly better physique.",
+      "claim_source": "https://greatist.com/discover/looks-maxing",
+      "evidence": 4,
+      "evidence_rationale": "A meta-analysis of 111 studies found about 1.5 kg of added muscle mass in healthy men, and a meta-analysis of randomized trials found resistance training lowers body fat percentage and fat mass in healthy adults, though the fat loss on its own is modest. US public-health guidance includes muscle-strengthening activity for adults.",
+      "risk_as_practiced": 1,
+      "risk_supervised": null,
+      "risk_rationale": "Reviews of competitive weight-training sports find low injury rates, mostly strains and tendinitis of the shoulder, lower back and knee. Most of that data comes from competitive athletes, so rates in casual lifters are less certain.",
+      "key_harms": [
+        "muscle strains and tendinitis",
+        "shoulder, lower-back and knee injuries",
+        "sprains"
+      ],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "A Systematic Review with Meta-Analysis of the Effect of Resistance Training on Whole-Body Muscle Growth in Healthy Adult Males",
+          "publisher": "International Journal of Environmental Research and Public Health",
+          "year": 2020,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7068252/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale: 111 studies (1,927 men) showed a pooled muscle mass gain of about 1.5 kg with no heterogeneity across studies."
+        },
+        {
+          "title": "The Effect of Resistance Training in Healthy Adults on Body Fat Percentage, Fat Mass and Visceral Fat: A Systematic Review and Meta-Analysis",
+          "publisher": "Sports Medicine",
+          "year": 2022,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34536199/",
+          "type": "systematic-review",
+          "supports": "evidence_rationale: across 58 randomized trials, resistance training reduced body fat percentage, fat mass and visceral fat versus no exercise."
+        },
+        {
+          "title": "Adult Activity: An Overview",
+          "publisher": "Centers for Disease Control and Prevention",
+          "year": 2025,
+          "url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html",
+          "type": "guideline",
+          "supports": "evidence_rationale: US public-health guidance for adults includes muscle-strengthening activity across all major muscle groups."
+        },
+        {
+          "title": "The Epidemiology of Injuries Across the Weight-Training Sports",
+          "publisher": "Sports Medicine",
+          "year": 2017,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27328853/",
+          "type": "systematic-review",
+          "supports": "risk_rationale and key_harms: low injury rates relative to common team sports; shoulder, lower back, knee, elbow and wrist most affected; strains, tendinitis and sprains most common; most studies retrospective and of competitive athletes."
+        }
+      ],
+      "internal_link": "/en/fitness/beginner-strength-program/",
+      "confidence": "high",
+      "needs_human_review": false
+    },
+    {
+      "id": "consistent-sleep",
+      "name": "Consistent 7–9 h sleep",
+      "category": "baseline",
+      "claim": "Getting a consistent 7–9 hours of sleep makes your skin, eyes and face look healthier and more attractive.",
+      "claim_source": "https://greatist.com/discover/looks-maxing",
+      "evidence": 3,
+      "evidence_rationale": "Two controlled lab experiments found sleep-deprived faces were rated less healthy and less attractive, and a 60-person comparison links chronically short, poor-quality sleep with worse skin-ageing and skin-barrier recovery measures. The samples are small, the experiments test total sleep deprivation rather than 7–9 hours versus slightly less, and the visible effects were small.",
+      "risk_as_practiced": 0,
+      "risk_supervised": null,
+      "risk_rationale": "Getting enough sleep carries no meaningful harm. Ongoing trouble sleeping is a reason to see a doctor, not to self-medicate.",
+      "key_harms": [],
+      "safer_alternative": null,
+      "legal_status": {
+        "US": null,
+        "UK": null,
+        "AU": null,
+        "CA": null
+      },
+      "sources": [
+        {
+          "title": "Beauty sleep: experimental study on the perceived health and attractiveness of sleep deprived people",
+          "publisher": "BMJ",
+          "year": 2010,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3001961/",
+          "type": "cohort",
+          "supports": "evidence_rationale: 23 adults photographed after normal sleep and after sleep deprivation were rated by 65 observers as less healthy, more tired and less attractive when sleep deprived (small differences)."
+        },
+        {
+          "title": "Cues of fatigue: effects of sleep deprivation on facial appearance",
+          "publisher": "Sleep",
+          "year": 2013,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23997369/",
+          "type": "cohort",
+          "supports": "evidence_rationale: faces after sleep deprivation were rated as having darker eye circles, paler skin and more wrinkles and fine lines."
+        },
+        {
+          "title": "Does poor sleep quality affect skin ageing?",
+          "publisher": "Clinical and Experimental Dermatology",
+          "year": 2015,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/25266053/",
+          "type": "cohort",
+          "supports": "evidence_rationale: in 60 women, good sleepers had lower intrinsic skin-ageing scores, better barrier recovery and better self-rated appearance than poor sleepers."
+        },
+        {
+          "title": "Recommended Amount of Sleep for a Healthy Adult: A Joint Consensus Statement of the American Academy of Sleep Medicine and Sleep Research Society",
+          "publisher": "Sleep",
+          "year": 2015,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26039963/",
+          "type": "guideline",
+          "supports": "evidence_rationale: professional-body consensus on the amount of sleep adults need for optimal health."
+        },
+        {
+          "title": "About Sleep",
+          "publisher": "Centers for Disease Control and Prevention",
+          "year": 2025,
+          "url": "https://www.cdc.gov/sleep/about/index.html",
+          "type": "guideline",
+          "supports": "risk_rationale and evidence_rationale: public-health sleep recommendations for adults and the health consequences of insufficient sleep."
+        }
+      ],
+      "internal_link": "/en/fitness/sleep-optimization-guide/",
+      "confidence": "medium",
+      "needs_human_review": true
+    }
+  ],
+  "proposed": [
+    {
+      "name": "Dutasteride for hair loss (off-label)",
+      "why": "It is the 'stronger finasteride' that looksmaxxing hair content points readers to; a 2024 network meta-analysis ranked it highest for hair density among monotherapies, and in May 2026 the MHRA announced a precautionary mood-alteration warning for its product information, so it deserves its own evidence and risk grade."
+    }
+  ]
+}

@@ -4,7 +4,7 @@ A one-page tool for [looksmaxxing.guide](https://looksmaxxing.guide) that places
 
 This file holds the prompts that build it, in the order they run, and the decisions behind them. The iteration log at the bottom is filled in while executing — real failures only.
 
-**Status (work in progress):** Prompt 1 is running as 5 parallel Sonnet agents, one per category; face and procedure are done (`data/parts/`). Prompt 2 is verifying those two. Prompt 3 is done: `build.mjs` works and was developed against placeholder data (`data/fixture.json`) while the research ran. Prompt 4 is not run yet.
+**Status (work in progress):** Prompt 1 ran as 5 parallel Sonnet agents, one per category; all 5 are done (`data/parts/`, 28 practices). Prompt 2: face is verified (`data/verification/face.md`, 12 verified / 1 weak / 0 fabricated) and its one proposed score change was reviewed and applied by hand (`data/review-decisions.md`); the other categories are being verified. Prompt 3 is done: `build.mjs` works and was developed against placeholder data (`data/fixture.json`) while the research ran. Prompt 4 is not run yet.
 
 ---
 
@@ -366,4 +366,6 @@ Filled in while running the prompts. Real failures only.
 | 2 | 1 | The prompt contradicted itself: "no brands anywhere", but one practice is named "Aqualyx-type" and FDA pages have brand names in their titles. | The procedure agent flagged it. | Brands allowed only inside verbatim source titles and URLs, never in written prose. |
 | 3 | 1 | The source `type` list has no value for case series, perception surveys or expert statements, so agents squeezed them into "cohort" or "review". | Both research agents flagged it. | Pending: add `case-series` and `expert-statement` to the schema. |
 | 4 | 1 | No study looks at thumbpulling or bonesmashing directly, and there is no complication data specific to Turkey for hair transplants. | Agents set `needs_human_review` instead of forcing sources (the behavior the prompt asks for). | Pending: those scores need a clinician's review. |
+| 6 | 2 | The face dataset said face yoga had "no adverse events reported", but the cited study never mentions safety. The verifier also found 6 more sentences the sources don't back. | The verification report. | Pending: rewrite or cut those sentences. |
+| 7 | 3 | My build prompt assumed DNP has "real evidence of fat loss"; the research graded it 2 (only historical, uncontrolled reports). | The compound agent pointed it out. | The "risk 4 → Avoid first" rule still holds, but the reasoning in the prompt was wrong. |
 | 5 | 3 | Two of the site's own status colors (red #EF4444, blue #3B82F6) fail 4.5:1 as text on the dark background. | The build's contrast check. | Text uses lighter versions with the same hue; borders keep the original tokens. |
