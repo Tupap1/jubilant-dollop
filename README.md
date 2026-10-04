@@ -1,5 +1,7 @@
 # Looksmaxxing Evidence × Risk Map
 
+**Live:** https://tupap1.github.io/jubilant-dollop/
+
 A one-page static tool that places looksmaxxing practices on a grid: how well the community's claim holds up versus how much harm the practice does the way people actually do it.
 It is an unofficial prototype built for [looksmaxxing.guide](https://looksmaxxing.guide) and is not medical advice.
 The prompts that build it, and the decisions behind them, are in [PROMPTS.md](PROMPTS.md).
