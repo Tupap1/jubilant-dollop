@@ -1,0 +1,115 @@
+{
+  "id": "hair-transplant-abroad",
+  "name": "Hair transplant abroad (FUE, Turkey)",
+  "category": "procedure",
+  "claim": "A cheap, all-inclusive FUE hair transplant in Turkey gives a dense, natural, permanent hairline for a fraction of the home-country price.",
+  "claim_source": "https://looksmaxxing.guide/en/looks/looksmaxxing-surgery-turkey/",
+  "evidence": 2,
+  "evidence_rationale": "FUE outcomes have been measured in uncontrolled series, such as over 90% follicle survival in 158 men in China and recipient-area density rising from about 6 to 37 grafts per cm² at nine months in 52 men in India, and a European guideline found no trial comparing transplantation with no transplantation. No study measures results at high-volume package clinics in Turkey (a 2025 review calls the data there a “data black hole”), and the only related numbers come from a surgeon survey in which about 5% of patients came to repair earlier surgery, so the dense, permanent hairline promised for that setting is untested.",
+  "risk_as_practiced": 3,
+  "risk_supervised": 1,
+  "risk_rationale": "The international society of hair restoration surgeons says clinics in Turkey that recruit foreign patients often rely on unlicensed technicians, with depleted donor areas, scarring, unnatural hairlines and infections among the problems its members report encountering. With qualified surgeons, published reviews put overall FUE complication rates at about 1.2-4.7%, mostly minor and self-limited.",
+  "key_harms": [
+    "Over-harvested, permanently thinned donor area",
+    "Permanent pinpoint scarring",
+    "Unnatural hairline or poor growth",
+    "Infection or scalp tissue death (rare)"
+  ],
+  "safer_alternative": "See a dermatologist first about whether medical treatment should come before surgery, then book a hair-restoration surgeon licensed in your own country and confirm in writing that the surgeon personally makes the incisions and removes the grafts. If you do travel, verify credentials and arrange aftercare before you go.",
+  "legal_status": {
+    "US": null,
+    "UK": null,
+    "AU": null,
+    "CA": null
+  },
+  "sources": [
+    {
+      "title": "Complications in follicular unit excision hair transplantation: current evidence and practical approaches",
+      "publisher": "Frontiers in Medicine",
+      "year": 2026,
+      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1750989/full",
+      "type": "review",
+      "supports": "risk_rationale sentence 2 (overall complication rates 1.2-4.7%, mostly mild and self-limited); key_harms items 1 and 2 (donor over-harvesting, permanent scarring)",
+      "verified": true,
+      "verification_note": "Complications review; efficacy is asserted in one introductory sentence (\"natural-looking results\"), not tested. Not specific to Turkey."
+    },
+    {
+      "title": "Buyer Beware: Medical Tourism for Hair Transplants Can Have Costly Consequences",
+      "publisher": "International Society of Hair Restoration Surgery",
+      "year": 2016,
+      "url": "https://ishrs.org/buyer-beware-medical-tourism-for-hair-transplants-can-have-costly-consequences/",
+      "type": "expert-statement",
+      "supports": "risk_rationale sentence 1 (restrictions in Turkey led to illegal clinics where unlicensed technicians perform procedures); safer_alternative (verify credentials and who performs each surgical step)",
+      "verified": true,
+      "verification_note": "Published 18 May 2016, updated 27 Jun 2024. Society advisory/advocacy page, so re-typed from guideline to expert-statement after fact-check."
+    },
+    {
+      "title": "ISHRS Launches Fight the FIGHT Public Awareness Campaign to Combat Fraudulent Hair Restoration Practices Worldwide",
+      "publisher": "International Society of Hair Restoration Surgery",
+      "year": 2019,
+      "url": "https://ishrs.org/ishrs-launches-fight-the-fight-public-awareness-campaign/",
+      "type": "expert-statement",
+      "supports": "risk_rationale sentence 1 (ISHRS members report encountering scarring, unnatural hairlines, poor growth, depleted donor areas and infections after technician-performed procedures); key_harms items 1 to 3",
+      "verified": true,
+      "verification_note": "Content supports the sentence. Title and URL corrected after fact-check: the recorded URL 301-redirects to the page now cited, and the recorded title did not appear on it. The page is a press release (1 Nov 2019), not a guideline, so the type is expert-statement. The problem list is what ISHRS members report encountering."
+    },
+    {
+      "title": "Recipient Site Necrosis After Follicular Unit Excision Technique For Hair Transplantation: Evaluation of 18 Patients",
+      "publisher": "Aesthetic Plastic Surgery",
+      "year": 2024,
+      "url": "https://doi.org/10.1007/s00266-024-04305-6",
+      "type": "case-series",
+      "supports": "key_harms item 4 (recipient-site necrosis is rare but serious; all 18 patients had scarring and graft failure)",
+      "verified": true,
+      "verification_note": "DOI resolves (302 to publisher); abstract read via Europe PMC (PMID 39160404). Retrospective case series of 18 patients."
+    },
+    {
+      "title": "S3 - European Dermatology Forum Guideline for the Treatment of Androgenetic Alopecia in Women and in Men",
+      "publisher": "European Dermatology Forum",
+      "year": 2017,
+      "url": "https://guidelines.edf.one/uploads/attachments/cl262ylye009ulajnpuci9r2i-androgenetic-alopecia-2017-gl.pdf",
+      "type": "guideline",
+      "supports": "evidence_rationale sentence 1 (the guideline found no randomised controlled study comparing hair transplantation with no hair transplantation, and rated only studies of transplantation with or without add-on treatment, at level of evidence 2)",
+      "verified": false
+    },
+    {
+      "title": "Using the follicular unit extraction technique in treatment of male androgenetic alopecia",
+      "publisher": "BMC Surgery",
+      "year": 2024,
+      "url": "https://doi.org/10.1186/s12893-024-02655-1",
+      "type": "cohort",
+      "supports": "evidence_rationale sentence 1 (retrospective series of 158 men: over 90% of transplanted follicles survived, and more than 85% of patients had survival above 95% at 12 months)",
+      "verified": false
+    },
+    {
+      "title": "Hair transplantation by follicular unit extraction for male androgenetic alopecia: A retrospective observational study from two centers",
+      "publisher": "Medical Journal Armed Forces India",
+      "year": 2020,
+      "url": "https://doi.org/10.1016/j.mjafi.2019.11.001",
+      "type": "cohort",
+      "supports": "evidence_rationale sentence 1 (52 men at two hospitals: recipient-area density rose from 6.21 to 36.82 follicular units per cm2 at 9 months)",
+      "verified": false
+    },
+    {
+      "title": "The Allures and the Alarms of the Hair Transplant Tourism Industry",
+      "publisher": "Aesthetic Plastic Surgery",
+      "year": 2025,
+      "url": "https://doi.org/10.1007/s00266-025-05018-0",
+      "type": "review",
+      "supports": "evidence_rationale sentence 2 (the review, using Turkey as its case study, says the industry lacks standardization, oversight and consistent reporting, creating a \"data black hole\", and notes high graft survival only \"in some centers\")",
+      "verified": false
+    },
+    {
+      "title": "2022 Practice Census Results",
+      "publisher": "International Society of Hair Restoration Surgery",
+      "year": 2022,
+      "url": "https://ishrs.org/wp-content/uploads/2022/04/Report-2022-ISHRS-Practice-Census_04-19-22-FINAL.pdf",
+      "type": "cross-sectional",
+      "supports": "evidence_rationale sentence 2 (survey of member surgeons, 197 responses from the 822 members with valid email addresses: patients seeking repair of previous surgery from another physician or a black-market hair transplant were 5.4% of hair restoration patients in 2021)",
+      "verified": false
+    }
+  ],
+  "internal_link": "/en/looks/looksmaxxing-surgery-turkey/",
+  "confidence": "low",
+  "needs_human_review": true
+}

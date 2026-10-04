@@ -7,6 +7,7 @@ Score changes proposed by the verification step (Prompt 2) are applied only afte
 | 2026-10-03 | jawline-gum-jaw-exercisers | risk_supervised | 0 | null | Accepted | No clinician supervises gum chewing or jaw trainers, so there is no legitimate supervised version; same treatment as mewing and thumbpulling. |
 | 2026-10-03 | isotretinoin-unsupervised | evidence | 3 | 2 | **Rejected** | The drug works the same with or without a doctor; what changes without one is the risk, which is already scored (3 as practiced vs 2 supervised). Keeping 3 lands it on "Works — clinician first", which is the right message. "Not worth the risk" would tell readers isotretinoin itself doesn't work, when it is the standard treatment for severe acne. |
 | 2026-10-03 | tanning-beds | risk_as_practiced | 3 | 4 | Kept at 3 | Raised by the research agent, not proposed by the verifier. The deaths are population-level estimates, not deaths at typical individual use. |
+| 2026-10-03 | hair-transplant-abroad | evidence | 2 | 2 | Kept, now sourced | Rubric 2 covers "evidence only in a different population": FUE works in hospital series, but nothing measures Turkey package clinics. Lowering to 1 would treat real series as testimonials. |
 
 ## Other decisions
 

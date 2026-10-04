@@ -516,7 +516,7 @@
       "claim": "A cheap, all-inclusive FUE hair transplant in Turkey gives a dense, natural, permanent hairline for a fraction of the home-country price.",
       "claim_source": "https://looksmaxxing.guide/en/looks/looksmaxxing-surgery-turkey/",
       "evidence": 2,
-      "evidence_rationale": "FUE is described as the most widely used transplant technique and as giving natural-looking results, but the cited review states this in passing rather than testing it, and no controlled trial of transplantation against no treatment was found. Nothing tests the specific claim that high-volume package clinics abroad deliver comparable density and safety.",
+      "evidence_rationale": "FUE outcomes have been measured in uncontrolled series, such as a mean follicle survival of about 91% in 158 men in China and recipient-area density rising from about 6 to 37 follicular units per cm² at nine months in 52 men in India, and the 2017 European guideline found no randomised controlled trial comparing transplantation with no transplantation. Outcome data from high-volume package clinics in Turkey are scarce and not standardised (a 2025 narrative review of hair transplant tourism, with Turkey as its case study, calls this a \"data black hole\"), and a survey of ISHRS member surgeons found that, on average, about 5% of their patients came for repair of earlier surgery by another doctor or a black-market clinic (it does not mention Turkey), so the dense, permanent hairline promised for that setting is not backed by outcome data.",
       "risk_as_practiced": 3,
       "risk_supervised": 1,
       "risk_rationale": "The international society of hair restoration surgeons says clinics in Turkey that recruit foreign patients often rely on unlicensed technicians, with depleted donor areas, scarring, unnatural hairlines and infections among the problems its members report encountering. With qualified surgeons, published reviews put overall FUE complication rates at about 1.2-4.7%, mostly minor and self-limited.",
@@ -540,7 +540,7 @@
           "year": 2026,
           "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1750989/full",
           "type": "review",
-          "supports": "evidence_rationale sentence 1 (FUE most widely used, natural-looking results); risk_rationale sentence 2 (overall complication rates 1.2-4.7%, mostly mild and self-limited); key_harms items 1 and 2 (donor over-harvesting, permanent scarring)",
+          "supports": "risk_rationale sentence 2 (overall complication rates 1.2-4.7%, mostly mild and self-limited); key_harms items 1 and 2 (donor over-harvesting, permanent scarring)",
           "verified": true,
           "verification_note": "Complications review; efficacy is asserted in one introductory sentence (\"natural-looking results\"), not tested. Not specific to Turkey."
         },
@@ -573,6 +573,56 @@
           "supports": "key_harms item 4 (recipient-site necrosis is rare but serious; all 18 patients had scarring and graft failure)",
           "verified": true,
           "verification_note": "DOI resolves (302 to publisher); abstract read via Europe PMC (PMID 39160404). Retrospective case series of 18 patients."
+        },
+        {
+          "title": "S3 - European Dermatology Forum Guideline for the Treatment of Androgenetic Alopecia in Women and in Men",
+          "publisher": "European Dermatology Forum",
+          "year": 2017,
+          "url": "https://guidelines.edf.one/uploads/attachments/cl262ylye009ulajnpuci9r2i-androgenetic-alopecia-2017-gl.pdf",
+          "type": "guideline",
+          "supports": "evidence_rationale sentence 1 (the guideline found no randomised controlled study comparing hair transplantation with no hair transplantation, and rated only studies of transplantation with or without add-on treatment, at level of evidence 2)",
+          "verified": true,
+          "verification_note": "PDF fetched (HTTP 200) and read with pdftotext. Section 3.4.3 says there were \"no randomised controlled studies (RCT) comparing hair transplantation versus no hair transplantation\"; only 4 studies (with or without add-on treatment) met inclusion, giving level of evidence 2 on the guideline's own scale. The literature search ended 15 Oct 2015; the PDF prints no year (filename says 2017, expiry 06/2020). The rationale's \"no trial\" should read \"no randomised controlled trial\"."
+        },
+        {
+          "title": "Using the follicular unit extraction technique in treatment of male androgenetic alopecia",
+          "publisher": "BMC Surgery",
+          "year": 2024,
+          "url": "https://doi.org/10.1186/s12893-024-02655-1",
+          "type": "case-series",
+          "supports": "evidence_rationale sentence 1 (retrospective, uncontrolled series of 158 men: mean follicle survival 91%, range 89-95%, estimated from photographs)",
+          "verified": true,
+          "verification_note": "DOI resolves; abstract read via NCBI efetch (PMID 39543552), full text via Europe PMC (PMC11566358). Retrospective single-centre series in Xi'an, China: follicle survival over 90% in 158 men (Table 3: mean 91%, range 89-95%, estimated from photographs; authors say counting is subjective). The abstract's \"more than 85% of patients above 95% at 12 months\" is not in the body and conflicts with Table 3, so drop it from supports. Typed cohort, but it is an uncontrolled case series."
+        },
+        {
+          "title": "Hair transplantation by follicular unit extraction for male androgenetic alopecia: A retrospective observational study from two centers",
+          "publisher": "Medical Journal Armed Forces India",
+          "year": 2020,
+          "url": "https://doi.org/10.1016/j.mjafi.2019.11.001",
+          "type": "case-series",
+          "supports": "evidence_rationale sentence 1 (52 men at two hospitals: recipient-area density rose from 6.21 to 36.82 follicular units per cm2 at 9 months)",
+          "verified": true,
+          "verification_note": "DOI resolves; abstract read via NCBI efetch (PMID 33162652), full text from the PMC7606102 page. 52 men, two hospitals in India, recipient-area density 6.21 to 36.82 follicular units per cm2 at 9 months (mean gain 30.61), by trichoscopy and photographs; retrospective, no control group. It measures follicular units per cm2, not grafts placed. Typed cohort, but it is an uncontrolled case series."
+        },
+        {
+          "title": "The Allures and the Alarms of the Hair Transplant Tourism Industry",
+          "publisher": "Aesthetic Plastic Surgery",
+          "year": 2025,
+          "url": "https://doi.org/10.1007/s00266-025-05018-0",
+          "type": "review",
+          "supports": "evidence_rationale sentence 2 (the review, using Turkey as its case study, says the industry lacks standardization, oversight and consistent reporting, creating a \"data black hole\", and says the industry can offer high graft survival \"in some centers\")",
+          "verified": true,
+          "verification_note": "DOI resolves (publisher cookie redirect followed). Abstract only was read (NCBI efetch PMID 40660034 and the publisher page); the full text is paywalled. Quote confirmed: the industry is \"lacking standardization, oversight, and consistent reporting, creating a 'data black hole'\", with Turkey as the case study. Level of Evidence V narrative review. The same abstract says the industry \"can offer effective solutions and high graft survival in some centers\"; \"only\" in supports is a gloss. It does not say that no study exists."
+        },
+        {
+          "title": "2022 Practice Census Results",
+          "publisher": "International Society of Hair Restoration Surgery",
+          "year": 2022,
+          "url": "https://ishrs.org/wp-content/uploads/2022/04/Report-2022-ISHRS-Practice-Census_04-19-22-FINAL.pdf",
+          "type": "cross-sectional",
+          "supports": "evidence_rationale sentence 2 (survey of member surgeons, 197 responses from the 822 members with valid email addresses: on average, patients seeking repair of previous surgery from another physician or a black-market hair transplant were about 5% of their hair restoration patients; the report does not mention Turkey)",
+          "verified": true,
+          "verification_note": "PDF fetched (HTTP 200) and read with pdftotext. 5.4% is the item \"repair of previous surgery from another physician / black market hair transplant\" (chart \"Percent Hair Restoration Patients by Treatment Need\", n=157); Appendix A says such figures can be the average percent reported by respondents. 197 responses from 822 valid invitations (24%) is correct. The year 2021 is not stated for this item. The survey is global and never mentions Turkey, so it says nothing about package clinics."
         }
       ],
       "internal_link": "/en/looks/looksmaxxing-surgery-turkey/",

@@ -142,3 +142,14 @@ Edits beyond the literal list of report items (editor consistency fixes, all log
 Open points for the owner
 - hair-transplant-abroad evidence is still 2 (owner decision). Its rationale used to rest on "the supporting data are uncontrolled series", which no cited source says; that wording is gone, so no cited source now tests efficacy. A brief PubMed search for a fetched FUE efficacy review found nothing suitable, so none was added.
 - PROMPTS.md (not edited, per instruction) still says "consistent 7-9 h sleep" in the Prompt 1 practice list and lists seven source types; its iteration log marks the type-list change as pending.
+
+## Follow-up fix: hair-transplant-abroad (2026-10-03)
+
+Research agent found efficacy sources (`data/fixes/hair-transplant-abroad.json`); a separate verifier checked them (`data/verification/hair-transplant-abroad-fix.md`) and corrected the wording. Applied:
+
+| file | practice id | field | before | after | reason |
+|---|---|---|---|---|---|
+| procedure.json | hair-transplant-abroad | evidence_rationale | Said FUE "is described as giving natural-looking results" with no study testing it | Cites two uncontrolled FUE series (158 men, mean follicle survival ~91%; 52 men, ~6 to 37 follicular units/cm² at 9 months), the 2017 European guideline (no RCT vs no transplant), the 2025 "data black hole" review on Turkey, and the ISHRS repair survey | No cited source measured efficacy; verifier's corrected wording |
+| procedure.json | hair-transplant-abroad | sources | 4 sources | 9 sources (5 added, all verified) | New efficacy and setting evidence |
+| procedure.json | hair-transplant-abroad | sources[5..6].type | cohort | case-series | Uncontrolled retrospective series |
+| procedure.json | hair-transplant-abroad | sources[5,7,8].supports | Overstated (85% clause, "only", "in 2021") | Matches the source text | Verifier report |
